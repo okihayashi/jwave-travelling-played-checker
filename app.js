@@ -44,14 +44,17 @@ function byDateThenTrack(a, b) {
 
 function highlight(value, query) {
   const text = String(value || "");
-  const q = query.trim();
-  if (!q || q.length < 2) return escapeHtml(text);
+  const candidates = searchVariants(query).sort((a, b) => b.length - a.length);
+  if (!candidates.length || candidates[0].length < 2) return escapeHtml(text);
 
   const lower = text.toLowerCase();
-  const index = lower.indexOf(q.toLowerCase());
+  const match = candidates.find((candidate) => lower.includes(candidate));
+  if (!match) return escapeHtml(text);
+
+  const index = lower.indexOf(match);
   if (index < 0) return escapeHtml(text);
 
-  return `${escapeHtml(text.slice(0, index))}<mark>${escapeHtml(text.slice(index, index + q.length))}</mark>${escapeHtml(text.slice(index + q.length))}`;
+  return `${escapeHtml(text.slice(0, index))}<mark>${escapeHtml(text.slice(index, index + match.length))}</mark>${escapeHtml(text.slice(index + match.length))}`;
 }
 
 function escapeHtml(value) {
