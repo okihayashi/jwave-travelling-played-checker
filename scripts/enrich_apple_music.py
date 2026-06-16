@@ -29,6 +29,10 @@ class RateLimitedError(RuntimeError):
     pass
 
 
+class SearchError(RuntimeError):
+    pass
+
+
 def normalize(value: str) -> str:
     value = unicodedata.normalize("NFKC", value or "").lower()
     value = re.sub(r"[’‘`´]", "'", value)
@@ -128,7 +132,7 @@ def find_best_match(title: str, artist: str) -> dict[str, Any]:
         except RateLimitedError:
             raise
         except Exception as exc:
-            return {"status": "error", "error": str(exc)}
+            raise SearchError(str(exc)) from exc
 
         for result in results:
             confidence = score_result(title, artist, result)
@@ -236,7 +240,7 @@ def main(argv: Iterable[str]) -> int:
     for index, key in enumerate(keys, start=1):
         title, artist = unique_tracks[key]
         cached_status = cache.get(key, {}).get("status")
-        if not force and key in cache and not (retry_errors and cached_status == "error"):
+        if not force and key in cache and cached_status != "error":
             continue
         if max_new is not None and attempted >= max_new:
             break
@@ -246,6 +250,9 @@ def main(argv: Iterable[str]) -> int:
         except RateLimitedError as exc:
             print(f"Stopping early: {exc}", file=sys.stderr)
             break
+        except SearchError as exc:
+            cache.pop(key, None)
+            print(f"Skipping transient search error for {artist} - {title}: {exc}", file=sys.stderr)
         attempted += 1
         if index % 25 == 0:
             save_cache(cache)
