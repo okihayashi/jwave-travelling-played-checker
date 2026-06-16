@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Travelling Without Moving Played Checker</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="search-panel">
+        <div>
+          <p class="eyebrow">J-WAVE 81.3 FM</p>
+          <h1>Travelling Without Moving</h1>
+        </div>
+
+        <div class="search-box">
+          <input id="query" type="search" placeholder="Search song or artist" autocomplete="off" autofocus>
+          <button id="clear" type="button" aria-label="Clear search">×</button>
+        </div>
+
+        <div class="stats" id="stats"></div>
+      </section>
+
+      <section class="answer" id="answer" aria-live="polite"></section>
+
+      <section class="results" id="results"></section>
+    </main>
+
+    <script src="data/tracks.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
