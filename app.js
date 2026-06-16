@@ -58,7 +58,9 @@ function formatTheme(theme) {
 function renderStats() {
   const first = data.episodes[0]?.date?.replaceAll(".", "-") || "";
   const last = data.episodes.at(-1)?.date?.replaceAll(".", "-") || "";
-  stats.innerHTML = `${data.track_count.toLocaleString()} tracks<br>${data.episode_count.toLocaleString()} episodes<br>${first} to ${last}`;
+  const appleMatches = data.apple_music?.matched_track_count;
+  const appleLine = Number.isFinite(appleMatches) ? `<br>${appleMatches.toLocaleString()} Apple Music links` : "";
+  stats.innerHTML = `${data.track_count.toLocaleString()} tracks<br>${data.episode_count.toLocaleString()} episodes<br>${first} to ${last}${appleLine}`;
 }
 
 function renderAnswer(query, matches) {
@@ -108,6 +110,9 @@ function renderResults(query, matches) {
 function renderCard(track, query) {
   const isExact = query && exactSongMatch(track, query);
   const theme = formatTheme(track.episode_theme);
+  const appleLink = track.apple_music_url
+    ? `<a href="${escapeHtml(track.apple_music_url)}" target="_blank" rel="noreferrer" title="${escapeHtml(formatAppleTitle(track))}">Apple Music</a>`
+    : "";
   return `
     <article class="card ${isExact ? "match-song" : ""}">
       <div class="track-line">
@@ -120,10 +125,17 @@ function renderCard(track, query) {
       <div class="meta">
         <span>${escapeHtml(track.episode_date.replaceAll(".", "-"))}</span>
         <a href="${escapeHtml(track.episode_url)}" target="_blank" rel="noreferrer">episode</a>
+        ${appleLink}
       </div>
       ${theme ? `<div class="theme">${escapeHtml(theme)}</div>` : ""}
     </article>
   `;
+}
+
+function formatAppleTitle(track) {
+  if (!track.apple_music_track_name) return "Open in Apple Music";
+  const album = track.apple_music_album_name ? `, ${track.apple_music_album_name}` : "";
+  return `${track.apple_music_track_name} - ${track.apple_music_artist_name}${album}`;
 }
 
 function scoreTrack(track, query) {
