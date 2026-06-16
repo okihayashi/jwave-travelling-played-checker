@@ -25,6 +25,10 @@ COUNTRIES = ("US", "JP")
 MIN_CONFIDENCE = 78
 
 
+class RateLimitedError(RuntimeError):
+    pass
+
+
 def normalize(value: str) -> str:
     value = unicodedata.normalize("NFKC", value or "").lower()
     value = re.sub(r"[’‘`´]", "'", value)
@@ -80,8 +84,10 @@ def fetch_json(url: str, retries: int = 4) -> dict[str, Any]:
             with urlopen(request, timeout=20) as response:
                 return json.loads(response.read().decode("utf-8"))
         except HTTPError as exc:
-            if exc.code not in {403, 429} or attempt == retries:
+            if exc.code not in {403, 429}:
                 raise
+            if attempt == retries:
+                raise RateLimitedError(f"Apple Music search rate-limited with HTTP {exc.code}") from exc
             time.sleep(attempt * 8)
     raise RuntimeError(f"Failed to fetch {url}")
 
@@ -119,6 +125,8 @@ def find_best_match(title: str, artist: str) -> dict[str, Any]:
     for country in COUNTRIES:
         try:
             results = search_itunes(title, artist, country)
+        except RateLimitedError:
+            raise
         except Exception as exc:
             return {"status": "error", "error": str(exc)}
 
@@ -190,23 +198,26 @@ def write_outputs(payload: dict[str, Any]) -> None:
         writer.writerows(tracks)
 
 
-def parse_args(argv: Iterable[str]) -> tuple[int | None, float, bool, bool]:
+def parse_args(argv: Iterable[str]) -> tuple[int | None, int | None, float, bool, bool]:
     args = list(argv)
     limit = None
+    max_new = None
     sleep_seconds = 0.35
     force = "--force" in args
     retry_errors = "--retry-errors" in args
 
     if "--limit" in args:
         limit = int(args[args.index("--limit") + 1])
+    if "--max-new" in args:
+        max_new = int(args[args.index("--max-new") + 1])
     if "--sleep" in args:
         sleep_seconds = float(args[args.index("--sleep") + 1])
 
-    return limit, sleep_seconds, force, retry_errors
+    return limit, max_new, sleep_seconds, force, retry_errors
 
 
 def main(argv: Iterable[str]) -> int:
-    limit, sleep_seconds, force, retry_errors = parse_args(argv)
+    limit, max_new, sleep_seconds, force, retry_errors = parse_args(argv)
     payload = json.loads(TRACKS_JSON.read_text(encoding="utf-8"))
     tracks = payload.get("tracks", [])
     cache = load_cache()
@@ -221,13 +232,21 @@ def main(argv: Iterable[str]) -> int:
     if limit:
         keys = keys[:limit]
 
+    attempted = 0
     for index, key in enumerate(keys, start=1):
         title, artist = unique_tracks[key]
         cached_status = cache.get(key, {}).get("status")
         if not force and key in cache and not (retry_errors and cached_status == "error"):
             continue
+        if max_new is not None and attempted >= max_new:
+            break
         print(f"[{index}/{len(keys)}] {artist} - {title}", file=sys.stderr)
-        cache[key] = find_best_match(title, artist)
+        try:
+            cache[key] = find_best_match(title, artist)
+        except RateLimitedError as exc:
+            print(f"Stopping early: {exc}", file=sys.stderr)
+            break
+        attempted += 1
         if index % 25 == 0:
             save_cache(cache)
         time.sleep(sleep_seconds)

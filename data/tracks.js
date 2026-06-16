@@ -3735,11 +3735,11 @@ window.TWM_DATA = {
       "artist": "Vanessa Paradis",
       "raw_title": "♪ Dis Lui Toi Que Je T'aime / Vanessa Paradis",
       "notes": "フランスの女性シンガー、ヴァネッサ・パラディによる1994年リリースのライヴ・アルバムから。彼女は1992年にレニー・クラヴィッツをプロデューサーに迎えたアルバム『Be My Baby』が世界的に大ヒットを記録しています。なお、ジョニー・デップとの間に２人の子供も！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dis-lui-toi-que-je-taime/1485763165?i=1485763170&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dis lui toi que je t'aime",
+      "apple_music_artist_name": "Vanessa Paradis",
+      "apple_music_album_name": "Best Of & Variations"
     },
     {
       "episode_date": "2014.11.09",
@@ -3750,11 +3750,11 @@ window.TWM_DATA = {
       "artist": "Malcolm McLaren",
       "raw_title": "♪ Revenge Of The Flowers / Malcolm McLaren",
       "notes": "多彩な才能を持ったイギリス人アーティスト、マルコム・マクラーレンが「パリ」をテーマにした1994年のアルバム『Paris(en)』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/revenge-of-the-flowers/1746123316?i=1746124383&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Revenge of the Flowers",
+      "apple_music_artist_name": "Malcolm McLaren & Françoise Hardy",
+      "apple_music_album_name": "Paris"
     },
     {
       "episode_date": "2014.11.09",
@@ -3810,11 +3810,11 @@ window.TWM_DATA = {
       "artist": "The Paradise",
       "raw_title": "♪ In Love With You / The Paradise",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/in-love-with-you-feat-romuald-alan-braxe-remix/1555733480?i=1555733774&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "In Love with you (feat. Romuald) [Alan Braxe Remix]",
+      "apple_music_artist_name": "The Paradise",
+      "apple_music_album_name": "In Love with You (Alan Braxe Remix) [feat. Romuald] - Single"
     },
     {
       "episode_date": "2014.11.09",
@@ -3825,11 +3825,11 @@ window.TWM_DATA = {
       "artist": "The Doors",
       "raw_title": "♪ Riders On The Storm / The Doors",
       "notes": "1960年代中期から70年代初頭にかけて活躍したアメリカの伝説的ロック・バンド、ザ・ドアーズ。1971年リリースのアルバム『L.A.Woman』はドアーズのヴォーカリストで、詩人のジム・モリソンが参加した最後の作品となっています。なお、彼のお墓はパリにあります。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/riders-on-the-storm/640047463?i=640047752&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Riders On the Storm",
+      "apple_music_artist_name": "The Doors",
+      "apple_music_album_name": "The Very Best of The Doors"
     },
     {
       "episode_date": "2014.11.16",
@@ -3840,11 +3840,11 @@ window.TWM_DATA = {
       "artist": "Phoenix",
       "raw_title": "Love Like A Sunset (Part1 & Part2) / Phoenix",
       "notes": "フランスのヴェルサイユで結成された4人組のオルタナティヴ系ロック・バンド、フェニックス。この曲は2009年のアルバム『Wolfgang Amadeus Phoenix』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-like-a-sunset-turzi-remix/1773429880?i=1773430256&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Love Like a Sunset (Turzi Remix)",
+      "apple_music_artist_name": "Phoenix",
+      "apple_music_album_name": "Wolfgang Amadeus Phoenix (Remix Collection)"
     },
     {
       "episode_date": "2014.11.16",
@@ -3855,11 +3855,11 @@ window.TWM_DATA = {
       "artist": "Leon Russel",
       "raw_title": "A Song For You / Leon Russel",
       "notes": "1960年代後期から現在に至るまで、ソロ・アーティストして活躍しているアメリカのシンガーソング・ライターでキーボード・プレーヤーのレオン・ラッセル。「A Song For You」は彼の代表曲で、1970年の作品… アメリカではWedding の超定番曲となっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-song-for-you-remastered-95/723444658?i=723444743&uo=4",
+      "apple_music_confidence": 95,
+      "apple_music_track_name": "A Song for You (Remastered 95)",
+      "apple_music_artist_name": "Leon Russell",
+      "apple_music_album_name": "Retrospective"
     },
     {
       "episode_date": "2014.11.16",
@@ -3885,11 +3885,11 @@ window.TWM_DATA = {
       "artist": "Lemon Jelly",
       "raw_title": "Come / Lemon Jelly",
       "notes": "DJとプログラマーの２人からなるイギリスのユニット、レモン・ジェリー。この曲「Come」は1998年から2000年の間にリリースされたEPの音源を１枚に収めたミニ・アルバム『lemonjelly.ky』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/come/1027469593?i=1027470034&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Come",
+      "apple_music_artist_name": "Lemon Jelly",
+      "apple_music_album_name": "Lemonjelly.ky"
     },
     {
       "episode_date": "2014.11.16",
@@ -3900,11 +3900,11 @@ window.TWM_DATA = {
       "artist": "John Lennon",
       "raw_title": "Grow Old With Me / John Lennon",
       "notes": "永遠不朽の名盤『Milk & Honey』収録曲。録音は1980年で、同年に亡くなった後、1984年にリリースされたアルバム… でも・ヴァージョンの様な仕上がりがかえってリアルな雰囲気を醸し出しています。この曲もWeddingにピッタリの歌詞です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/grow-old-with-me/1440854002?i=1440854557&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Grow Old With Me",
+      "apple_music_artist_name": "John Lennon",
+      "apple_music_album_name": "Milk and Honey"
     },
     {
       "episode_date": "2014.11.16",
@@ -3915,11 +3915,11 @@ window.TWM_DATA = {
       "artist": "Arthur Russell",
       "raw_title": "A Little Lost / Arthur Russell",
       "notes": "アメリカ出身のチェリスト、作曲、シンガーで、クラシックからニュー・エイジ、フォーク、ロックなど幅広いジャンルで活躍しているアーティスト、アーサー・ラッセル。訓市はコペンハーゲンで催された知人のWeddingでこの曲のカバーした生演奏を聴いて感激した・・・とか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-little-lost/1554111548?i=1554111822&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Little Lost",
+      "apple_music_artist_name": "Arthur Russell",
+      "apple_music_album_name": "Another Thought"
     },
     {
       "episode_date": "2014.11.16",
@@ -3960,11 +3960,11 @@ window.TWM_DATA = {
       "artist": "Joe Cocker",
       "raw_title": "You Are So Beautiful / Joe Cocker",
       "notes": "ブルース・フィッシャー、デニス・ウィルソン、ビリー・プレストンの共作による永遠の名曲！初レコーディングはビリー・プレストンで、1975年に世界的大ヒットを記録したのがジョー・コッカーのヴァージョンです。タイトルからも明らかですが、コテコテの歌詞がWeddingにピッタリ！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/you-are-so-beautiful/1443911749?i=1443912614&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "You Are So Beautiful",
+      "apple_music_artist_name": "Joe Cocker",
+      "apple_music_album_name": "I Can Stand a Little Rain"
     },
     {
       "episode_date": "2014.11.23",
@@ -3975,11 +3975,11 @@ window.TWM_DATA = {
       "artist": "Peter, Paul & Mary",
       "raw_title": "♪ 500 Miles / Peter, Paul & Mary",
       "notes": "男性シンガーのピーターとポール、女性シンガーのマリーからなるアメリカ出身の3人組で、1960年代に世界的に絶大な人気を誇りました。「フォークソング」と呼ばれるジャンル、アコースティック・ギターの奏法に関して、影響を受けた日本人ミュージシャンも数多く存在します。「500 Miles」は1962年にリリースされた記念すべきファースト・アルバムに収録されています。電車で乗り過ごして、家から500マイルも離れてしまった・・・という歌詞。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/500-miles/79029971?i=79029766&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "500 Miles",
+      "apple_music_artist_name": "Peter, Paul & Mary",
+      "apple_music_album_name": "The Very Best of Peter, Paul and Mary"
     },
     {
       "episode_date": "2014.11.23",
@@ -3990,11 +3990,11 @@ window.TWM_DATA = {
       "artist": "Ulrich Schnauss",
       "raw_title": "♪ Far Away Trains Passing By / Ulrich Schnauss",
       "notes": "ドイツ出身のエレクトロニカ系アーティスト、ウルリッヒ・シュナウス。2001年にリリースされたファースト・アルバムのタイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/far-away-trains-passing-by-remastered-version/446441621?i=446441624&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Far Away Trains Passing By (Remastered Version)",
+      "apple_music_artist_name": "Ulrich Schnauss",
+      "apple_music_album_name": "Comfort Zone 07 - Luxury Downtempo New Grooves (Ibiza Edition)"
     },
     {
       "episode_date": "2014.11.23",
@@ -4005,11 +4005,11 @@ window.TWM_DATA = {
       "artist": "Oleta Adams",
       "raw_title": "♪ Get Here / Oleta Adams",
       "notes": "アメリカ出身の女性ヴォーカリストで、イギリスのグループ【ティアーズ・フォー・フィアーズ】のメンバーとなり注目を集める。脱退後、ソロ活動をスタートし、1990年にアルバム『Circle Of One』をリリース！ここに収録された部連打・ラッセルのカバー・ヴァージョン「Get Here」が全米で代ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/get-here/1443998239?i=1443998448&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Get Here",
+      "apple_music_artist_name": "Oleta Adams",
+      "apple_music_album_name": "Circle of One"
     },
     {
       "episode_date": "2014.11.23",
@@ -4020,11 +4020,11 @@ window.TWM_DATA = {
       "artist": "Pat Metheny",
       "raw_title": "♪ Last Train Home / Pat Metheny",
       "notes": "「Train」をテーマにしたインストゥルメンタルの名曲「Last Train Home」。J-WAVE開局とともにスタートした番組『PAZZ & JOPS』のエンディング・テーマ曲としても使われていました。ギタリストのパット・メセニーがブラジリアン・ミュージックに傾倒していた時期の名作『Still Life』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/last-train-home/1861838838?i=1861839233&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Last Train Home",
+      "apple_music_artist_name": "Pat Metheny",
+      "apple_music_album_name": "One Quiet Night"
     },
     {
       "episode_date": "2014.11.23",
@@ -4035,11 +4035,11 @@ window.TWM_DATA = {
       "artist": "矢野顕子",
       "raw_title": "♪ 中央線 / 矢野顕子",
       "notes": "THE BOOMの宮沢和史の作詞・作曲による作品のカバー・ヴァージョンで、1992年のアルバム『Super Folk Song』に収録されています。訓市はこの曲をアムステルダム滞在中に初めて耳にして、深く感銘を受けたとか...",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E4%B8%AD%E5%A4%AE%E7%B7%9A/1536770265?i=1536770278&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "中央線",
+      "apple_music_artist_name": "矢野顕子",
+      "apple_music_album_name": "SUPER FOLK SONG"
     },
     {
       "episode_date": "2014.11.23",
@@ -4050,11 +4050,11 @@ window.TWM_DATA = {
       "artist": "Kings Of Convenience",
       "raw_title": "♪ The Build Up / Kings Of Convenience",
       "notes": "ノルウェー出身の男性デュオ【キングス・オブ・コンビニエンス】がカナダの女性ヴォーカリスト【ファイスト】をゲストに迎えた曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-build-up/1663661508?i=1663661810&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Build Up",
+      "apple_music_artist_name": "Feist & Kings of Convenience",
+      "apple_music_album_name": "Riot On an Empty Street"
     },
     {
       "episode_date": "2014.11.23",
@@ -4080,11 +4080,11 @@ window.TWM_DATA = {
       "artist": "Swing Out Sister",
       "raw_title": "♪ Now You're Not Here / Swing Out Sister",
       "notes": "イギリスの女性シンガー【コリーン】とキーボードの【アンディ】の男女２人からなるスウィング・アウト・シシター（3人組だった時期も）。1990年代に日本でも絶大な人気を誇り、この曲はに本のテレビドラマの為に彼らが書き下ろしたもので、1996年に日本のみでリリースされ、洋楽としては異例の大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/now-youre-not-here/1443873515?i=1443873754&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Now You're Not Here",
+      "apple_music_artist_name": "Swing Out Sister",
+      "apple_music_album_name": "Shapes and Patterns"
     },
     {
       "episode_date": "2014.11.23",
@@ -4095,11 +4095,11 @@ window.TWM_DATA = {
       "artist": "The Clash",
       "raw_title": "♪ Train In Vain / The Clash",
       "notes": "1970年代半ばから80年代かけて活躍したイギリスの伝説的パンク・ロック・バンド【ザ・クラッシュ】。1979年にリリースされた3枚目のアルバム『London Calling』は彼らの存在を確立した代表作です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/train-in-vain/267986379?i=267986466&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Train In Vain",
+      "apple_music_artist_name": "The Clash",
+      "apple_music_album_name": "London Calling (Expanded Edition)"
     },
     {
       "episode_date": "2014.11.30",
@@ -4110,11 +4110,11 @@ window.TWM_DATA = {
       "artist": "Ry Cooder",
       "raw_title": "♪ Dark End Of The Street / Ry Cooder",
       "notes": "スライド・ギターの名手【ライ・クーダー】のパフォーマンス... オリジナルは1967年にソウル・シンガーの【ジェームス・カー】が収録。クーダーのヴォージョンはアルバム『流れ者の物語』に収めれています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dark-end-of-the-street/273949938?i=273949959&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dark End of the Street",
+      "apple_music_artist_name": "Ry Cooder",
+      "apple_music_album_name": "Boomer's Story"
     },
     {
       "episode_date": "2014.11.30",
@@ -4125,11 +4125,11 @@ window.TWM_DATA = {
       "artist": "All Saints",
       "raw_title": "♪ Pure Shores / All Saints",
       "notes": "レオナルド・ディカプリオ主演による2000年の映画『The Beach』の主題歌。タイを舞台に夢の楽園を探す... というストーリー。オール・セインツはイギリス出身の女性4人組です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pure-shores/1449977999?i=1449978573&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Pure Shores",
+      "apple_music_artist_name": "All Saints",
+      "apple_music_album_name": "Radio Pop Hits 00s"
     },
     {
       "episode_date": "2014.11.30",
@@ -4140,11 +4140,11 @@ window.TWM_DATA = {
       "artist": "Orbital",
       "raw_title": "♪ Belfast / Orbital",
       "notes": "イギリスのエレクトリック・ダンス系のデュオ【オービタル】... 1993年リリースのアルバム『Orbital 2』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/belfast/1313447481?i=1313447495&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Belfast",
+      "apple_music_artist_name": "Orbital",
+      "apple_music_album_name": "Orbital"
     },
     {
       "episode_date": "2014.11.30",
@@ -4155,11 +4155,11 @@ window.TWM_DATA = {
       "artist": "Robert Flipp & Brian Eno",
       "raw_title": "♪ Evening Star / Robert Flipp & Brian Eno",
       "notes": "イギリスのミュージシャン２人、【ロバート・フリップ】と【ブライアン・イーノ】によるデュオ作から。リリースは1975年です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/evening-star/1477532178?i=1477532181&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Evening Star",
+      "apple_music_artist_name": "Robert Fripp & Brian Eno",
+      "apple_music_album_name": "Evening Star"
     },
     {
       "episode_date": "2014.11.30",
@@ -4170,11 +4170,11 @@ window.TWM_DATA = {
       "artist": "Taxi",
       "raw_title": "♪ Campari Soda / Taxi",
       "notes": "選曲のストーリーは番組で...",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/campari-soda/1648668180?i=1648668186&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Campari Soda",
+      "apple_music_artist_name": "Taxi",
+      "apple_music_album_name": "Campari Soda - Single"
     },
     {
       "episode_date": "2014.11.30",
@@ -4185,11 +4185,11 @@ window.TWM_DATA = {
       "artist": "10CC",
       "raw_title": "♪ I'm Not In Love / 10CC",
       "notes": "【グレアム・グールドマン】と【ケヴィン・ゴドレイ】を中心としたイギリスのグループ、10CC。「I'm Not In Love」は日本でも大ヒットを記録した、彼らの代表曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-not-in-love/1527749933?i=1527750246&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm Not In Love",
+      "apple_music_artist_name": "10cc",
+      "apple_music_album_name": "With Love From PolyGram 50th Anniversary"
     },
     {
       "episode_date": "2014.11.30",
@@ -4200,11 +4200,11 @@ window.TWM_DATA = {
       "artist": "Air",
       "raw_title": "♪ New Star In The Sky / Air",
       "notes": "フランス出身のデュオ【エール】が1998年にリリースしたアルバム『Moon Safari』に収録された曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/new-star-in-the-sky/693063670?i=693064052&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "New Star In the Sky",
+      "apple_music_artist_name": "Air",
+      "apple_music_album_name": "Moon Safari"
     },
     {
       "episode_date": "2014.11.30",
@@ -4215,11 +4215,11 @@ window.TWM_DATA = {
       "artist": "Pogues",
       "raw_title": "♪ Summer In Siam / Pogues",
       "notes": "UK出身のアーティスト【シェイン・マクゴーワン】をリーダーとしたグループ、ザ・ポーグス。1990年のアルバム『Hell's Ditch』から...",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/summer-in-siam/189232803?i=189232939&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "Summer In Siam",
+      "apple_music_artist_name": "The Pogues",
+      "apple_music_album_name": "Hell's Ditch (Expanded Edition)"
     },
     {
       "episode_date": "2014.11.30",
@@ -4230,11 +4230,11 @@ window.TWM_DATA = {
       "artist": "Deniece Williams",
       "raw_title": "♪ Free / Deniece Williams",
       "notes": "アース・ウィンド＆ファイアーのリーダー【モーリス・ホワイト】と、敏腕の【チャールス・ステップニー】がプロデュースを手掛けた1976年の大ヒット曲。【デニース・ウィリアムス】は、この曲を始め、数多くのヒットを放ったアメリカの女性R&Bシンガーです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/free/170528113?i=170528258&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Free",
+      "apple_music_artist_name": "Deniece Williams",
+      "apple_music_album_name": "Gonna Take a Miracle: The Best of Deniece Williams"
     },
     {
       "episode_date": "2014.12.07",
@@ -4260,11 +4260,11 @@ window.TWM_DATA = {
       "artist": "The National",
       "raw_title": "About Today / The National",
       "notes": "ザル・マトバングリ監督による2013年のスリラー映画『The East』のサントラから... The Nationalはアメリカのインディーズ系の5人組ロック・バンドです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/about-today/1491416471?i=1491416887&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "About Today",
+      "apple_music_artist_name": "The National",
+      "apple_music_album_name": "Cherry Tree"
     },
     {
       "episode_date": "2014.12.07",
@@ -4290,11 +4290,11 @@ window.TWM_DATA = {
       "artist": "Karen O & Ezra Koenig",
       "raw_title": "The Moon Song / Karen O & Ezra Koenig",
       "notes": "訓市がプライベートでも親しくしているスパイク・ジョーンズが監督・脚本を手掛けた2013年の映画『Her / 世界でひとつの彼女』のサントラから... ヤー・ヤー・ヤーズの女性ヴォーカリスト、カレン・Ｏと、ヴァンパイア・ウィークエンドのリード・ヴォーカル、エズラ・ケーニッヒのデュエットによる曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-moon-song-studio-version-duet/1455882301?i=1455882302&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "The Moon Song (Studio Version Duet)",
+      "apple_music_artist_name": "Karen O & Ezra Koenig",
+      "apple_music_album_name": "The Moon Song (Music From And Inspired By The Motion Picture Her) - Single"
     },
     {
       "episode_date": "2014.12.07",
@@ -4305,11 +4305,11 @@ window.TWM_DATA = {
       "artist": "はっぴいえんど",
       "raw_title": "風をあつめて / はっぴいえんど",
       "notes": "ソフィア・コッポラが監督・脚本を手掛けた2003年製作の映画『Lost In Translation』... 日本でも撮影が行われ、訓市は全面的にサポートし、俳優(？)としてワン・シーンに登場しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E3%81%82%E3%81%A4%E3%82%81%E3%81%A6/1675259114?i=1675259277&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "風をあつめて",
+      "apple_music_artist_name": "はっぴいえんど",
+      "apple_music_album_name": "風街ろまん"
     },
     {
       "episode_date": "2014.12.07",
@@ -4320,11 +4320,11 @@ window.TWM_DATA = {
       "artist": "Caetano Veloso",
       "raw_title": "Cucurrucucu Paloma / Caetano Veloso",
       "notes": "ウォン・カーウァイ監督による1997年の香港映画『ブエノスアイレス』のサントラから... 因みに、映画タイトルは『Happy Together』。カエターンノ・ヴェローゾは1960年代後半から現在に至るまで活躍しているブラジル人アーティストで、今やカリスマ的存在の人物です！巣晴らしぃ?！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/cucurrucucu-paloma/261076333?i=261076701&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Cucurrucucu Paloma",
+      "apple_music_artist_name": "Caetano Veloso",
+      "apple_music_album_name": "The Best of Caetano Veloso"
     },
     {
       "episode_date": "2014.12.07",
@@ -4335,11 +4335,11 @@ window.TWM_DATA = {
       "artist": "Cassandra Wilson",
       "raw_title": "Harvest Moon / Cassandra Wilson",
       "notes": "こちらもウォン・カーウィア監督による作品で、シンガーソングライターのノラ・ジョーンズが主演して話題になった2007年の映画『My Blueberry Nights』のサントラから... ジャズをベースにしながら、常に新しい世界を表現し続けている女性ヴォーカリスト、カサンドラ・ウィルソンによるニール・ヤングの名曲カバー・ヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/harvest-moon/721297687?i=721297717&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Harvest Moon",
+      "apple_music_artist_name": "Cassandra Wilson",
+      "apple_music_album_name": "Closer To You: The Pop Side"
     },
     {
       "episode_date": "2014.12.07",
@@ -4350,11 +4350,11 @@ window.TWM_DATA = {
       "artist": "David Foster",
       "raw_title": "Love Theme from St.Elmo's Fire / David Foster",
       "notes": "1985年の青春映画『St.Elom' Fire』のサントラから... 当時、ミュージック・シーンで一世を風靡していたピアニスト、デヴィッド・フォスターによる「愛のテーマ」。40歳アップだと思いますが、この映画、この曲にそそられる方もいらっしゃるのでは?!",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-theme-from-st-elmos-fire-instrumental/300980205?i=300980209&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Love Theme from St. Elmo's Fire (Instrumental)",
+      "apple_music_artist_name": "David Foster",
+      "apple_music_album_name": "David Foster"
     },
     {
       "episode_date": "2014.12.07",
@@ -4380,11 +4380,11 @@ window.TWM_DATA = {
       "artist": "The Carpenters",
       "raw_title": "I Need To Be In Love / The Carpenters",
       "notes": "兄リチャードと妹カレンの兄妹デュオ、カーペンターズ。1970年代、アメリカを中心に世界中で大ヒットを記録するも、1983年にカレンが亡くなったことで活動に終止符が打たれました。この曲は1976年の作品で、邦題は「青春の輝き」...かつて、日本のテレビ・ドラマで主題歌に使われたこともあります。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-need-to-be-in-love/1413927531?i=1413927545&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "I Need to Be In Love",
+      "apple_music_artist_name": "Carpenters",
+      "apple_music_album_name": "Gold: Greatest Hits"
     },
     {
       "episode_date": "2014.12.14",
@@ -4395,11 +4395,11 @@ window.TWM_DATA = {
       "artist": "Alan parsons Project",
       "raw_title": "Eye In The Sky / Alan parsons Project",
       "notes": "キーボード・プレーヤーのアラン・パーソンズを中止としたイギリスのロック・バンド。1982年にリリースされた6枚目のアルバムのタイトル・トラックで、シングル盤は全米チャートでも3位を記録！日本でもヒットしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/eye-in-the-sky/1205670750?i=1205670758&uo=4",
+      "apple_music_confidence": 96,
+      "apple_music_track_name": "Eye in the Sky",
+      "apple_music_artist_name": "The Alan Parsons Project",
+      "apple_music_album_name": "Eye In the Sky"
     },
     {
       "episode_date": "2014.12.14",
@@ -4410,11 +4410,11 @@ window.TWM_DATA = {
       "artist": "Godley & Creme",
       "raw_title": "Cry / Godley & Creme",
       "notes": "ケヴィン・ゴドレイとロル・クレームの2人からなるイギリスのグループ。1985年発表のこの曲は彼らにとって最大のヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/cry/1442720642?i=1442721138&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Cry",
+      "apple_music_artist_name": "Godley & Creme",
+      "apple_music_album_name": "Cry: The Very Best Of"
     },
     {
       "episode_date": "2014.12.14",
@@ -4425,11 +4425,11 @@ window.TWM_DATA = {
       "artist": "Robert Palmer",
       "raw_title": "She Makes My Day / Robert Palmer",
       "notes": "イギリス出身のダンディな男性ヴォーカリスト、ロバート・パーマー。全米チャートNO.1を記録した「Addicted To Love」を含む大ヒット・アルバム『Riptide』に続き、1988年にリリースされたアルバム『Heavy Nova』に収録されている曲です。訓市がアメリカで暮らしていた頃、聴きまくっていた曲のひとつとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/she-makes-my-day/734795020?i=734795405&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "She Makes My Day",
+      "apple_music_artist_name": "Robert Palmer",
+      "apple_music_album_name": "Heavy Nova (Bonus Tracks Version)"
     },
     {
       "episode_date": "2014.12.14",
@@ -4440,11 +4440,11 @@ window.TWM_DATA = {
       "artist": "くるり",
       "raw_title": "ハイウェイ / くるり",
       "notes": "12枚目のシングルで、リリースは2003年。この日のテーマ「旅にでる理由」を歌った曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/1590793760?i=1590793761&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "ハイウェイ",
+      "apple_music_artist_name": "くるり",
+      "apple_music_album_name": "ハイウェイ - Single"
     },
     {
       "episode_date": "2014.12.14",
@@ -4455,11 +4455,11 @@ window.TWM_DATA = {
       "artist": "Bon Iver",
       "raw_title": "Blindsided / Bon Iver",
       "notes": "シンガーソングライターのジャスティン・バーノンを中心としたアメリカのバンドで、荒涼とした音が魅力！本作品は2011年リリースで、翌2012年の「第54回グラミー賞」で＜ベスト・ニュー・アーティスト＞を受賞しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/blindsided/947059824?i=947059833&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Blindsided",
+      "apple_music_artist_name": "Bon Iver",
+      "apple_music_album_name": "For Emma, Forever Ago"
     },
     {
       "episode_date": "2014.12.14",
@@ -4470,11 +4470,11 @@ window.TWM_DATA = {
       "artist": "Will Hanson",
       "raw_title": "Home / Will Hanson",
       "notes": "ビートニク原作の映画『On The Road』の中で使われていた曲で、目の前の荒涼とした道が目の前に浮かんでくる・・・ ドライブのBGMにもおススメです。訓市はいつの頃からか、旅先を選ぶときのキーワードに「荒涼」があるとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/home/319584059?i=319584114&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Home",
+      "apple_music_artist_name": "Will Hanson",
+      "apple_music_album_name": "Hope On Top"
     },
     {
       "episode_date": "2014.12.14",
@@ -4485,11 +4485,11 @@ window.TWM_DATA = {
       "artist": "Kansas",
       "raw_title": "Dust In The Wind / Kansas",
       "notes": "アメリカ・カンザス州出身のロック・バンド、カンサス。「僕らはみんな風の中の塵」と歌っているこの曲は1978年の作品で、彼らにとって最大のヒットを記録しています。名曲！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dust-in-the-wind/193730141?i=193730684&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dust In the Wind",
+      "apple_music_artist_name": "Kansas",
+      "apple_music_album_name": "Point of Know Return (Expanded Edition)"
     },
     {
       "episode_date": "2014.12.14",
@@ -4500,11 +4500,11 @@ window.TWM_DATA = {
       "artist": "Led Zeppelin",
       "raw_title": "The Rain Song / Led Zeppelin",
       "notes": "1968年結成で、70'sのUKロックを代表する伝説的バンド、レッド・ツェッペリン。この曲は1973年に発表された5枚目のアルバム『聖なる館』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-rain-song/580707916?i=580707918&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Rain Song",
+      "apple_music_artist_name": "Led Zeppelin",
+      "apple_music_album_name": "Houses of the Holy (Remastered)"
     },
     {
       "episode_date": "2014.12.21",
@@ -4515,11 +4515,11 @@ window.TWM_DATA = {
       "artist": "Chris Rae",
       "raw_title": "Driving Home For Christmas / Chris Rae",
       "notes": "イギリス出身の白人シンガーソング・ライター、クリス・レア。クリスマスの日、帰宅のために車を運転しているウキウキした雰囲気が心温まる曲... ただし、歌声は「渋め」です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/driving-home-for-christmas/64807098?i=64807078&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Driving Home for Christmas",
+      "apple_music_artist_name": "Chris Rea",
+      "apple_music_album_name": "The Very Best of Chris Rea"
     },
     {
       "episode_date": "2014.12.21",
@@ -4545,11 +4545,11 @@ window.TWM_DATA = {
       "artist": "PRINCE",
       "raw_title": "Another Lonely Christmas / PRINCE",
       "notes": "殿下ことプリンスが1984年にリリースしたシングル「I Would Die 4 U」のBサイドとして発表されたクリスマス・ソングで、後に、ベスト・アルバムにも収録されました。プリンスは今年、2枚の新作をリリースして、再び話題になりました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/another-lonely-christmas/1545712783?i=1545712896&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Another Lonely Christmas",
+      "apple_music_artist_name": "Prince",
+      "apple_music_album_name": "The Hits / The B-Sides"
     },
     {
       "episode_date": "2014.12.21",
@@ -4560,11 +4560,11 @@ window.TWM_DATA = {
       "artist": "The Cure",
       "raw_title": "Breath / The Cure",
       "notes": "イギリスのロック・バンド、ザ・キュアがファンクラブ向けにリリースした曲。訓市のエピソードはAntennaのサイトをチェック！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/breath/40455095?i=40455147&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Breath",
+      "apple_music_artist_name": "The Cure",
+      "apple_music_album_name": "Join the Dots: B-Sides and Rarities, 1978-2001"
     },
     {
       "episode_date": "2014.12.21",
@@ -4575,11 +4575,11 @@ window.TWM_DATA = {
       "artist": "佐野元春",
       "raw_title": "Christmas Time In Blue / 佐野元春",
       "notes": "2015年にはキャリア35周年を迎える日本人シンガーソング・ライター、佐野元春によるクリスマス・ソングの名曲。1985年に12インチ・シングルとして発表されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/christmas-time-in-blue/1536758931?i=1536758939&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "CHRISTMAS TIME IN BLUE",
+      "apple_music_artist_name": "佐野元春",
+      "apple_music_album_name": "ベリー・ベスト・オブ・佐野元春「ソウルボーイへの伝言」"
     },
     {
       "episode_date": "2014.12.21",
@@ -4590,11 +4590,11 @@ window.TWM_DATA = {
       "artist": "The Pogues",
       "raw_title": "Fairytale Of New York / The Pogues",
       "notes": "アイルランド人ヴォーカリスト中心としたアイリッシュ系バンド、ザ・ポーグス。これは名曲！ニューヨークで過ごすクリスマスには必聴！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fairytale-of-new-york/189254980?i=189255282&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fairytale of New York",
+      "apple_music_artist_name": "The Pogues",
+      "apple_music_album_name": "The Very Best of The Pogues"
     },
     {
       "episode_date": "2014.12.21",
@@ -4605,11 +4605,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "Christmas Card From A Hooker In Minneapolis / Tom Waits",
       "notes": "訓市のお気に入りヴォーカリストのひとり、トム・ウェイツ。クリスマス・ソングですが、曲のタイトルからも分かるように歌詞は・・・「捻り」が入っています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/christmas-card-from-a-hooker-in-minneapolis/1485075817?i=1485075828&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Christmas Card from a Hooker In Minneapolis",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "Used Songs 1973–1980"
     },
     {
       "episode_date": "2014.12.21",
@@ -4620,11 +4620,11 @@ window.TWM_DATA = {
       "artist": "Richie Havens",
       "raw_title": "God Bless The Child / Richie Havens",
       "notes": "ビリー・ホリデーの名唄で有名なスタンダード... 厳かに過ごすクリスマスにもピッタリです。訓市はこの曲でのリッチー・ヘヴンスのギター・パフォーマンスにも影響されたとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/god-bless-the-child-live/65683095?i=65682903&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "God Bless the Child (Live)",
+      "apple_music_artist_name": "Richie Havens",
+      "apple_music_album_name": "Live At the Cellar Door and the Santa Monica Civic Auditorium"
     },
     {
       "episode_date": "2014.12.21",
@@ -4635,11 +4635,11 @@ window.TWM_DATA = {
       "artist": "John Lennon & Yoko Ono",
       "raw_title": "Happy Xmas (War Is Over) / John Lennon & Yoko Ono",
       "notes": "説明不要！永遠のクリスマス・ソング！世界が平和でありますように... という思いを込めて。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/happy-xmas-war-is-over-the-ultimate-mix/1527740882?i=1527742022&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Happy Xmas (War Is Over) [The Ultimate Mix]",
+      "apple_music_artist_name": "John Lennon & Yoko Ono",
+      "apple_music_album_name": "Gimme Some Truth: The Ultimate Mixes (Deluxe Edition)"
     },
     {
       "episode_date": "2014.12.28",
@@ -4665,11 +4665,11 @@ window.TWM_DATA = {
       "artist": "Sting",
       "raw_title": "Fields Of Gold / Sting",
       "notes": "イギリスを代表するヴォーカリスト兼ベーシストのスティングが1993年にリリースしたアルバム『Ten Summoner's Tales』に収録された「美メロ曲」。彼が全幅の信頼を置くドラマー、ヴィニー・カリウタとの相性はバツグン！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fields-of-gold/1415203729?i=1415203732&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fields of Gold",
+      "apple_music_artist_name": "Sting",
+      "apple_music_album_name": "Ten Summoner's Tales"
     },
     {
       "episode_date": "2014.12.28",
@@ -4680,11 +4680,11 @@ window.TWM_DATA = {
       "artist": "U2",
       "raw_title": "I Still Haven't Found I'm Looking For / U2",
       "notes": "アイルランド出身で現代最高峰の4人組ロック・バンドU2… 彼らの名前を一躍ワールド・ワイドにした大ヒットアルバム『The Joshua Tree』に収録されている曲で、全米チャートNO.1を記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-still-havent-found-what-im-looking-for/1442950015?i=1442950019&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "I Still Haven't Found What I'm Looking For",
+      "apple_music_artist_name": "U2",
+      "apple_music_album_name": "The Joshua Tree (30th Anniversary Super Deluxe Edition)"
     },
     {
       "episode_date": "2014.12.28",
@@ -4695,11 +4695,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Waiting On A Friends / The Rolling Stones",
       "notes": "現代最高峰かつ、現役最年長ロック・バンド、ザ・ローリング・ストーンズが1981年にリリースしたアルバム『The Tatto You』に収録。実は、このアルバムは以前に録音されながら未発表だったアウトテイクを中心に構成されていますが、セールス的にも大成功！この曲で流麗なテナーサックスをプレイしているのはジャズ界の巨匠ソニー・ロリンズです。感服！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/waiting-on-a-friend/1440812141?i=1440812359&uo=4",
+      "apple_music_confidence": 99,
+      "apple_music_track_name": "Waiting On a Friend",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Tattoo You"
     },
     {
       "episode_date": "2014.12.28",
@@ -4710,11 +4710,11 @@ window.TWM_DATA = {
       "artist": "Craig Armstrong",
       "raw_title": "Let's Go Out Tonight / Craig Armstrong",
       "notes": "英スコットランド出身のコンポーザー、クレイグ・アームストロングが1998年にリリースしたファースト・ソロ・アルバム『The Space Between Us』に収録されている曲。メランコリックです！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/lets-go-out-tonight/1443227758?i=1443228525&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let's Go Out Tonight",
+      "apple_music_artist_name": "Craig Armstrong",
+      "apple_music_album_name": "The Space Between Us"
     },
     {
       "episode_date": "2014.12.28",
@@ -4725,11 +4725,11 @@ window.TWM_DATA = {
       "artist": "DJ Honda feat.Mos Def",
       "raw_title": "Travellin' Man / DJ Honda feat.Mos Def",
       "notes": "米ブルックリン出身のラッパー、モス・デフをフィーチャーしたDJ HONDAの曲で、彼が世界進出を果たした後にリリースされた1997年のアルバム『h II』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/travellin-man-feat-mos-def/78790224?i=78790218&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Travellin' Man (feat. Mos Def)",
+      "apple_music_artist_name": "DJ Honda featuring Mos Def",
+      "apple_music_album_name": "h II"
     },
     {
       "episode_date": "2014.12.28",
@@ -4800,11 +4800,11 @@ window.TWM_DATA = {
       "artist": "Beck",
       "raw_title": "Everybody's Got Learn Sometime / Beck",
       "notes": "2004年に公開されたアメリカ映画『エターナル・サンシャイン』のサントラに使われた曲で、オリジナルはイギリスのバンド、ザ・コーギスが1980年にヒットを記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/everybodys-gotta-learn-sometime/1650465961?i=1650466118&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "Everybody's Gotta Learn Sometime",
+      "apple_music_artist_name": "Beck",
+      "apple_music_album_name": "Everybody's Gotta Learn Sometime - Single"
     },
     {
       "episode_date": "2015.01.04",
@@ -4815,11 +4815,11 @@ window.TWM_DATA = {
       "artist": "DJ Food",
       "raw_title": "Consciousness / DJ Food",
       "notes": "この曲は訓市が色々な国を旅していた頃、「チルアウト・パーティー」といいますか、朝、気持ちの良い場所で勝手に音を出して喜んでいて・・・ その当時、1番お気に入りだった曲のひとつとのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/consciousness-ninja-tunes-mix-by-mr-scruff/394049927?i=394050402&uo=4",
+      "apple_music_confidence": 96,
+      "apple_music_track_name": "Consciousness (Ninja Tune's Mix by Mr Scruff)",
+      "apple_music_artist_name": "DJ Food",
+      "apple_music_album_name": "Saint-Germain-des-Prés Café (The Blue Edition by Mr. Scruff)"
     },
     {
       "episode_date": "2015.01.04",
@@ -4830,11 +4830,11 @@ window.TWM_DATA = {
       "artist": "Smashing Pumpkins",
       "raw_title": "Drown / Smashing Pumpkins",
       "notes": "アメリカのオルタナティヴ系ロック・バンド、ザ・スマッシング・パンプキンズが、1992年の映画『Singles』のサントラとしてリリースした曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/drown/1747344269?i=1747345599&uo=4",
+      "apple_music_confidence": 95,
+      "apple_music_track_name": "Drown",
+      "apple_music_artist_name": "The Smashing Pumpkins",
+      "apple_music_album_name": "El Sonido De Los 90"
     },
     {
       "episode_date": "2015.01.04",
@@ -4845,11 +4845,11 @@ window.TWM_DATA = {
       "artist": "The Blue Hearts",
       "raw_title": "1001のバイオリン / The Blue Hearts",
       "notes": "ザ・ブルー・ハーツが1993年にリリースしたシングル「1000のバイオリン」のカップリング曲として発表されたオーケストラ・ヴァージョン。ポジティブな歌詞が新年にピッタリ！缶コーヒーのテレビＣＭ曲としても使われました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/1001%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3/949459673?i=949459693&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "1001のバイオリン",
+      "apple_music_artist_name": "THE BLUE HEARTS",
+      "apple_music_album_name": "Singles 1990-1993"
     },
     {
       "episode_date": "2015.01.04",
@@ -4860,11 +4860,11 @@ window.TWM_DATA = {
       "artist": "Faith No More",
       "raw_title": "Easy / Faith No More",
       "notes": "アメリカ西海岸出身のロック・バンド、フェイス・ノー・モア… この曲はライオネル・リッチーがリード・ヴォーカルを務めていた当時のザ・コモドアーズの大ヒット曲をカバーしたもの。このヴァージョンがリリースされた当時、ユニークな選曲は大きな話題を集めました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/easy/988003430?i=988003444&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Easy",
+      "apple_music_artist_name": "Faith No More",
+      "apple_music_album_name": "Angel Dust (Deluxe Edition)"
     },
     {
       "episode_date": "2015.01.04",
@@ -4875,11 +4875,11 @@ window.TWM_DATA = {
       "artist": "Leftfield",
       "raw_title": "Melt / Leftfield",
       "notes": "イギリスのエレクトロニカ系ユニット、レフトフィールドが1995年にリリースしたファースト・スタジオ・レコーディング・アルバム『Leftism』に収録されています。訓市曰く、「”Sunrise””Sunset”どちらのタイミングにもマッチする素晴らしい曲」とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/melt/207071761?i=207072761&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Melt",
+      "apple_music_artist_name": "Leftfield",
+      "apple_music_album_name": "Leftism"
     },
     {
       "episode_date": "2015.01.04",
@@ -4890,11 +4890,11 @@ window.TWM_DATA = {
       "artist": "Norah Jones",
       "raw_title": "Sunrise (Radio Slave Remix) / Norah Jones",
       "notes": "アメリカのシンガーソング・ライター、ノラ・ジョーンズが2004年にリリースした記念すべきデビュー曲で、グラミー賞の「最優秀女性ポップ・パフォーマンス」も受賞！ハウス系のDJとして世界的な名声をもつRadio Slaveが手掛けたリミックス・ヴァージョンは、リリース当時、クラブDJ御用達でした。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sunrise/721258539?i=721258700&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Sunrise",
+      "apple_music_artist_name": "Norah Jones",
+      "apple_music_album_name": "Feels Like Home"
     },
     {
       "episode_date": "2015.01.04",
@@ -4905,11 +4905,11 @@ window.TWM_DATA = {
       "artist": "Louis Armstrong",
       "raw_title": "What A Wonderful World / Louis Armstrong",
       "notes": "説明不要！未来永劫受け継がれるスタンダード！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/what-a-wonderful-world/1440787250?i=1440787254&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "What a Wonderful World",
+      "apple_music_artist_name": "Louis Armstrong",
+      "apple_music_album_name": "What a Wonderful World"
     },
     {
       "episode_date": "2015.01.11",
@@ -4920,11 +4920,11 @@ window.TWM_DATA = {
       "artist": "Carole King",
       "raw_title": "Way Over Yonder / Carole King",
       "notes": "現代最高峰の現役女性シンガー・ソングライター、キャロル・キングが1971年にリリースした歴史的名盤『Tapestry』... 邦題は『つずれおり』。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/way-over-yonder/747087657?i=747087668&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Way Over Yonder",
+      "apple_music_artist_name": "Carole King",
+      "apple_music_album_name": "Tapestry"
     },
     {
       "episode_date": "2015.01.11",
@@ -4950,11 +4950,11 @@ window.TWM_DATA = {
       "artist": "SWV",
       "raw_title": "Right Here (Human Nature) / SWV",
       "notes": "女性グループの台頭、活躍が目覚しかった1990年代前半、アメリカのR&Bシーンをリードしたグループのひとつが、女性3人からなるS.W.V. グループ名はSisters With Voicesのイニシャルを取ったもの。マイケル・ジャクソンの「Human Nature」をサンプリングしたリミックス・ヴァージョンは、当時、日本のFMステーションでもガンガンにオンエアされていました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/right-here-human-nature-duet-demolition-dub-mix/1439137697?i=1439137706&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Right Here (Human Nature Duet) [Demolition Dub Mix]",
+      "apple_music_artist_name": "SWV",
+      "apple_music_album_name": "Right Here (The 'Human Nature' and Original Mixes)"
     },
     {
       "episode_date": "2015.01.11",
@@ -4965,11 +4965,11 @@ window.TWM_DATA = {
       "artist": "R.E.M.",
       "raw_title": "Find The River / R.E.M.",
       "notes": "アメリカのカレッジ・ステーションを中心に絶大な人気を誇ったR.E.M.が全盛期に当たる1992年にリリースしたアルバムから。当時、ヴォーカルのマイケル・スタイプはアメリカン・ロック界のカリスマ的存在でした。なお、グループは2011年に突然解散してしまいました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/find-the-river/1571670285?i=1571671807&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Find The River",
+      "apple_music_artist_name": "R.E.M.",
+      "apple_music_album_name": "Automatic For The People (2017 Remaster)"
     },
     {
       "episode_date": "2015.01.11",
@@ -4980,11 +4980,11 @@ window.TWM_DATA = {
       "artist": "The Crowded House",
       "raw_title": "Don't Dream It's Over (12inch.Remix) / The Crowded House",
       "notes": "ニュージーランド出身のシンガー・ソングライター、ニール・フィンを中心に、オーストラリアで結成された3人組バンド、ザ・クラウデッド・ハウス。彼らにとって最大のヒットとなったこの曲のリリースは1986年。番組では訓市がお気に入りの12インチ・ヴァージョンをオンエア！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-dream-its-over/1440822690?i=1440823110&uo=4",
+      "apple_music_confidence": 90,
+      "apple_music_track_name": "Don't Dream It's Over",
+      "apple_music_artist_name": "Crowded House",
+      "apple_music_album_name": "Crowded House"
     },
     {
       "episode_date": "2015.01.11",
@@ -4995,11 +4995,11 @@ window.TWM_DATA = {
       "artist": "Karyn White",
       "raw_title": "Superwoman / Karyn White",
       "notes": "アメリカ人女性R&Bシンガーで、1990年代前半にシーンを牽引したキャリン・ホワイトが1988年にリリースしたファースト・リーダー・アルバムから。当時、一世を風靡していたプロデューサー・コンビ、L.A.リード＆ベイビーフェイスが手掛けた永遠の名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/superwoman/281620168?i=281620215&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Superwoman",
+      "apple_music_artist_name": "Karyn White",
+      "apple_music_album_name": "Karyn White"
     },
     {
       "episode_date": "2015.01.11",
@@ -5010,11 +5010,11 @@ window.TWM_DATA = {
       "artist": "Elton John",
       "raw_title": "Tiny Dancer / Elton John",
       "notes": "1971年にリリースされたエルトン・ジョンのアルバム『Madman Across The Water』に収録されたこの曲は、青春映画『あの頃ペニー・レインと』の劇中で印象的に使われていました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/tiny-dancer/1452863377?i=1452863597&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tiny Dancer",
+      "apple_music_artist_name": "Elton John",
+      "apple_music_album_name": "To Be Continued (Box Set)"
     },
     {
       "episode_date": "2015.01.11",
@@ -5025,11 +5025,11 @@ window.TWM_DATA = {
       "artist": "Amy Winehouse",
       "raw_title": "Best Friends / Amy Winehouse",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/best-friends-right/1440809772?i=1440810033&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Best Friends, Right?",
+      "apple_music_artist_name": "Amy Winehouse",
+      "apple_music_album_name": "Lioness: Hidden Treasures"
     },
     {
       "episode_date": "2015.01.18",
@@ -5040,11 +5040,11 @@ window.TWM_DATA = {
       "artist": "Janis Ian",
       "raw_title": "At Seventeen / Janis Ian",
       "notes": "アメリカの女性シンガーソングライター、ジャニス・イアンが1975年にリリースしたアルバム『Between The Lines〜愛の回想録』に収録された曲で、シングル、アルバム共に全米チャートでNo.1を記録！さらに、グラミー賞も獲得し、彼女の出世作となっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/at-seventeen/1391915353?i=1391915368&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "At Seventeen",
+      "apple_music_artist_name": "Janis Ian",
+      "apple_music_album_name": "Between the Lines (Remastered)"
     },
     {
       "episode_date": "2015.01.18",
@@ -5055,11 +5055,11 @@ window.TWM_DATA = {
       "artist": "Dream Academy",
       "raw_title": "Life In A Northern Town / Dream Academy",
       "notes": "イギリスの3人組バンド、ドリーム・アカデミーのデビュー・アルバムから... 日本のFMラジオ・ステーションでも「冬曲」の定番としてお馴染みの曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/life-in-a-northern-town/6778467338?i=6778468548&uo=4",
+      "apple_music_confidence": 94,
+      "apple_music_track_name": "Life in a Northern Town",
+      "apple_music_artist_name": "The Dream Academy",
+      "apple_music_album_name": "80s Late Night Drive"
     },
     {
       "episode_date": "2015.01.18",
@@ -5070,11 +5070,11 @@ window.TWM_DATA = {
       "artist": "Ben Watt",
       "raw_title": "A Girl In Winter / Ben Watt",
       "notes": "男女デュオ・ユニット、Everything But The Girlのメンバーとしてお馴染みの男性ギタリスト兼シンガーソングライターのベン・ワットが、EBTGのファースト・アルバムをリリースする前年に当たる1983年に発表したソロ作『North Marine Drive』から。なお、昨年、ベン・ワットは本作から31年振りとなる新作をリリースし、11月には単独で来日公演を行いました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-girl-in-winter/202854390?i=202854989&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Girl In Winter",
+      "apple_music_artist_name": "Ben Watt",
+      "apple_music_album_name": "North Marine Drive"
     },
     {
       "episode_date": "2015.01.18",
@@ -5085,11 +5085,11 @@ window.TWM_DATA = {
       "artist": "Kool & The Gang",
       "raw_title": "Winter Sadness / Kool & The Gang",
       "notes": "1969年のデビュー以来、数多くのヒット曲を生み出しているアメリカのR&B、ファンク系バンド、クール＆ザ・ギャング... 彼らの代表曲のひとつとなっている「夏の定番」＝「Summer Madness」の冬ヴァージョンと言っていいこの曲のタイトルは「Winter Sadness」！ジャズ的アプローチのキーボードとブリブリのベースがグっとくる名パフォーマンスです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/winter-sadness/1443528323?i=1443528338&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Winter Sadness",
+      "apple_music_artist_name": "Kool & The Gang",
+      "apple_music_album_name": "Spirit of the Boogie"
     },
     {
       "episode_date": "2015.01.18",
@@ -5100,11 +5100,11 @@ window.TWM_DATA = {
       "artist": "Kings Of Convenience",
       "raw_title": "The Weight Of My Words (Four Tech Remix) / Kings Of Convenience",
       "notes": "訓市のfavorite group... ノルウェー出身のアコースティック・デュオ、Kings Of Convinienceが2001年にリリースしたこの曲は北欧アーティスト特有の「暖かさ」を感じます。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-weight-of-my-words-four-tet-remix/1663630927?i=1663630935&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "The Weight of My Words (Four Tet Remix)",
+      "apple_music_artist_name": "Kings of Convenience",
+      "apple_music_album_name": "Versus"
     },
     {
       "episode_date": "2015.01.18",
@@ -5115,11 +5115,11 @@ window.TWM_DATA = {
       "artist": "Prince And The Revolution",
       "raw_title": "Sometimes It Snows In April / Prince And The Revolution",
       "notes": "「殿下」こと、プリンスが監督・主演を務めた1986年の映画『Under The Cherry Moon』のサウンド・トラック・アルバムで、タイトルは『Parade』。映画自体は酷評でしたが、サントラは名曲のオン・パレード！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sometimes-it-snows-in-april/260336005?i=260336565&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Sometimes It Snows In April",
+      "apple_music_artist_name": "Prince & The Revolution",
+      "apple_music_album_name": "Parade (Music from the Motion Picture Under the Cherry Moon)"
     },
     {
       "episode_date": "2015.01.18",
@@ -5130,11 +5130,11 @@ window.TWM_DATA = {
       "artist": "Vangelis",
       "raw_title": "Memories Of Green / Vangelis",
       "notes": "ギリシャ出身の作曲家でキーボード・プレーヤーのヴァンゲリスが1980年にリリースしたリーダー作『See Your Later〜流氷原』に収録されている曲で、映画『Blade Runner』で使用されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/memories-of-green/73327394?i=73327359&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Memories of Green",
+      "apple_music_artist_name": "Vangelis",
+      "apple_music_album_name": "Blade Runner (Original Score from the Motion Picture)"
     },
     {
       "episode_date": "2015.01.18",
@@ -5145,11 +5145,11 @@ window.TWM_DATA = {
       "artist": "Passengers",
       "raw_title": "Slug / Passengers",
       "notes": "U2の4人にブライアン・イーノが加わった5人組ユニット、パッセンジャーズが1995年にリリースしたアルバム『Original Soundtracks 1』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/slug/1443791358?i=1443791372&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Slug",
+      "apple_music_artist_name": "Passengers",
+      "apple_music_album_name": "Original Soundtracks 1"
     },
     {
       "episode_date": "2015.01.25",
@@ -5160,11 +5160,11 @@ window.TWM_DATA = {
       "artist": "Ben Harper",
       "raw_title": "The Three Of Us / Ben Harper",
       "notes": "米カリフォルニア出身のシンガーソングライター、ギタリストのベン・ハーパー。デビューは1994年で、ロック、フォーク、ゴスペル、ブルースなど様々な要素を感じる独自のスタイルが魅力です。この曲はデビュー・アルバム『Welcome To The Cruel World』に収録されているインストゥルメンタル曲で、訓市はインドに行ったら朝日とか夕日を見ながらこういう曲を聴こうかなと思って張り切って持って行ったとのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-three-of-us/1440845904?i=1440846158&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Three of Us",
+      "apple_music_artist_name": "Ben Harper",
+      "apple_music_album_name": "Welcome to the Cruel World"
     },
     {
       "episode_date": "2015.01.25",
@@ -5175,11 +5175,11 @@ window.TWM_DATA = {
       "artist": "Fleetwood Mac",
       "raw_title": "Dreams / Fleetwood Mac",
       "notes": "フリートウッド・マックは1960年代にイギリスで結成されたバンドで、当初はブルースをベースにしていましたが、1970年代半ば、女性ヴォーカリストのスティーヴィー・ニックスが加入して路線変更・・・1977年にリリースしたアルバム『Rumors〜噂』が全世界で大ヒットし、「Dreams」は全米ナンバーワンを\n\n記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dreams/202271826?i=202272624&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dreams",
+      "apple_music_artist_name": "Fleetwood Mac",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2015.01.25",
@@ -5190,11 +5190,11 @@ window.TWM_DATA = {
       "artist": "The Jimi Hendrix Experience",
       "raw_title": "The Wind Cries Mary / The Jimi Hendrix Experience",
       "notes": "不世出の天才黒人ギタリスト＝ジミ・ヘンドリックスを中心とした3人組、ジミ・ヘンドリック・エクスペリエンスの記念すべきファースト・アルバムに収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-wind-cries-mary/357225315?i=357225419&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Wind Cries Mary",
+      "apple_music_artist_name": "The Jimi Hendrix Experience",
+      "apple_music_album_name": "Are You Experienced (Deluxe Version)"
     },
     {
       "episode_date": "2015.01.25",
@@ -5205,11 +5205,11 @@ window.TWM_DATA = {
       "artist": "Omar",
       "raw_title": "There's Nothing Like This / Omar",
       "notes": "1980年代末から90年代前半にかけて日本でも隆盛を極めた音楽ジャンル「アシッド・ジャズ」の中核を担ったDJジャイルス・ピーターソンが主宰したレーベル「Talkin’Loud」から作品をリリースしていたオマー。訓市曰く、「沢山たワインを飲んでしまった日の夜とか、二日酔いで起きた朝とかにこれを聴くと、夢見心地な気分になります」とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/theres-nothing-like-this/1443786044?i=1443786048&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "There's Nothing Like This",
+      "apple_music_artist_name": "OMAR",
+      "apple_music_album_name": "The Collection"
     },
     {
       "episode_date": "2015.01.25",
@@ -5220,11 +5220,11 @@ window.TWM_DATA = {
       "artist": "ゴダイゴ",
       "raw_title": "ホーリー＆ブライト / ゴダイゴ",
       "notes": "1970年代半ばから80年代にかけて絶大な人気を誇った日本のバンド、ゴダイゴ。ヴォーカルのタケカワユキヒデとキーボードのミッキー吉野を中心にしたこのバンドは「ガンダーラ」「モンキー・マジック」「ビューティフル・ネーム」など、数多くのヒット曲を生み出しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88/477643015?i=477643023&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "ホーリー & ブライト",
+      "apple_music_artist_name": "ゴダイゴ",
+      "apple_music_album_name": "GODIEGO GREAT BEST VOL.1 -Japanese Version-"
     },
     {
       "episode_date": "2015.01.25",
@@ -5250,11 +5250,11 @@ window.TWM_DATA = {
       "artist": "Pink Floyd",
       "raw_title": "Wish You Were Here / Pink Floyd",
       "notes": "イギリス出身のバンドで、「プログレ」と呼ばれるジャンルを代表・象徴する存在として1960年代半ばから約30年間にわたって活躍しました。特に初期の作品は「インド旅」に必携！（訓市談）とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Wish You Were Here",
+      "apple_music_artist_name": "Pink Floyd",
+      "apple_music_album_name": "Wish You Were Here"
     },
     {
       "episode_date": "2015.01.25",
@@ -5265,11 +5265,11 @@ window.TWM_DATA = {
       "artist": "DJ Food",
       "raw_title": "Dusk / DJ Food",
       "notes": "1990年代に人気を博したイギリスのレーベル「Ninja Tune」を代表するDJ FOOD・・・「馬の声」がサンプリングされたこの曲は、何処か遠い所の光景が頭に浮かんできます。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-dusk/416323137?i=416323149&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "The Dusk",
+      "apple_music_artist_name": "DJ Food",
+      "apple_music_album_name": "A Recipe for Disaster"
     },
     {
       "episode_date": "2015.01.25",
@@ -5295,11 +5295,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "(Looking For) The Heart Of Saturday Night / Tom Waits",
       "notes": "アメリカのシンガーソングライターで、訓市のお気に入りでもあるトム・ウェイツが1974年にリリースしたアルバム『The Heart Of Saturday Night』に収録されている曲で、タイトル通り、「夜」の情景を歌った作品。セレクトした曲の他にも、「New Coat Of Paint」を始め、おススメ曲が満載で、ジャケットのイラストも秀逸です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/looking-for-the-heart-of-saturday-night/1485071401?i=1485071559&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "(Looking For) The Heart of Saturday Night",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "The Heart of Saturday Night (Remastered)"
     },
     {
       "episode_date": "2015.02.01",
@@ -5310,11 +5310,11 @@ window.TWM_DATA = {
       "artist": "Suzanne Vega",
       "raw_title": "Tom's Diner / Suzanne Vega",
       "notes": "ニューヨークに実在した「Tom's Restaurant」のダイナーの窓から見える情景を歌った曲で、以前、日本ではコーヒーのＣＭソングとして使われたことも・・・。オリジナル・ヴァージョンは1987年のアルバム『Solitude Standing』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/toms-diner/276688313?i=276688334&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tom's Diner",
+      "apple_music_artist_name": "Suzanne Vega",
+      "apple_music_album_name": "Fast Folk Musical Magazine (Vol. 1, No. 1)"
     },
     {
       "episode_date": "2015.02.01",
@@ -5325,11 +5325,11 @@ window.TWM_DATA = {
       "artist": "Eagles",
       "raw_title": "The Sad Cafe / Eagles",
       "notes": "アメリカのウェスト・コースト・ロックを代表するバンドとして1970年代に絶大な人気を誇ったイーグルスが絶頂期にあった1979年にリリースしたアルバム『The Long Run』に収録されている名バラード曲。この直後、バンドは活動休止を発表し1982年には解散しましたが、1994年に再結成しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-sad-cafe/635774271?i=635774288&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Sad Cafe",
+      "apple_music_artist_name": "Eagles",
+      "apple_music_album_name": "The Long Run"
     },
     {
       "episode_date": "2015.02.01",
@@ -5340,11 +5340,11 @@ window.TWM_DATA = {
       "artist": "Joni Mitchell",
       "raw_title": "Chinese Cafe - Unchained Melody / Joni Mitchell",
       "notes": "1960年代から現在に至るまで米ミュージック・シーンの第一線で活躍している女性シンガーソングライターのジョニ・ミッチェルが1982年にリリースしたアルバム『Wild Things Run Fast』から。常に時代を代表する有能なミュージシャンを起用して作品を生み出し続けている彼女・・・本作品も当時のトップ・ミュージシャンが参加し、素晴らしい音を聞かせています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/chinese-cafe-unchained-melody/1443624550?i=1443624675&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Chinese Cafe/Unchained Melody",
+      "apple_music_artist_name": "Joni Mitchell",
+      "apple_music_album_name": "Wild Things Run Fast"
     },
     {
       "episode_date": "2015.02.01",
@@ -5355,11 +5355,11 @@ window.TWM_DATA = {
       "artist": "Doctor Rockit",
       "raw_title": "Cafe De Flore / Doctor Rockit",
       "notes": "1885年オープンで、現在も営業を続けるパリ屈指の老舗名店「Cafe De Flore」をタイトルにした曲。ドクター・ロキットはイギリスのエレクトリック・ミュージック系のコンポーザーでＤＪでもあるマシュー・ハーバートの別名プロジェクトです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/caf%C3%A9-de-flore/551021398?i=551021408&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Café De Flore",
+      "apple_music_artist_name": "Doctor Rockit",
+      "apple_music_album_name": "Indoor Fireworks (Re-Release)"
     },
     {
       "episode_date": "2015.02.01",
@@ -5370,11 +5370,11 @@ window.TWM_DATA = {
       "artist": "Jevetta Steele",
       "raw_title": "Calling You / Jevetta Steele",
       "notes": "1987年のドイツ映画『バグダッド・カフェ』のメイン・テーマ曲で、アカデミー賞の「最優秀主題歌賞」にもノミネートされたジェヴェッタ・スティールの「Calling You」。映画のタイトルになった「バグダッド・カフェ」はアメリカの「ルート６６」沿いにポツンと佇む、実在するカフェの名前です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/calling-you/1780273314?i=1780273552&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Calling You",
+      "apple_music_artist_name": "Jevetta Steele",
+      "apple_music_album_name": "Here It Is"
     },
     {
       "episode_date": "2015.02.01",
@@ -5385,11 +5385,11 @@ window.TWM_DATA = {
       "artist": "Penguin Cafe Orchestra",
       "raw_title": "The Sound Of Someone You Love Who's Going Away And It Doesn't Matter / Penguin Cafe Orchestra",
       "notes": "イギリス人ギタリストでコンポーザーのサイモン・ジェフスを中心に、流動的なミュージシャンとのコラボレーションから作品を生み出しているペンギン・カフェ・オーケストラ。1976年にリリースされたファースト・アルバムに収録されているインストゥルメンタル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-sound-of-someone-you-love-whos-going-away-and/714974408?i=714974683&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "The Sound of Someone You Love Who's Going Away and It Doesn't Matter (2008 Digital Remaster)",
+      "apple_music_artist_name": "Penguin Cafe Orchestra",
+      "apple_music_album_name": "Music from the Penguin Cafe"
     },
     {
       "episode_date": "2015.02.01",
@@ -5400,11 +5400,11 @@ window.TWM_DATA = {
       "artist": "Cat Stevens",
       "raw_title": "Morning Has Broken / Cat Stevens",
       "notes": "スコットランドで生まれたメロディーに、歌詞がつけられた楽曲で、イギリス人シンガーソングライターのキャット・スティーヴンスが歌ったヴァージョンは1971年にリリースされ、全米でも大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/morning-has-broken/1586832328?i=1586832570&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Morning Has Broken",
+      "apple_music_artist_name": "Cat Stevens",
+      "apple_music_album_name": "Teaser And The Firecat (2021 Remaster)"
     },
     {
       "episode_date": "2015.02.08",
@@ -5415,11 +5415,11 @@ window.TWM_DATA = {
       "artist": "Groove Armada",
       "raw_title": "At The River / Groove Armada",
       "notes": "イギリスのエレクトロニカ・デュオ、グルーヴ・アルマダが1997年にリリースした曲で、アメリカの女性ポップ・シンガー、パティ・ペイジの曲「Old Cape Code」をサンプリングしています。「Cape Cod」とは米マサチューセッツ州の東端にある「半島」の名称です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/at-the-river/304756740?i=304756750&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "At the River",
+      "apple_music_artist_name": "Groove Armada",
+      "apple_music_album_name": "Vertigo"
     },
     {
       "episode_date": "2015.02.08",
@@ -5430,11 +5430,11 @@ window.TWM_DATA = {
       "artist": "Chris De Burgh",
       "raw_title": "The Lady In Red / Chris De Burgh",
       "notes": "クリス・デ・バーはアルゼンチン生まれで、国籍はイギリス、そして、アイルランドをベースに活躍するシンガーソングライター。1986年にリリースされた\n\nこの曲は彼にとって最大のヒットを記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-lady-in-red/1406802211?i=1406802217&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Lady in Red",
+      "apple_music_artist_name": "Chris de Burgh",
+      "apple_music_album_name": "The Love Songs"
     },
     {
       "episode_date": "2015.02.08",
@@ -5445,11 +5445,11 @@ window.TWM_DATA = {
       "artist": "The Cranberries",
       "raw_title": "(They Long To Be) Close To You / The Cranberries",
       "notes": "アイルランドの4人組ロック・バンド、ザ・クランベリーズ。この曲は1994年にリリースされたカーペンターズへのトリビュート・アルバム『If I Were A Carpenter』に収録されています。なお、バンドは2003年に解散しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/they-long-to-be-close-to-you/1735761307?i=1735761711&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "(They Long To Be) Close To You",
+      "apple_music_artist_name": "The Cranberries",
+      "apple_music_album_name": "Wrapped Around Your Finger EP - EP"
     },
     {
       "episode_date": "2015.02.08",
@@ -5460,11 +5460,11 @@ window.TWM_DATA = {
       "artist": "Gilbeer O'Sullivan",
       "raw_title": "Alone Again (Naturally) / Gilbeer O'Sullivan",
       "notes": "アイルランド出身のシンガーソングライター、ギルバート・オサリバンの代表曲で、リリースは1972年・・・全米を始め世界で大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/alone-again-naturally/1716081324?i=1716081329&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Alone Again (Naturally)",
+      "apple_music_artist_name": "Gilbert O'Sullivan",
+      "apple_music_album_name": "Alone Again (Naturally) - Single"
     },
     {
       "episode_date": "2015.02.08",
@@ -5475,11 +5475,11 @@ window.TWM_DATA = {
       "artist": "Red Hot Painters",
       "raw_title": "Katy Song / Red Hot Painters",
       "notes": "米サンフランシスコで1989年に結成された4人組のオルタナティヴ・ロック・バンド、レッド・ホット・ペインターズ。日本での知名度は余り高くありませんが、アメリカではカレッジ・ラジオを中心に人気を得ていました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/katy-song/311195427?i=311195466&uo=4",
+      "apple_music_confidence": 90,
+      "apple_music_track_name": "Katy Song",
+      "apple_music_artist_name": "Red House Painters",
+      "apple_music_album_name": "Red House Painters I"
     },
     {
       "episode_date": "2015.02.08",
@@ -5490,11 +5490,11 @@ window.TWM_DATA = {
       "artist": "Elena H.",
       "raw_title": "Luz De Hielo / Elena H.",
       "notes": "訓市が「イビザ」や園周辺の島にいた頃、現地で流行っていた曲で、彼はこの曲を聴くと今でも「イビザに逃げたい〜」という気持ちになるそうです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/luz-de-hielo/257752813?i=257753437&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Luz de Hielo",
+      "apple_music_artist_name": "Elena H",
+      "apple_music_album_name": "Duende - EP"
     },
     {
       "episode_date": "2015.02.08",
@@ -5505,11 +5505,11 @@ window.TWM_DATA = {
       "artist": "Henri Salvador",
       "raw_title": "Room With A View / Henri Salvador",
       "notes": "フランスのシンガーで、ボサノヴァ、ジャズ、ポップス、ロックなど様々なジャンルの作品をリリースした国民的アーティスト、アンリ・サルヴァドール。80歳代にレコーディングされたアルバムのタイトル・トラックで、アンリは「英語」で歌っています。訓市曰く、「崖沿いの景色のいい部屋から外を見るっていう雰囲気が感じられる曲だと思います」とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/room-with-a-view/696846970?i=696847190&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Room With a View",
+      "apple_music_artist_name": "Henri Salvador",
+      "apple_music_album_name": "Chambre avec vue"
     },
     {
       "episode_date": "2015.02.08",
@@ -5520,11 +5520,11 @@ window.TWM_DATA = {
       "artist": "Hall & Oates",
       "raw_title": "One On One / Hall & Oates",
       "notes": "ダリル・ホールとジョン・オーツの２人によるデュオで、「ブルー・アイド・ソウル」と呼ばれる白人によるソウル・ミュージックが魅力！1972年にデビューし、1980年代前半は全世界的に人気を博し、ヒット曲を連発しました。「One On One」は彼らが絶頂期にあった1983年の作品です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/one-on-one/273750173?i=273750251&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "One On One",
+      "apple_music_artist_name": "Daryl Hall & John Oates",
+      "apple_music_album_name": "The Very Best of Daryl Hall & John Oates"
     },
     {
       "episode_date": "2015.02.15",
@@ -5535,11 +5535,11 @@ window.TWM_DATA = {
       "artist": "America",
       "raw_title": "A Horse With No Name / America",
       "notes": "1970年代に活躍したバンド「アメリカ」が1972年にリリースした曲で、全米ナンバーワンを記録し、グラミーの新人賞も受賞しました。「砂漠」では誰もが「名前のない馬」という歌詞の曲で、訓市は「砂漠」に入る時に聴きたくなるとか・・・。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-horse-with-no-name/301027593?i=301027918&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Horse With No Name",
+      "apple_music_artist_name": "America",
+      "apple_music_album_name": "America"
     },
     {
       "episode_date": "2015.02.15",
@@ -5565,11 +5565,11 @@ window.TWM_DATA = {
       "artist": "Audrey Hepburn",
       "raw_title": "Moon River / Audrey Hepburn",
       "notes": "永遠の美女優オードリー・ヘップバーンが主演した1961年の映画『ティファニーで朝食を』との時にレコーディングされた、彼女自身が歌っているヴァージョンで、サントラを手掛けているのは名匠ヘンリー・マンシーニです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/moon-river-from-breakfast-at-tiffanys-2014-remastered/921956067?i=921956098&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Moon River (From \"Breakfast at Tiffany's\") [2014 Remastered Version]",
+      "apple_music_artist_name": "Audrey Hepburn",
+      "apple_music_album_name": "Moon River (From \"Breakfast at Tiffany's\") [2014 Remastered Version] - Single"
     },
     {
       "episode_date": "2015.02.15",
@@ -5580,11 +5580,11 @@ window.TWM_DATA = {
       "artist": "Seu Jorge",
       "raw_title": "Quicksand / Seu Jorge",
       "notes": "今、最注目のウェス・アンダーソン監督が手掛けた映画『ライフ・アクアティック』のサントラで、全編、デヴィッド・ボウイの楽曲をポルトガル語でカバーするという・・・コンセプト・アルバムとしても楽しめる１枚から。セウ・ジョルジはブラジル出身のシンガー・ソング・ライターです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/quicksand/1440916686?i=1440917444&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Quicksand",
+      "apple_music_artist_name": "Seu Jorge",
+      "apple_music_album_name": "The Life Aquatic - Studio Sessions featuring Seu Jorge"
     },
     {
       "episode_date": "2015.02.15",
@@ -5595,11 +5595,11 @@ window.TWM_DATA = {
       "artist": "Fiona Apple",
       "raw_title": "Across The Universe / Fiona Apple",
       "notes": "米ニューヨーク出身の女性シンガー・ソング・ライターで、1998年には「グラミー・アウォード」の＜ベスト・ニュー・アーティスト賞＞にも輝いているフィオナ・アップル。この曲はザ・ビートルズのカバーで、映画『カラー・オブ・ハート』の為にレコーディングされたヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/across-the-universe/269443984?i=269444045&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Across the Universe",
+      "apple_music_artist_name": "Fiona Apple",
+      "apple_music_album_name": "Pleasantville (Music from the Motion Picture)"
     },
     {
       "episode_date": "2015.02.15",
@@ -5610,11 +5610,11 @@ window.TWM_DATA = {
       "artist": "Mazzy Star",
       "raw_title": "Fade Into You / Mazzy Star",
       "notes": "女性ヴォーカリストのホープ・サンドヴァルが1980年代末に結成したオルタナティヴ・ロック・バンド、マジー・スターが1994年にリリースしたアルバム『So Tonight That I Might See』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fade-into-you/1440848808?i=1440848810&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fade into You",
+      "apple_music_artist_name": "Mazzy Star",
+      "apple_music_album_name": "So Tonight That I Might See"
     },
     {
       "episode_date": "2015.02.15",
@@ -5625,11 +5625,11 @@ window.TWM_DATA = {
       "artist": "Spacemen 3",
       "raw_title": "Ecstasy symphony / Spacemen 3",
       "notes": "1980年代初めにイギリスで結成されたバンドで、「スペース・ロック」と呼ばれるジャンルにカテゴライズされる作品をリリースしています。訓市は「砂漠にいると宇宙＝Spaceを感じる」とか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ecstasy-symphony/1524074750?i=1524074755&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Ecstasy Symphony",
+      "apple_music_artist_name": "Spacemen 3",
+      "apple_music_album_name": "DJ Tones - EP"
     },
     {
       "episode_date": "2015.02.15",
@@ -5640,11 +5640,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Moonlight Mile / The Rolling Stones",
       "notes": "世界最高峰の現役ロック・バンド、ザ・ローリング・ストーンズが1971年にリリースした名盤『Sticky Fingers』のラストに収録されている曲。ストリングスを入れた豪華なトラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/moonlight-mile/1440812661?i=1440812828&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Moonlight Mile",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Sticky Fingers (2015 Remaster)"
     },
     {
       "episode_date": "2015.02.22",
@@ -5655,11 +5655,11 @@ window.TWM_DATA = {
       "artist": "Myron & The Works",
       "raw_title": "Beautiful Love / Myron & The Works",
       "notes": "米クリーブランド出身で、フィラデルフィアをベースに活動しているR&B系のシンガー、マイロン。2008年にリリースされた本アルバム『Myron & The Works』は女性ベーシストのミシェル・ンデゲオチェロ、キーボードのロバート・グラスパー、ドラムスのチャールズ・ヘインズといった錚々たるミュージシャンとのセッションから生まれた作品です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/beautiful-love-feat-meshell-ndegeocello-robert-glasper/443520582?i=443520587&uo=4",
+      "apple_music_confidence": 88,
+      "apple_music_track_name": "Beautiful Love (feat. Meshell Ndegeocello & Robert Glasper)",
+      "apple_music_artist_name": "Myron",
+      "apple_music_album_name": "Myron & the Works (feat. Meshell Ndegeocello & Robert Glasper)"
     },
     {
       "episode_date": "2015.02.22",
@@ -5670,11 +5670,11 @@ window.TWM_DATA = {
       "artist": "Erik Satie",
       "raw_title": "Gymnopedie No.1 / Erik Satie",
       "notes": "1800年代中期から1900年代初期に活躍したフランス人作曲家、エリック・サティの代表曲。ウェス・アンダーソン監督の2001年作品『ザ・ロイヤル・テネンバウムズ』の中でこの曲が使われています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/gymnopedie-no-1/847714522?i=847718927&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Gymnopedie No.1",
+      "apple_music_artist_name": "Erik Satie",
+      "apple_music_album_name": "Gymnopedie No.1 - Single"
     },
     {
       "episode_date": "2015.02.22",
@@ -5685,11 +5685,11 @@ window.TWM_DATA = {
       "artist": "John Lennon",
       "raw_title": "Look At Me / John Lennon",
       "notes": "ジョン・レノン・プラスティック・オノ・バンド名義で1970年にリリースされたアルバム『ジョンの魂』に収録されている曲。ウェス・アンダーソン監督がニューヨークへの思いを描いた映画『ザ・ロイヤル・テネンバウムズ』の中で使われています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/look-at-me/1440858209?i=1440858468&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Look At Me",
+      "apple_music_artist_name": "John Lennon",
+      "apple_music_album_name": "John Lennon/Plastic Ono Band"
     },
     {
       "episode_date": "2015.02.22",
@@ -5700,11 +5700,11 @@ window.TWM_DATA = {
       "artist": "Nick Drake",
       "raw_title": "Fly / Nick Drake",
       "notes": "アジア系のイギリス人シンガー・ソング・ライター、ニック・ドレイクのアルバム『Bryter Layter』に収録されている曲で、これも『ザ・ロイヤル・テネンバウム』のサウンド・トラックに入っています。なお、ドレイクは僅か3枚のアルバムを残し、1974年に26歳という若さでこの世を去っています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fly/1704061160?i=1704061588&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fly",
+      "apple_music_artist_name": "Nick Drake",
+      "apple_music_album_name": "Bryter Layter"
     },
     {
       "episode_date": "2015.02.22",
@@ -5715,11 +5715,11 @@ window.TWM_DATA = {
       "artist": "Kanye West feat.Pusha T",
       "raw_title": "Runaway / Kanye West feat.Pusha T",
       "notes": "米シカゴ出身のラッパー、プロデューサーのカニエ・ウェスト。2010年にリリースされた5枚目のアルバム『My Beautiful Dark Twisted Fantasy』に収録されている曲で、訓市は飛行機内のラジオでたまたま選局したチャンネルで耳にして・・・イントロ・パートの「ピアノ」に痺れたとか…",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/runaway-feat-pusha-t/1445865909?i=1445866473&uo=4",
+      "apple_music_confidence": 87,
+      "apple_music_track_name": "Runaway (feat. Pusha T)",
+      "apple_music_artist_name": "Kanye West & Pusha T",
+      "apple_music_album_name": "My Beautiful Dark Twisted Fantasy (Deluxe Edition)"
     },
     {
       "episode_date": "2015.02.22",
@@ -5745,11 +5745,11 @@ window.TWM_DATA = {
       "artist": "Massive Attack",
       "raw_title": "Protection / Massive Attack",
       "notes": "UKブリストル出身のユニット、マッシヴ・アタックは1990年代に一世を風靡した「トリップ・ホップ」と呼ばれるジャンルの中心的存在でした。その絶頂期に当たる1994年にリリースされたアルバム『Protection』は名盤です。アルバム・タイトル・トラックではエブリシング・バット・ザ・ガールの女性ヴォーカリスト、トレイシー・ソーンをフィーチャーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/protection/724410562?i=724410734&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Protection",
+      "apple_music_artist_name": "Massive Attack",
+      "apple_music_album_name": "Protection"
     },
     {
       "episode_date": "2015.02.22",
@@ -5775,11 +5775,11 @@ window.TWM_DATA = {
       "artist": "The Doobie Brothers",
       "raw_title": "Listen To The Music / The Doobie Brothers",
       "notes": "アメリカ西海岸を代表するロック・バンドは1971年にデビュー！その翌年にリリースされたセカンド・アルバム『Toulouse Street』のオープニングを飾るこの曲は大ヒットを記録し、ドゥービーは一躍、人気グループとなりました。1982年のツアーをもって解散しましたが、1980年代末に再結成を果たし、現在に至っています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/listen-to-the-music/1111353875?i=1111354162&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Listen to the Music",
+      "apple_music_artist_name": "The Doobie Brothers",
+      "apple_music_album_name": "Toulouse Street (Remastered)"
     },
     {
       "episode_date": "2015.03.01",
@@ -5790,11 +5790,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "The Ghosts Of Saturday Night (After Hour At Napoleone’s Pizza House) / Tom Waits",
       "notes": "1974年にリリースされたセカンド・アルバム『The Heart Of Saturday Night』に収録されたこの曲のタイトルになっているのは、トム・ウェイツがデビュー前にアルバイトしていたピザ店「Napoleone’s Pizza House」とか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-ghosts-of-saturday-night-after-hours-at/1485070169?i=1485070173&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "The Ghosts of Saturday Night (After Hours at Napoleone's Pizza House)",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "Asylum Years (Remastered)"
     },
     {
       "episode_date": "2015.03.01",
@@ -5805,11 +5805,11 @@ window.TWM_DATA = {
       "artist": "Susanna & The Magical Orchestra",
       "raw_title": "Condition Of The Heart / Susanna & The Magical Orchestra",
       "notes": "ノルウェーの女性シンガー、スサンナと男性ピアニスト、モッテン・クヴェニエルの２人からなるユニットSusanna & The Magical Orchestraによるプリンスのカバー・ヴァージョン。この曲の他、D’Angeloを始め12組のアーティストがプリンスの楽曲をカバーしたコンピレーション・アルバム『Controversy: A Tribute To Prince』もおススメです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/condition-of-the-heart/1651537773?i=1651538213&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Condition of the Heart",
+      "apple_music_artist_name": "Susanna & Susanna and the Magical Orchestra",
+      "apple_music_album_name": "Melody Mountain"
     },
     {
       "episode_date": "2015.03.01",
@@ -5820,11 +5820,11 @@ window.TWM_DATA = {
       "artist": "Ohio Players",
       "raw_title": "Sweet Sticky Thing / Ohio Players",
       "notes": "グループ名の通り、米オハイオ州出身のファンク・バンド、オハイオ・プレーヤーズの代表作の１枚、1975年のアルバム『Honey』に収録されているセクシー＆スムースな名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sweet-sticky-thing/1434909253?i=1434909264&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sweet Sticky Thing",
+      "apple_music_artist_name": "Ohio Players",
+      "apple_music_album_name": "Honey"
     },
     {
       "episode_date": "2015.03.01",
@@ -5835,11 +5835,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Beast Of Burden / The Rolling Stones",
       "notes": "1978年にリリースされたザ・ローリング・ストーンズのアルバム『Some Girls』に収録。なお、このアルバムはギタリストのロン・ウッドがバンド・メンバーとなって、全曲に参加した最初の作品でもあります。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/beast-of-burden/1440816775?i=1440817036&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Beast Of Burden",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Some Girls (Remastered 2011)"
     },
     {
       "episode_date": "2015.03.01",
@@ -5865,11 +5865,11 @@ window.TWM_DATA = {
       "artist": "Sylvia Striplin",
       "raw_title": "Give Me Your Love / Sylvia Striplin",
       "notes": "米ニューヨーク出身の女性R&Bヴォーカリスト、シルヴィア・ストリップリンが1981年にリリースした唯一のリーダー・アルバムのタイトル・トラックで、ダンス・クラシックとしてお馴染みの曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/give-me-your-love/422810454?i=422810480&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Give Me Your Love",
+      "apple_music_artist_name": "Sylvia Striplin",
+      "apple_music_album_name": "Boogie Fresh Volume 2 (Bionic Dance Rarities)"
     },
     {
       "episode_date": "2015.03.01",
@@ -5880,11 +5880,11 @@ window.TWM_DATA = {
       "artist": "Marvin Gaye",
       "raw_title": "After The Dance / Marvin Gaye",
       "notes": "不世出の黒人男性ヴォーカリスト、マーヴィン・ゲイがカリスマ的存在となっていた1976年にリリースされたスロー・ジャム。ソング・ライティングとプロデュースでクレジットされているリオン・ウェアの存在も効果大！クール・ダウンにオススメの歴史的名盤です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/after-the-dance/1434929326?i=1434929650&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "After the Dance",
+      "apple_music_artist_name": "Marvin Gaye",
+      "apple_music_album_name": "The Complete Collection"
     },
     {
       "episode_date": "2015.03.08",
@@ -5895,11 +5895,11 @@ window.TWM_DATA = {
       "artist": "Buena Vista Social Club",
       "raw_title": "Chan Chan / Buena Vista Social Club",
       "notes": "アメリカ人ギタリスト、ライ・クーダーのプロデュースのもと、キューバの長老ミュージシャンが終結し、１９９７年に制作されたアルバム『ブエナ・ビスタ・ソシアル・クラブ』。作品タイトルは１９４０年代に実在した会員制クラブの名称で、「Chan Chan」はリリース当時、日本のラジオ・ステーションでヒットを記録！１９９９年にはヴィム・ベンダース監督により同名のドキュメンタリー映画も製作されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/chan-chan/1716598034?i=1716598344&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Chan Chan",
+      "apple_music_artist_name": "Buena Vista Social Club",
+      "apple_music_album_name": "Buena Vista Social Club"
     },
     {
       "episode_date": "2015.03.08",
@@ -5910,11 +5910,11 @@ window.TWM_DATA = {
       "artist": "Ry Cooder",
       "raw_title": "Southern Comfort / Ry Cooder",
       "notes": "映画『エイリアン』シリーズを始め、数多くの作品を手掛けているウォルター・ヒル監督による映画『サザン・コンフォート』のサントラで、ライ・クーダーが担当しています。かつて、バーボン・ウィスキー「アーリー・タイムズ」のテレビＣＭが日本でオンエアされていて、それを観た訓市はライ・クーダーがプレイするスライド・ギターに魅了されたたとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/theme-from-southern-comfort/319400436?i=319400444&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Theme from Southern Comfort",
+      "apple_music_artist_name": "Ry Cooder",
+      "apple_music_album_name": "Music by Ry Cooder"
     },
     {
       "episode_date": "2015.03.08",
@@ -5940,11 +5940,11 @@ window.TWM_DATA = {
       "artist": "Jon Secada",
       "raw_title": "Just Another Day / Jon Secada",
       "notes": "キューバのハバナ生まれで、マイアミ育ちの男性ヴォーカリスト、ジョン・セカダ。１９９２年にリリースされたデビュー・アルバム『JON SECADA』に収録されたこの曲は全世界的に大ヒットを記録し、当時、J-WAVEでもヘヴィー・プレイされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/just-another-day/723751830?i=723752126&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Just Another Day",
+      "apple_music_artist_name": "Jon Secada",
+      "apple_music_album_name": "Jon Secada"
     },
     {
       "episode_date": "2015.03.08",
@@ -5955,11 +5955,11 @@ window.TWM_DATA = {
       "artist": "矢沢永吉",
       "raw_title": "Yes, My Love / 矢沢永吉",
       "notes": "１９８２年にリリースされたシングル曲で、当時、コカ・コーラのテレビＣＭソングとして大ヒットを記録しました。ＣＭ用として、一部の歌詞をかえた別ヴァージョンも存在します。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/yes-my-love-remastered-2022/1635929881?i=1635929890&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "YES MY LOVE (Remastered 2022)",
+      "apple_music_artist_name": "矢沢永吉",
+      "apple_music_album_name": "P.M.9 (50th Anniversary Remastered)"
     },
     {
       "episode_date": "2015.03.08",
@@ -5970,11 +5970,11 @@ window.TWM_DATA = {
       "artist": "Buena Vista Social Club",
       "raw_title": "Pueblo Nuevo / Buena Vista Social Club",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pueblo-nuevo/1716598034?i=1716598355&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Pueblo Nuevo",
+      "apple_music_artist_name": "Buena Vista Social Club",
+      "apple_music_album_name": "Buena Vista Social Club"
     },
     {
       "episode_date": "2015.03.08",
@@ -5985,11 +5985,11 @@ window.TWM_DATA = {
       "artist": "Gloria Estefan",
       "raw_title": "Words Get In The Way / Gloria Estefan",
       "notes": "キューバ出身で、革命後、アメリカのマイアミに移住した女性ヴォーカリスト、グロリア・エステファン。夫のエミリオ・エステファン率いるバンド、マイアミ・サウンド・マシーンと共に１９８０年代にヒット曲を量産しました。１９８５年のアルバム『Primitive Love』に収録されているこの曲は訓市が初めて耳にしたキューバ音楽とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/words-get-in-the-way/193045167?i=193045209&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Words Get in the Way",
+      "apple_music_artist_name": "Gloria Estefan",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2015.03.08",
@@ -6000,11 +6000,11 @@ window.TWM_DATA = {
       "artist": "Jeff Buckley",
       "raw_title": "Satisfied Mind / Jeff Buckley",
       "notes": "カリフォルニア出身のシンガー・ソング・ライター、ジェフ・バックリーは１９９４年にデビュー・アルバム『Grace』をリリースするも、不慮の事故で１９９７年に逝去。この曲は彼が亡くなったあとの１９９８年にリリースされた未発表曲集『Sketches For My Sweetheart The Drunk』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/satisfied-mind/1476889988?i=1476890070&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Satisfied Mind",
+      "apple_music_artist_name": "Jeff Buckley",
+      "apple_music_album_name": "You and I (Expanded Edition)"
     },
     {
       "episode_date": "2015.03.08",
@@ -6015,11 +6015,11 @@ window.TWM_DATA = {
       "artist": "Seals & Crofts",
       "raw_title": "Summer Breeze / Seals & Crofts",
       "notes": "訓市が感じたキューバは・・・ 「毎晩、夏の夜風のような雰囲気」だったとか。シールズ＆クロフツの「Summer Breeze」はオール・タイム・スタンダードです！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/summer-breeze/303229963?i=303230013&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Summer Breeze",
+      "apple_music_artist_name": "Seals & Crofts",
+      "apple_music_album_name": "Summer Breeze"
     },
     {
       "episode_date": "2015.03.15",
@@ -6030,11 +6030,11 @@ window.TWM_DATA = {
       "artist": "Norah Jones",
       "raw_title": "Don't Know Why / Norah Jones",
       "notes": "ニューヨーク出身の女性ヴォーカリスト兼ピアニスト、ノラ・ジョーンズ。２００２年にリリースしたこの曲を含む彼女のデビュー・アルバム『Come Away With Me』は全世界で大ヒットし、グラミー・アウォードの主要４部門を独占！という華々しい記録を残しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-know-why/1625058458?i=1625058461&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't Know Why",
+      "apple_music_artist_name": "Norah Jones",
+      "apple_music_album_name": "Come Away With Me (Super Deluxe Edition)"
     },
     {
       "episode_date": "2015.03.15",
@@ -6045,11 +6045,11 @@ window.TWM_DATA = {
       "artist": "Roberta Flack",
       "raw_title": "Making Love / Roberta Flack",
       "notes": "ソロ・デビューは１９６９年で、今なお現役で活躍しているアメリカＲ＆Ｂの御大女性ヴォーカリスト、ロバータ・フラックが１９８２年にリリースしたアルバム『I’m The One』に収録されたメロー・ソング。超一流セッション・ミュージシャンによるバック・トラックも聴きものです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/making-love/120158065?i=120158023&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Making Love",
+      "apple_music_artist_name": "Roberta Flack",
+      "apple_music_album_name": "I'm the One"
     },
     {
       "episode_date": "2015.03.15",
@@ -6060,11 +6060,11 @@ window.TWM_DATA = {
       "artist": "Dan Fogelberg",
       "raw_title": "Longer / Dan Fogelberg",
       "notes": "１９７０年代から２０００年代にかけて活躍したアメリカのシンガー・ソング・ライター、ダン・フォーゲルバーグ最大のヒット曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/longer/201265601?i=201266116&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Longer",
+      "apple_music_artist_name": "Dan Fogelberg",
+      "apple_music_album_name": "Phoenix"
     },
     {
       "episode_date": "2015.03.15",
@@ -6075,11 +6075,11 @@ window.TWM_DATA = {
       "artist": "Basia",
       "raw_title": "Time And Tide / Basia",
       "notes": "ポーランド出身でロンドンをベースに活躍する女性ヴォーカリスト、バーシア。この曲は１９８７年にリリースされたデビュー・アルバムのタイトル・トラックで、J-WAVEが開局した１９８８年当時にヘヴィー・エアプレイされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/time-and-tide/424139256?i=424139274&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Time and Tide",
+      "apple_music_artist_name": "Basia",
+      "apple_music_album_name": "Time and Tide"
     },
     {
       "episode_date": "2015.03.15",
@@ -6090,11 +6090,11 @@ window.TWM_DATA = {
       "artist": "ホテルニュートーキョー",
       "raw_title": "Let Me Turn You On / ホテルニュートーキョー",
       "notes": "ギタリストの今谷忠弘を中心とした音楽ユニット、ホテル・ニュー・トーキョーの２００９年リリースのアルバム『Spring/Summer』に収録されている曲。ミュージシャンを固定せず、ユニットというスタイルをとっているのは、「解散するのがイヤ」だからとのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/let-me-turn-you-on/1180415257?i=1180415305&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "let me turn you on",
+      "apple_music_artist_name": "ホテルニュートーキョー",
+      "apple_music_album_name": "2009 spring / summer"
     },
     {
       "episode_date": "2015.03.15",
@@ -6105,11 +6105,11 @@ window.TWM_DATA = {
       "artist": "Andy Gibb",
       "raw_title": "I Just Want To Be Your Everything / Andy Gibb",
       "notes": "映画『サタデー・ナイト・フィーバー』のサントラの大ヒットで１９７０年代後期に一世を風靡したイギリスのグループ、ビージーズ。その兄弟の弟、アンディ・ギブが１９７７年に放った大ヒット曲で、邦題は「恋のときめき」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-just-want-to-be-your-everything/1442252219?i=1442252230&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Just Want To Be Your Everything",
+      "apple_music_artist_name": "Andy Gibb",
+      "apple_music_album_name": "Flowing Rivers"
     },
     {
       "episode_date": "2015.03.15",
@@ -6120,11 +6120,11 @@ window.TWM_DATA = {
       "artist": "Carly Simon",
       "raw_title": "The Right Thing To Do / Carly Simon",
       "notes": "１９７０年代初頭から現在に至るまで第一線で活躍するアメリカの女性シンガー・ソング・ライター、カーリー・サイモン。１９７２年にリリースされたアルバム『No Secrets』のオープニングを飾っている曲で、他に、彼女の代表曲である「You’re So Vain」も収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-right-thing-to-do/1057307808?i=1057307814&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Right Thing to Do",
+      "apple_music_artist_name": "Carly Simon",
+      "apple_music_album_name": "No Secrets"
     },
     {
       "episode_date": "2015.03.15",
@@ -6135,11 +6135,11 @@ window.TWM_DATA = {
       "artist": "Glenn Frey",
       "raw_title": "The One You Love / Glenn Frey",
       "notes": "２０世紀のウェスト・コースト・ロックを代表するバンド、イーグルスの創設メンバーだったグレン・フライが１９８２年にリリースし、ヒットを記録したソロ曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-one-you-love/1077040876?i=1077040892&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The One You Love",
+      "apple_music_artist_name": "Glenn Frey",
+      "apple_music_album_name": "No Fun Aloud"
     },
     {
       "episode_date": "2015.03.15",
@@ -6150,11 +6150,11 @@ window.TWM_DATA = {
       "artist": "Jim Photoglo",
       "raw_title": "Fool In Love With You / Jim Photoglo",
       "notes": "カリフォルニア出身のＡＯＲシンガー、ジム・フォトグロが１９８１年にリリースしたアルバムのタイトル・トラックで、自身最大のヒット曲となっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fool-in-love-with-you/432286503?i=432286598&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fool In Love With You",
+      "apple_music_artist_name": "Jim Photoglo",
+      "apple_music_album_name": "Cafe Drive Standard 2"
     },
     {
       "episode_date": "2015.03.22",
@@ -6165,11 +6165,11 @@ window.TWM_DATA = {
       "artist": "James Taylor",
       "raw_title": "Don't Let Me Be Lonely Tonight / James Taylor",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-let-me-be-lonely-tonight/320083830?i=320083932&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't Let Me Be Lonely Tonight",
+      "apple_music_artist_name": "James Taylor",
+      "apple_music_album_name": "Greatest Hits, Vol. 1"
     },
     {
       "episode_date": "2015.03.22",
@@ -6180,11 +6180,11 @@ window.TWM_DATA = {
       "artist": "Simon & Garfunkel",
       "raw_title": "Wednesday Morning 3 AM / Simon & Garfunkel",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/wednesday-morning-3-a-m/203925134?i=203925873&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Wednesday Morning, 3 A.M.",
+      "apple_music_artist_name": "Simon & Garfunkel",
+      "apple_music_album_name": "Wednesday Morning, 3 A.M."
     },
     {
       "episode_date": "2015.03.22",
@@ -6195,11 +6195,11 @@ window.TWM_DATA = {
       "artist": "Everything But The Girl",
       "raw_title": "Driving (Acoustic Mix) / Everything But The Girl",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/driving-acoustic/1629192845?i=1629193160&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Driving (Acoustic)",
+      "apple_music_artist_name": "Everything But the Girl",
+      "apple_music_album_name": "Adapt or Die: Ten Years of Remixes"
     },
     {
       "episode_date": "2015.03.22",
@@ -6210,11 +6210,11 @@ window.TWM_DATA = {
       "artist": "Radiohead",
       "raw_title": "Banana Co / Radiohead",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/banana-co/1112425223?i=1112425471&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Banana Co",
+      "apple_music_artist_name": "Radiohead",
+      "apple_music_album_name": "Street Spirit (Fade Out) - EP"
     },
     {
       "episode_date": "2015.03.22",
@@ -6225,11 +6225,11 @@ window.TWM_DATA = {
       "artist": "泉谷しげる",
       "raw_title": "春夏秋冬 / 泉谷しげる",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC/774643133?i=774643160&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "春夏秋冬",
+      "apple_music_artist_name": "泉谷しげる",
+      "apple_music_album_name": "春夏秋冬"
     },
     {
       "episode_date": "2015.03.22",
@@ -6255,11 +6255,11 @@ window.TWM_DATA = {
       "artist": "Badly Drown Boy",
       "raw_title": "Epitaph / Badly Drown Boy",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/epitaph/1540689690?i=1540690377&uo=4",
+      "apple_music_confidence": 90,
+      "apple_music_track_name": "Epitaph",
+      "apple_music_artist_name": "Badly Drawn Boy",
+      "apple_music_album_name": "The Hour of Bewilderbeast"
     },
     {
       "episode_date": "2015.03.22",
@@ -6285,11 +6285,11 @@ window.TWM_DATA = {
       "artist": "Caribou",
       "raw_title": "Melody Day (Four Tet Remix) / Caribou",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/melody-day-four-tet-remix-feat-luke-lalonde-adem-one/1238174614?i=1238175976&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Melody Day (Four Tet Remix) [feat. Luke Lalonde, Adem & One Little Plane] [Mixed]",
+      "apple_music_artist_name": "Caribou",
+      "apple_music_album_name": "DJ-Kicks (DJ Mix)"
     },
     {
       "episode_date": "2015.03.29",
@@ -6300,11 +6300,11 @@ window.TWM_DATA = {
       "artist": "Incognito",
       "raw_title": "Still A Friend Of Mine / Incognito",
       "notes": "「踊れるジャズ」というコンセプトのもと、1980年代後半にロンドンで隆盛し、日本でも一大ブームを巻き起こしたジャンル「アシッド・ジャズ」を代表するインコグニートの代表曲。バンドは今も現役で活動しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/still-a-friend-of-mine/1444170958?i=1444170962&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Still a Friend of Mine",
+      "apple_music_artist_name": "Incognito",
+      "apple_music_album_name": "Positivity"
     },
     {
       "episode_date": "2015.03.29",
@@ -6315,11 +6315,11 @@ window.TWM_DATA = {
       "artist": "Simon & Garfunkel",
       "raw_title": "April Come She Will / Simon & Garfunkel",
       "notes": "アメリカのポピュラー・ミュージックを代表する男性デュオ、サイモン＆ガーファンクルの代表作で、ダスティン・ホフマン主演の名作映画『卒業』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/april-come-she-will/192480256?i=192480540&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "April Come She Will",
+      "apple_music_artist_name": "Simon & Garfunkel",
+      "apple_music_album_name": "Sounds of Silence"
     },
     {
       "episode_date": "2015.03.29",
@@ -6330,11 +6330,11 @@ window.TWM_DATA = {
       "artist": "Jackson Browne",
       "raw_title": "The Load-Out 〜 Stay (Just A Little Longer) / Jackson Browne",
       "notes": "アメリカ西海岸系のシンガー・ソング・ライターで、1970〜80年代にヒットを連発したジャクソン・ブラウン… その絶頂期に当たる1977年にリリースされたアルバム『Running On Empty〜孤独なランナー』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-load-out/842470967?i=842470998&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "The Load Out",
+      "apple_music_artist_name": "Jackson Browne",
+      "apple_music_album_name": "The Very Best of Jackson Browne"
     },
     {
       "episode_date": "2015.03.29",
@@ -6345,11 +6345,11 @@ window.TWM_DATA = {
       "artist": "Bob James",
       "raw_title": "Friends / Bob James",
       "notes": "キーボード・プレーヤー、コンポーザー、アレンジャーとして数多くの作品に参加し、自身もコンスタントにリーダー作をリリースしているレジェンド、ボブ・ジェームス。この曲は1979年にリリースされたアルバム『Lucky Seven』に収録れている曲で、ニール・ジェイソンのヴォーカルをフィーチャーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/friends/1437983337?i=1437983343&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Friends",
+      "apple_music_artist_name": "Bob James",
+      "apple_music_album_name": "Lucky Seven"
     },
     {
       "episode_date": "2015.03.29",
@@ -6360,11 +6360,11 @@ window.TWM_DATA = {
       "artist": "Dionne Warwick & Friends",
       "raw_title": "That's What Friends Are For / Dionne Warwick & Friends",
       "notes": "アメリカの巨匠女性ヴォーカリスト、ディオンヌ・ワーウィックが1985年にリリースし、世界的に大ヒットを記録した曲「愛のハーモニー」。バート・バカラック＆キャロル・ベイヤー・セイガーのペンによる曲で、「Friends」の顔ぶれはグラディス・ナイト、エルトン・ジョン、スティーヴィー・ワンダー！圧倒的なメンツです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/thats-what-friends-are-for/302981254?i=302981260&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "That's What Friends Are For",
+      "apple_music_artist_name": "Dionne Warwick",
+      "apple_music_album_name": "Platinum & Gold Collection"
     },
     {
       "episode_date": "2015.03.29",
@@ -6375,11 +6375,11 @@ window.TWM_DATA = {
       "artist": "DJ Shadow",
       "raw_title": "I've Been Trying / DJ Shadow",
       "notes": "米カリフォルニア出身のターンテーブリスト、プロデューサーのDJ Shadow。2011年にリリースされたアルバム『The Less You Know, The Better』に収録されたメローなナイス・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ive-been-trying/1660656585?i=1660657173&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I've Been Trying",
+      "apple_music_artist_name": "DJ Shadow",
+      "apple_music_album_name": "The Less You Know, The Better"
     },
     {
       "episode_date": "2015.03.29",
@@ -6390,11 +6390,11 @@ window.TWM_DATA = {
       "artist": "Green Day",
       "raw_title": "Good Riddance (Time Of Your Life) / Green Day",
       "notes": "米カリフォルニア出身の4人組ロック・バンド、グリーン・デイ。1997年リリースのアルバム『Nimrod』に収録されている曲で、欧米では卒業や旅立ちの時、絶対に耳にするとか。様々なことが有っても「Time of your life」・・・人生の素晴らしい時を君が持てたことを祈る！という素晴らしい歌詞です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/good-riddance-time-of-your-life-live-at-the/1649630743?i=1649631245&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Good Riddance (Time of Your Life) [Live at the Electric Factory, Philadelphia 11/14/97]",
+      "apple_music_artist_name": "Green Day",
+      "apple_music_album_name": "Nimrod (25th Anniversary Edition)"
     },
     {
       "episode_date": "2015.03.29",
@@ -6405,11 +6405,11 @@ window.TWM_DATA = {
       "artist": "Fatboy Slim",
       "raw_title": "Praise You / Fatboy Slim",
       "notes": "「長い間頑張ってきたね。私がそれを認めて祝福してあげる」という素晴らしい旅立ちの曲！ファットボーイ・スリムはDJ、プロデューサーとして多岐にわたって活動しているアーティスト、ノーマン・クックの個人名義プロジェクトのひとつです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/praise-you/714927896?i=714928246&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Praise You",
+      "apple_music_artist_name": "Fatboy Slim",
+      "apple_music_album_name": "You've Come a Long Way Baby"
     },
     {
       "episode_date": "2015.04.05",
@@ -6420,11 +6420,11 @@ window.TWM_DATA = {
       "artist": "Bobby Darin",
       "raw_title": "Beyond The Sea / Bobby Darin",
       "notes": "ニューヨーク出身の男性シンガーで、ポップス、ロック、カントリー、ジャズなどのジャンルを超越して活躍しました。この曲は1959年にリリースされたアルバム『That’s All』に収録されているもので、邦題は「夢見るように歌えば」。オリジナルは「Let Mer」というタイトルのフランス産曲で、ダーリンが英語歌詞をつけて大ヒットしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/beyond-the-sea/30393091?i=30393096&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Beyond the Sea",
+      "apple_music_artist_name": "Bobby Darin",
+      "apple_music_album_name": "That's All"
     },
     {
       "episode_date": "2015.04.05",
@@ -6435,11 +6435,11 @@ window.TWM_DATA = {
       "artist": "Beirut",
       "raw_title": "Elephant Gun / Beirut",
       "notes": "レバノンの首都を名付けたアメリカのバンドで、中心メンバーはザック・コンドンという人物。この曲は2007年にEPでリリースされています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/elephant-gun/1343375744?i=1343375764&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Elephant Gun",
+      "apple_music_artist_name": "Beirut",
+      "apple_music_album_name": "Lon Gisland - EP"
     },
     {
       "episode_date": "2015.04.05",
@@ -6450,11 +6450,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "I'm On Fire / Bruce Springsteen",
       "notes": "「ボス」こと、アメリカを代表するロックン・ローラー＝ブルース・スプリングスティーンの代表作『Born In U.S.A.』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-on-fire/203708420?i=203708893&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm On Fire",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "Born In the U.S.A."
     },
     {
       "episode_date": "2015.04.05",
@@ -6465,11 +6465,11 @@ window.TWM_DATA = {
       "artist": "Alan Parsons Project",
       "raw_title": "Time / Alan Parsons Project",
       "notes": "プロデューサー、アレンジャー、エンジニアとして数多くのビッグ・ネームをサポートしたアラン・パーソンズのソロ・プロジェクトによる曲で、1980年のアルバム『The Turn Of A Friendly Card』に収録。美曲です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/time/305368319?i=305368387&uo=4",
+      "apple_music_confidence": 96,
+      "apple_music_track_name": "Time",
+      "apple_music_artist_name": "The Alan Parsons Project",
+      "apple_music_album_name": "The Best of The Alan Parsons Project"
     },
     {
       "episode_date": "2015.04.05",
@@ -6480,11 +6480,11 @@ window.TWM_DATA = {
       "artist": "佐野元春",
       "raw_title": "バルセロナの夜 / 佐野元春",
       "notes": "1981年にリリースされた名盤『Heart Beat』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%81%AE%E5%A4%9C/1536972196?i=1536972202&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "バルセロナの夜",
+      "apple_music_artist_name": "佐野元春",
+      "apple_music_album_name": "Heart Beat"
     },
     {
       "episode_date": "2015.04.05",
@@ -6495,11 +6495,11 @@ window.TWM_DATA = {
       "artist": "Tears For Fears",
       "raw_title": "Pharaohs / Tears For Fears",
       "notes": "イギリス出身のローランド・オーザバルとカート・スミスの二人組ユニット、ティアーズ・フォー・フィアーズの最大のヒット曲「１Everybody Wants To Rule The World」好きの方にオススメのヴァージョンです。2006年にリリースされた『Songs From The Big Chair』のDeluxe Editionに収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pharaohs-single-version/1440825207?i=1440825575&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Pharaohs (Single Version)",
+      "apple_music_artist_name": "Tears for Fears",
+      "apple_music_album_name": "Songs From the Big Chair (Super Deluxe Version)"
     },
     {
       "episode_date": "2015.04.05",
@@ -6540,11 +6540,11 @@ window.TWM_DATA = {
       "artist": "Dionne Warwick",
       "raw_title": "Walk On By / Dionne Warwick",
       "notes": "バート・バカラックとハル・デヴィッドの名ソングライター・コンビによるスタンダード！多くのアーティストが取り上げていますが、コレがオリジナル・ヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/walk-on-by/41688495?i=41688511&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Walk On By",
+      "apple_music_artist_name": "Dionne Warwick",
+      "apple_music_album_name": "Make Way for Dionne Warwick"
     },
     {
       "episode_date": "2015.04.12",
@@ -6555,11 +6555,11 @@ window.TWM_DATA = {
       "artist": "Groove Armada",
       "raw_title": "Fly Me to The Moon / Groove Armada",
       "notes": "バート・ハワードの作詞・作曲により１９５０年代に生まれた楽曲で、フランク・シナトラを始め数え切れない程のアーティストが取り上げているジャズ・スタンダード。グルーヴ・アルマダはイギリス人二人によるテクノ系ユニットです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fly-me-to-the-moon/1101113758?i=1101114043&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fly Me to the Moon",
+      "apple_music_artist_name": "Groove Armada",
+      "apple_music_album_name": "Late Night Tales: Another Late Night (Sampler)"
     },
     {
       "episode_date": "2015.04.12",
@@ -6570,11 +6570,11 @@ window.TWM_DATA = {
       "artist": "Fairground Attraction",
       "raw_title": "Moon On The Rain / Fairground Attraction",
       "notes": "イギリス人女性ヴォーカリストのエディ・リーダーを中心としたバンド、フェアグラウンド・アトラクション。活動期間はわずか２年ほどで、オリジナル・アルバムは１枚のみですが、「Perfect」「Clair」など名曲揃い！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/moon-on-the-rain/284543783?i=284543786&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Moon On the Rain",
+      "apple_music_artist_name": "Fairground Attraction",
+      "apple_music_album_name": "The First of a Million Kisses"
     },
     {
       "episode_date": "2015.04.12",
@@ -6585,11 +6585,11 @@ window.TWM_DATA = {
       "artist": "Neil Young",
       "raw_title": "Harvest Moon / Neil Young",
       "notes": "カナダ出身の男性シンガー・ソング・ライター、ニール・ヤングが１９９２年にリリースしたアルバムのタイトル・トラック。キャリア４６年にして今も現役で活躍しているロック・シーンのレジェンドです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/harvest-moon/135132797?i=135132767&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Harvest Moon",
+      "apple_music_artist_name": "Neil Young",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2015.04.12",
@@ -6600,11 +6600,11 @@ window.TWM_DATA = {
       "artist": "Prince & The Revolution",
       "raw_title": "Under The Cherry Moon / Prince & The Revolution",
       "notes": "殿下こと、プリンスが監督・主演を務めた映画『アンダー・ザ・チェリー・ムーン』のサウンド・トラック・アルバム。映画自体は「ゴールデン・ラズベリー賞」を多数獲得するなど、芳しい結果を残していませんが、サントラは名盤！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/under-the-cherry-moon/260336005?i=260336213&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Under the Cherry Moon",
+      "apple_music_artist_name": "Prince & The Revolution",
+      "apple_music_album_name": "Parade (Music from the Motion Picture Under the Cherry Moon)"
     },
     {
       "episode_date": "2015.04.12",
@@ -6615,11 +6615,11 @@ window.TWM_DATA = {
       "artist": "Radiohead",
       "raw_title": "Sail To The Moon / Radiohead",
       "notes": "ヴォーカルのトム・ヨークを中心としたイギリスの５人組バンド、レディオヘッド。２００３年にリリースされたアルバム『Hail To The Thief』に収録された曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sail-to-the-moon/1097863576?i=1097863819&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sail to the Moon",
+      "apple_music_artist_name": "Radiohead",
+      "apple_music_album_name": "Hail to the Thief"
     },
     {
       "episode_date": "2015.04.12",
@@ -6630,11 +6630,11 @@ window.TWM_DATA = {
       "artist": "My Bloody Valentine",
       "raw_title": "Moon Song / My Bloody Valentine",
       "notes": "アイルランド出身のオルタナティブ・ロック・バンド、マイ・ブラッディ・ヴァレンタイン。この曲は１９９１年にリリースされたEP『Tremolo』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/moon-song/1556901354?i=1556901431&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "moon song",
+      "apple_music_artist_name": "my bloody valentine",
+      "apple_music_album_name": "ep's 1988-1991 and rare tracks"
     },
     {
       "episode_date": "2015.04.12",
@@ -6645,11 +6645,11 @@ window.TWM_DATA = {
       "artist": "Pink Floyd",
       "raw_title": "The Great Gig In The Sky / Pink Floyd",
       "notes": "イギリスの伝説的プログレシブ・ロック・バンド、ピンク・フロイドの最高傑作、『The Dark Side Of The Moon?狂気』に収録されている曲。訓市がロンドンに住んでいる時、とある雑誌の企画で、「愛の夜に聴きたい最高の曲ベスト100」という記事が載っていて、その1位がこの曲だったとか。一聴すれば分かると思いますが、なかなかムーディーで、どんどん怪しい感じになっていくので・・・日頃、マンネリの方はゼヒ、この曲で！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-great-gig-in-the-sky/1065973699?i=1065973707&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Great Gig In the Sky",
+      "apple_music_artist_name": "Pink Floyd",
+      "apple_music_album_name": "The Dark Side of the Moon"
     },
     {
       "episode_date": "2015.04.12",
@@ -6660,11 +6660,11 @@ window.TWM_DATA = {
       "artist": "King Harvest",
       "raw_title": "Dancing In The Moonlight / King Harvest",
       "notes": "フランス出身のバンドで、１９７０年代に活躍したキング・ハーヴェストの最大のヒット曲。多くのミュージシャンがカバーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dancing-in-the-moonlight/208819125?i=208819580&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dancing In the Moonlight",
+      "apple_music_artist_name": "King Harvest",
+      "apple_music_album_name": "Dancing In the Moonlight"
     },
     {
       "episode_date": "2015.04.19",
@@ -6675,11 +6675,11 @@ window.TWM_DATA = {
       "artist": "Chicago",
       "raw_title": "Saturday In The Park / Chicago",
       "notes": "米イリノイ州シカゴで結成されたバンド、その名も「シカゴ」。１９６９年にデビュー・アルバムをリリースして以降、メンバー・チェンジを経ながら現在も活動しています。「ブラス」＝ホーン・セクションを大胆に取り入れた「ブラス・ロック」と呼ばれるスタイルを確立したグループです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/saturday-in-the-park/28457957?i=28457986&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Saturday In the Park",
+      "apple_music_artist_name": "Chicago",
+      "apple_music_album_name": "The Very Best of Chicago: Only the Beginning"
     },
     {
       "episode_date": "2015.04.19",
@@ -6690,11 +6690,11 @@ window.TWM_DATA = {
       "artist": "Lindstrom & Prins Thomas",
       "raw_title": "Feel PM / Lindstrom & Prins Thomas",
       "notes": "２０００年代に盛り上がりを見せたジャンル「ニュー・ディスコ」シーンを代表するノルウェー人アーティスト、リンドストロムとプリンス・トーマスという2人のコラボレーションで生まれた名パフォーマンス。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/feel-pm/253684118?i=253686018&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Feel PM",
+      "apple_music_artist_name": "Lindstrom & Prins Thomas",
+      "apple_music_album_name": "Reinterpretations"
     },
     {
       "episode_date": "2015.04.19",
@@ -6705,11 +6705,11 @@ window.TWM_DATA = {
       "artist": "Feist",
       "raw_title": "The Park / Feist",
       "notes": "カナダ出身の女性シンガー・ソング・ライター、ファイスト。「公園」というシンプルなタイトルのこの曲は２００７年リリースのアルバム『The Reminder』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-park/1440837029?i=1440837520&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Park",
+      "apple_music_artist_name": "Feist",
+      "apple_music_album_name": "The Reminder (Deluxe Version)"
     },
     {
       "episode_date": "2015.04.19",
@@ -6720,11 +6720,11 @@ window.TWM_DATA = {
       "artist": "Beach House",
       "raw_title": "Walk In The Park / Beach House",
       "notes": "フランス出身の女性ヴォーカリストとアメリカ出身の男性ギタリストによるポップ・ロック・・デュオ、ビーチ・ハウス。訓市曰く、「タイトルに”PARK”がついている作品は名曲揃い」とのこと。納得！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/walk-in-the-park/349535407?i=349535428&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Walk In the Park",
+      "apple_music_artist_name": "Beach House",
+      "apple_music_album_name": "Teen Dream (Bonus Track Version)"
     },
     {
       "episode_date": "2015.04.19",
@@ -6750,11 +6750,11 @@ window.TWM_DATA = {
       "artist": "Jim Orouke",
       "raw_title": "Through The Night Softly / Jim Orouke",
       "notes": "ギターを中心に様々な楽器を操るマルチ・ミュージシャンで、プロデューサー、コンポーザー、アレンジャーとしても独自の世界を表現し続けているジム・オルーク。１９９９年にリリースされた、ジャケット・デザインのインパクト１００パーセントのアルバム『Eureka』に収録されている曲で、公園散歩のBGMにおススメ！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/through-the-night-softly/1610301015?i=1610301020&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Through the Night Softly",
+      "apple_music_artist_name": "Jim O'Rourke",
+      "apple_music_album_name": "Eureka"
     },
     {
       "episode_date": "2015.04.19",
@@ -6765,11 +6765,11 @@ window.TWM_DATA = {
       "artist": "Razika",
       "raw_title": "Walk In The Park / Razika",
       "notes": "ノルウェー出身の女性４人からなるアルタナティヴ・ポップ・バンド、ラジカ。ジャケ写がキュート！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/walk-in-the-park/1557853718?i=1557854570&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Walk in the Park",
+      "apple_music_artist_name": "Razika",
+      "apple_music_album_name": "Program 91"
     },
     {
       "episode_date": "2015.04.19",
@@ -6780,11 +6780,11 @@ window.TWM_DATA = {
       "artist": "Real Estate",
       "raw_title": "Green Aisles / Real Estate",
       "notes": "アメリカ東海岸、ニュージャージー出身のインディ・ロック・バンド、リアル・エステート。２００９年にリリースされたデビュー・アルバム『REAL ESTATE』に収録されているこの曲は、木々に囲まれた道を通り抜けるイメージ・・・",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/green-aisles/464319325?i=464319387&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Green Aisles",
+      "apple_music_artist_name": "Real Estate",
+      "apple_music_album_name": "Days"
     },
     {
       "episode_date": "2015.04.19",
@@ -6795,11 +6795,11 @@ window.TWM_DATA = {
       "artist": "Eels",
       "raw_title": "Selective Memory / Eels",
       "notes": "「ウナギ」という意味の「イールズ」・・・この曲は彼が子供の頃、公園で過ごした思い出を歌っていて、歌詞を読みながら聞くとちょっと涙なしには聴けない寂しい内容です。クオリティは高い！とは、訓市のコメントです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/selective-memory/1660475552?i=1660475909&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Selective Memory",
+      "apple_music_artist_name": "Eels",
+      "apple_music_album_name": "Daisies of the Galaxy"
     },
     {
       "episode_date": "2015.04.26",
@@ -6810,11 +6810,11 @@ window.TWM_DATA = {
       "artist": "Journey",
       "raw_title": "Lights / Journey",
       "notes": "サンフランシスコ出身のアメリカン・ロック・バンド、ジャーニー。ヴォーカリストのスティーヴ・ペリーが新加入後、初のアルバムで1978年にリリースされた『Infinity』のオープニングを飾る曲。バンドはこれ以降、80年代前半にかけて黄金時代を迎えました。なお、グループはオリジナル・メンバーでギタリストのニール・ショーンを中心に現在も活動中です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/lights/170108857?i=170108942&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Lights",
+      "apple_music_artist_name": "Journey",
+      "apple_music_album_name": "Infinity"
     },
     {
       "episode_date": "2015.04.26",
@@ -6825,11 +6825,11 @@ window.TWM_DATA = {
       "artist": "Bob Seger",
       "raw_title": "We've Got Tonight / Bob Seger",
       "notes": "アメリカのシンガー・ソング・ライター、ボブ・シーガー。ザ・シルバー・バレット・バンドを率いていた1978年のアルバム『Stranger In Town』に収録されている曲で、タイトルの通りの歌詞・・・",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/weve-got-tonight/1440888092?i=1440888261&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "We've Got Tonight",
+      "apple_music_artist_name": "Bob Seger & The Silver Bullet Band",
+      "apple_music_album_name": "Stranger In Town"
     },
     {
       "episode_date": "2015.04.26",
@@ -6840,11 +6840,11 @@ window.TWM_DATA = {
       "artist": "The Jets",
       "raw_title": "Make It Real / The Jets",
       "notes": "米ミネアポリスの兄弟姉妹8人で構成されたファミリー・グループ、ザ・ジェッツ。世界的ヒットを記録した1987年のアルバム『Magic』に収録されているこの曲は、当時、日本のラジオでもオンエアされました。80年代後期の「アーバン感」が漂うポップ・チューンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/make-it-real/1440748062?i=1440748747&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Make It Real",
+      "apple_music_artist_name": "The Jets",
+      "apple_music_album_name": "20th Century Masters - The Millennium Collection: The Best of The Jets"
     },
     {
       "episode_date": "2015.04.26",
@@ -6855,11 +6855,11 @@ window.TWM_DATA = {
       "artist": "Al B.Sure",
       "raw_title": "Nite And Day / Al B.Sure",
       "notes": "米ニュージャージー出身の黒人R&Bシンガー、アル・Ｂ・シュアが1988年にリリースしたデビュー・アルバム『In Effect Mode』に収録の曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/nite-and-day/300946933?i=300946980&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Nite and Day",
+      "apple_music_artist_name": "Al B. Sure!",
+      "apple_music_album_name": "In Effect Mode"
     },
     {
       "episode_date": "2015.04.26",
@@ -6870,11 +6870,11 @@ window.TWM_DATA = {
       "artist": "Billy Joel",
       "raw_title": "She's Got A Way / Billy Joel",
       "notes": "ニューヨーク、サウス・ブロンクス出身のヴォーカリストでピアニストのビリー・ジョエル。彼の華々しいキャリアの出発点となったデビュー・アルバム『Cold Spring Harbor』のオープニングを飾っている曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/shes-got-a-way/259213375?i=259213379&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "She's Got a Way",
+      "apple_music_artist_name": "Billy Joel",
+      "apple_music_album_name": "Cold Spring Harbor"
     },
     {
       "episode_date": "2015.04.26",
@@ -6885,11 +6885,11 @@ window.TWM_DATA = {
       "artist": "Paul McCartney & Wings",
       "raw_title": "Let 'Em In / Paul McCartney & Wings",
       "notes": "ポール・マッカートニーがビートルズ解散後に結成したバンド、ウイングス名義で1976年にリリースしたアルバム『Wings At Speed Of Sound』に収録されている曲で、邦題は「幸せのノック」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/let-em-in/1440951376?i=1440951495&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let 'Em In",
+      "apple_music_artist_name": "Paul McCartney & Wings",
+      "apple_music_album_name": "Wings At The Speed Of Sound (Archive Collection) [2014 Remaster]"
     },
     {
       "episode_date": "2015.04.26",
@@ -6900,11 +6900,11 @@ window.TWM_DATA = {
       "artist": "Visioneers",
       "raw_title": "Runnin / Visioneers",
       "notes": "1990年代に絶大な人気を誇ったトリップ・ホップ系ユニット、4HEROのメンバーであるマーク・マックによるヒップ・ホップ・プロジェクト、Visioneers。2006年のアルバム『Dirty Old Hip Hop』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/runnin/1444648498?i=1444648501&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Runnin",
+      "apple_music_artist_name": "Visioneers",
+      "apple_music_album_name": "Kay Rush Presents Unlimited XX"
     },
     {
       "episode_date": "2015.04.26",
@@ -6915,11 +6915,11 @@ window.TWM_DATA = {
       "artist": "Billy Crudup",
       "raw_title": "Sing Along / Billy Crudup",
       "notes": "2014年のミュージカル映画『Rudderless』の劇中で、俳優ビリー・クラダップが歌っている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sing-along/919779330?i=919779367&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sing Along",
+      "apple_music_artist_name": "Billy Crudup",
+      "apple_music_album_name": "Rudderless (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.05.03",
@@ -6930,11 +6930,11 @@ window.TWM_DATA = {
       "artist": "Weezer",
       "raw_title": "Island In The Sun / Weezer",
       "notes": "アメリカ西海岸出身のオルタナティヴ・ロックバンド、ウィーザー。2001年にリリースされた3間合い目のアルバム『Weezer』（通称『グリーン・アルバム』）に収録されている曲です。なお、彼らはデビュー・アルバムのタイトルも『Weezer』・・・真際らしい為、こちらはジャケットの色に因んで、『ブルー・アルバム』と呼ばれています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/island-in-the-sun/1440868131?i=1440868258&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Island In the Sun",
+      "apple_music_artist_name": "Weezer",
+      "apple_music_album_name": "Weezer (Green Album)"
     },
     {
       "episode_date": "2015.05.03",
@@ -6945,11 +6945,11 @@ window.TWM_DATA = {
       "artist": "Radiohead",
       "raw_title": "High & Dry / Radiohead",
       "notes": "トム・ヨークを中心としたイギリスの5人組ロック・バンド、レディオヘッド。1995年リリースのセカンド・アルバム『The Bends』に収録されている曲で、初期レディオヘッドの代表作のひとつです。トムが学生時代に書いた古い曲とか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/high-and-dry/1112408551?i=1112408820&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "High and Dry",
+      "apple_music_artist_name": "Radiohead",
+      "apple_music_album_name": "High & Dry / Planet Telex - EP"
     },
     {
       "episode_date": "2015.05.03",
@@ -6960,11 +6960,11 @@ window.TWM_DATA = {
       "artist": "Foo Fighters",
       "raw_title": "Virginia Moon / Foo Fighters",
       "notes": "元ニルヴァーナのドラマー、デイヴ・グロールを中心としたアメリカのロック・バンド、フー・ファイターズ。2005年にリリースされた大作『In Your Honnor』に収録されている曲で、彼らとしては異色作ですが名曲！ノラ・ジョーンズがヴォーカルとピアノでゲスト参加しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/virginia-moon/300855107?i=300855125&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Virginia Moon",
+      "apple_music_artist_name": "Foo Fighters",
+      "apple_music_album_name": "In Your Honor"
     },
     {
       "episode_date": "2015.05.03",
@@ -6990,11 +6990,11 @@ window.TWM_DATA = {
       "artist": "SION",
       "raw_title": "街は今日も雨さ / SION",
       "notes": "日本人シンガーソングライターSION（シオン）の初リーダー・アルバム、1986年にリリースされた『SION』に収録。訓市はアメリカに行くときに知人から餞別としてカセット・テープを貰いましたが、その中に入っていたのがこの曲。テキサスで聴いて、キュんとしたとか・・・。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/%E8%A1%97%E3%81%AF%E4%BB%8A%E6%97%A5%E3%82%82%E9%9B%A8%E3%81%95-remastered-2022/1862897029?i=1862897404&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "街は今日も雨さ (Remastered 2022)",
+      "apple_music_artist_name": "SION",
+      "apple_music_album_name": "SION(Remastered 2022)"
     },
     {
       "episode_date": "2015.05.03",
@@ -7005,11 +7005,11 @@ window.TWM_DATA = {
       "artist": "Alan Parsons Project",
       "raw_title": "The Turn Of A Friendly Card (Part-1) / Alan Parsons Project",
       "notes": "ザ・ビートルズやピンク・フロイドのアルバムにエンジニアとして参加しているアラン・パーソンズによるプロジェクトで、1980年にリリースされたアルバムのタイトル・トラック。なお、邦題は「運命の切り札」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-turn-of-a-friendly-card/216345401?i=216347373&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "The Turn of a Friendly Card",
+      "apple_music_artist_name": "The Alan Parsons Project",
+      "apple_music_album_name": "The Essential Alan Parsons Project"
     },
     {
       "episode_date": "2015.05.03",
@@ -7020,11 +7020,11 @@ window.TWM_DATA = {
       "artist": "George Michael",
       "raw_title": "Kissing A Fool / George Michael",
       "notes": "イギリスのポップ・デュオとして1980年代前半に絶大な人気を誇ったワムを解散後、ジョージ・マイケルが1986年にリリースしたファースト・ソロ・アルバム『Faith』に収録されている曲。このアルバムは全世界で1,000万枚以上を売り上げ、グラミー賞の「アルバム・オブ・ザ・イヤー」を受賞しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kissing-a-fool/395918916?i=395918966&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kissing a Fool",
+      "apple_music_artist_name": "George Michael",
+      "apple_music_album_name": "Faith (2010 Remastered)"
     },
     {
       "episode_date": "2015.05.03",
@@ -7035,11 +7035,11 @@ window.TWM_DATA = {
       "artist": "Steely Dan",
       "raw_title": "Hey Nineteen / Steely Dan",
       "notes": "ヴォーカル＆キーボードのドナルド・フェイゲンと、ギタリストのウォルター・ベッカーの2人によるユニット、スティーリー・ダンが1980年にリリースしたアルバム『Gaucho』に収録されている曲。彼らは諸作品のクオリティの高さから「ミュージシャンズ・ミュージシャン」として支持されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hey-nineteen/1715946508?i=1715946512&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Hey Nineteen",
+      "apple_music_artist_name": "Steely Dan",
+      "apple_music_album_name": "Gaucho"
     },
     {
       "episode_date": "2015.05.10",
@@ -7050,11 +7050,11 @@ window.TWM_DATA = {
       "artist": "Talking Heads",
       "raw_title": "Road To Nowhere / Talking Heads",
       "notes": "ヴォーカリストのデヴィッド・バーンを中心としたニューヨーク・ベースのロック・バンドで、1970年代半ばから80年代に名作を生み、1991年に解散したトーキング・ヘッズ。1985年にリリースされたアルバム『Little Creatures』に収録の曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/road-to-nowhere/302136342?i=302136359&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Road to Nowhere",
+      "apple_music_artist_name": "Talking Heads",
+      "apple_music_album_name": "Little Creatures"
     },
     {
       "episode_date": "2015.05.10",
@@ -7065,11 +7065,11 @@ window.TWM_DATA = {
       "artist": "Snow Patrol",
       "raw_title": "Chasing Cars / Snow Patrol",
       "notes": "英国スコットランドをベースにする5人組の現役ロック・バンド、スノウ・パトロール。2006年のアルバム『Eyes Open』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/chasing-cars/1440758222?i=1440758864&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Chasing Cars",
+      "apple_music_artist_name": "Snow Patrol",
+      "apple_music_album_name": "Eyes Open (Bonus Track Version)"
     },
     {
       "episode_date": "2015.05.10",
@@ -7080,11 +7080,11 @@ window.TWM_DATA = {
       "artist": "David Bowie",
       "raw_title": "Heroes / David Bowie",
       "notes": "1977年にリリースされたアルバムのタイトル・トラックで、邦題は『英雄夢語り』。エマ・ワトソンが主演した青春映画『ウォールフラワー』の中で、若い子はみんな車に乗って、この曲を聴きながら窓から手を出しているシーンがあり・・・ 訓市はすごく甘酸っぱい感じがして、1人でやってみたとのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/heroes/1604641816?i=1604641833&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Heroes",
+      "apple_music_artist_name": "David Bowie",
+      "apple_music_album_name": "What Goes up - Original Motion Picture Soundtrack"
     },
     {
       "episode_date": "2015.05.10",
@@ -7095,11 +7095,11 @@ window.TWM_DATA = {
       "artist": "Tom Petty",
       "raw_title": "Free Fallin' / Tom Petty",
       "notes": "アメリカのロック・ミュージシャン、トム・ペティが1989年にリリースしたアルバム『Full Moon Fever』に収録されている曲。訓市がドライブする時に聴く定番アーティストの一人がトム・ペティとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/free-fallin/1469579555?i=1469579716&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Free Fallin'",
+      "apple_music_artist_name": "Tom Petty",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2015.05.10",
@@ -7110,11 +7110,11 @@ window.TWM_DATA = {
       "artist": "Tracy Chapman",
       "raw_title": "Fast Car / Tracy Chapman",
       "notes": "「あなた、速い車（Fast Car）を持っているでしょう？ 私をここから連れ出してちょうだい！」という歌詞も素晴らしい曲で、1988年にリリースされたトレイシー・チャップマンのデビュー・アルバムに収められています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fast-car/79565550?i=79565507&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fast Car",
+      "apple_music_artist_name": "Tracy Chapman",
+      "apple_music_album_name": "Tracy Chapman"
     },
     {
       "episode_date": "2015.05.10",
@@ -7125,11 +7125,11 @@ window.TWM_DATA = {
       "artist": "Kanye West",
       "raw_title": "Street Lights / Kanye West",
       "notes": "プロデューサー、コンポーザーとしても大活躍しているカニエ・ウェスト。2008年にリリースされたアルバム『808s & Heartbreak』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/street-lights/1441410287?i=1441410412&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Street Lights",
+      "apple_music_artist_name": "Kanye West",
+      "apple_music_album_name": "808s & Heartbreak"
     },
     {
       "episode_date": "2015.05.10",
@@ -7140,11 +7140,11 @@ window.TWM_DATA = {
       "artist": "Genesis",
       "raw_title": "Throwing It All Away / Genesis",
       "notes": "イギリスのプログレッシブ・ロック・バンド、ジェネシスが1986年にリリースしたアルバム『Invisible Touch』はグループとして最大のヒットを記録しました。「ギターのループがドライブに合う」とは訓市のコメント。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/throwing-it-all-away/263064577?i=263065153&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Throwing It All Away",
+      "apple_music_artist_name": "Genesis",
+      "apple_music_album_name": "Turn It On Again: The Hits (The Tour Edition)"
     },
     {
       "episode_date": "2015.05.10",
@@ -7155,11 +7155,11 @@ window.TWM_DATA = {
       "artist": "The smith",
       "raw_title": "Please Please Please Let Me Get What I Want! / The smith",
       "notes": "ヴォーカルのモリッシーとギターのジョニー・マーを中心としたイギリスのロック・バンド、ザ・スミス。1984年にリリースされたデビュー・アルバム『The Smith』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/please-please-please-let-me-get-what-i-want/802231063?i=802231085&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Please Please Please Let Me Get What I Want",
+      "apple_music_artist_name": "The Smiths",
+      "apple_music_album_name": "Louder Than Bombs"
     },
     {
       "episode_date": "2015.05.17",
@@ -7170,11 +7170,11 @@ window.TWM_DATA = {
       "artist": "Duffy",
       "raw_title": "Warwick Avenue / Duffy",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/warwick-avenue/1440746172?i=1440746183&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Warwick Avenue",
+      "apple_music_artist_name": "Duffy",
+      "apple_music_album_name": "Rockferry"
     },
     {
       "episode_date": "2015.05.17",
@@ -7185,11 +7185,11 @@ window.TWM_DATA = {
       "artist": "Ralph McTell",
       "raw_title": "Streets Of London / Ralph McTell",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/streets-of-london/1436110417?i=1436110419&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Streets of London",
+      "apple_music_artist_name": "Ralph McTell",
+      "apple_music_album_name": "Streets of London: Best of Ralph McTell"
     },
     {
       "episode_date": "2015.05.17",
@@ -7200,11 +7200,11 @@ window.TWM_DATA = {
       "artist": "Dusty Springfield",
       "raw_title": "Son Of A Preacher Man / Dusty Springfield",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/son-of-a-preacher-man/257837795?i=257837972&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Son of a Preacher Man",
+      "apple_music_artist_name": "Dusty Springfield",
+      "apple_music_album_name": "Dusty In Memphis (Deluxe Edition)"
     },
     {
       "episode_date": "2015.05.17",
@@ -7215,11 +7215,11 @@ window.TWM_DATA = {
       "artist": "Future Sound Of London",
       "raw_title": "Papua New Guinea / Future Sound Of London",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/papua-new-guinea/151039580?i=151039663&uo=4",
+      "apple_music_confidence": 97,
+      "apple_music_track_name": "Papua New Guinea",
+      "apple_music_artist_name": "The Future Sound of London",
+      "apple_music_album_name": "Accelerator Deluxe"
     },
     {
       "episode_date": "2015.05.17",
@@ -7230,11 +7230,11 @@ window.TWM_DATA = {
       "artist": "The Mods",
       "raw_title": "バラッドをお前に / The Mods",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%83%90%E3%83%A9%E3%83%83%E3%83%89%E3%82%92%E3%81%8A%E5%89%8D%E3%81%AB/442338732?i=442338738&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "バラッドをお前に",
+      "apple_music_artist_name": "THE MODS",
+      "apple_music_album_name": "NEW BLEED 'HASH'"
     },
     {
       "episode_date": "2015.05.17",
@@ -7245,11 +7245,11 @@ window.TWM_DATA = {
       "artist": "Elton John",
       "raw_title": "Mona Lisas And Mad Hatters / Elton John",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/mona-lisas-and-mad-hatters/1440910513?i=1440910952&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Mona Lisas and Mad Hatters",
+      "apple_music_artist_name": "Elton John",
+      "apple_music_album_name": "Honky Château (Bonus Track Version)"
     },
     {
       "episode_date": "2015.05.17",
@@ -7260,11 +7260,11 @@ window.TWM_DATA = {
       "artist": "The Sundays",
       "raw_title": "Here's Where The Story Ends / The Sundays",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/heres-where-the-story-ends/1707465605?i=1707465608&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Here's Where The Story Ends",
+      "apple_music_artist_name": "The Sundays",
+      "apple_music_album_name": "Reading, Writing And Arithmetic"
     },
     {
       "episode_date": "2015.05.17",
@@ -7275,11 +7275,11 @@ window.TWM_DATA = {
       "artist": "Oasis",
       "raw_title": "Champagne Supernova / Oasis",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/champagne-supernova/1517447039?i=1517447869&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Champagne Supernova",
+      "apple_music_artist_name": "Oasis",
+      "apple_music_album_name": "(What's the Story) Morning Glory?"
     },
     {
       "episode_date": "2015.05.17",
@@ -7290,11 +7290,11 @@ window.TWM_DATA = {
       "artist": "Finley Quaye",
       "raw_title": "Even After All / Finley Quaye",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/even-after-all/1540699124?i=1540699128&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Even After All",
+      "apple_music_artist_name": "Finley Quaye",
+      "apple_music_album_name": "Maverick A Strike"
     },
     {
       "episode_date": "2015.05.24",
@@ -7305,11 +7305,11 @@ window.TWM_DATA = {
       "artist": "Joni Mitchel",
       "raw_title": "You Turn Me On I'm A Radio / Joni Mitchel",
       "notes": "カナダ出身の女性シンガー・ソング・ライター、ジョニ・ミッチェルが1972年にリリースした5枚目のアルバム『For The Roses』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/you-turn-me-on-im-a-radio/217509433?i=217509953&uo=4",
+      "apple_music_confidence": 99,
+      "apple_music_track_name": "You Turn Me On I'm a Radio",
+      "apple_music_artist_name": "Joni Mitchell",
+      "apple_music_album_name": "For the Roses"
     },
     {
       "episode_date": "2015.05.24",
@@ -7320,11 +7320,11 @@ window.TWM_DATA = {
       "artist": "Big Star",
       "raw_title": "The ballad Of El Goodo / Big Star",
       "notes": "アメリカ南部メンフィス出身のヴォーカリスト兼ギタリストで、カリスマ的存在だったアレックス・チルトンを中心とした4人組、ビッグ・スター。1972年にリリースされたバンドとしてのデビュー・アルバムに収録されている「名曲」です。訓市はナッシュビルに滞在しているときにカー・ラジオでこの曲を耳にし、とても感動したとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-ballad-of-el-goodo/1442996836?i=1442997044&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Ballad of El Goodo",
+      "apple_music_artist_name": "Big Star",
+      "apple_music_album_name": "The Best of Big Star"
     },
     {
       "episode_date": "2015.05.24",
@@ -7335,11 +7335,11 @@ window.TWM_DATA = {
       "artist": "Carly Simon",
       "raw_title": "Why / Carly Simon",
       "notes": "アメリカの女性シンガー・ソング・ライター、カーリー・サイモンが1982年にリリースしたアルバム『Soup For One』に収録されている曲。訓市がラジオを聴き始めた当時は、「シンセ・ベース」が強調された曲がよくオンエアされていて、その中のひとつがコレ。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/why/915471176?i=915471210&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Why",
+      "apple_music_artist_name": "Carly Simon",
+      "apple_music_album_name": "Soup for One (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.05.24",
@@ -7350,11 +7350,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "Bobby Jean / Bruce Springsteen",
       "notes": "ボスこと、ブルース・スプリングスティーンの代表的アルバム『Born In The USA』に収録された名曲。彼が親友のボビー・ジーンに向けて歌っている作品で、「今、何処にいるんだ。電車に乗ってるのか、車に乗ってるのか分からないけど・・・ 俺がお前のことを歌っているこの曲を、今、もしかしたらラジオで聞いているかもしれない。さよならボビー」という歌詞。訓市曰く、「男でこういう曲が嫌いだっていう奴がいたら、ボクは友達にはなれないと思います」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/bobby-jean/203708420?i=203709090&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Bobby Jean",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "Born In the U.S.A."
     },
     {
       "episode_date": "2015.05.24",
@@ -7380,11 +7380,11 @@ window.TWM_DATA = {
       "artist": "The Doobie Brothers",
       "raw_title": "What A Fool Believes / The Doobie Brothers",
       "notes": "アメリカ西海岸ロックを代表するバンド、ザ・ドゥービー・ブラザーズにとって最大の成功を収めた1979年のアルバム『Minute By Minute』に収録されている曲で、グラミー賞の「Song Of The Year」「Record Of The Year」を獲得しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/what-a-fool-believes/267549098?i=267552009&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "What a Fool Believes",
+      "apple_music_artist_name": "The Doobie Brothers",
+      "apple_music_album_name": "The Doobie Brothers: The Platinum Collection"
     },
     {
       "episode_date": "2015.05.24",
@@ -7395,11 +7395,11 @@ window.TWM_DATA = {
       "artist": "Mary Jane Girls",
       "raw_title": "All Night Long / Mary Jane Girls",
       "notes": "1980年代中期に活躍した女性R&Bグループ、メリー・ジェーン・ガールズにとって最大のヒット曲で、メアリー・Ｊ・ブライジを始めサンプリング・ネタとしても定番です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/all-night-long/1451762783?i=1451762852&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "All Night Long",
+      "apple_music_artist_name": "Mary Jane Girls",
+      "apple_music_album_name": "20th Century Masters: The Millennium Collection: The Best of Mary Jane Girls"
     },
     {
       "episode_date": "2015.05.24",
@@ -7410,11 +7410,11 @@ window.TWM_DATA = {
       "artist": "The Brothers Johnson",
       "raw_title": "Strawberr Letter 23 / The Brothers Johnson",
       "notes": "兄弟ファンク・グループ、ザ・ブラザーズ・ジョンソンの弟でベーシストの【ルイス・ジョンソンさん】が5月21日に亡くなりました。享年60歳。--- R.I.P.\n\nこの曲はブルース・ギタリストのシュギー・オーティスのオリジナルで、ブラザーズ・ジョンソンのヴァージョンは1977年のアルバム『Right On Time』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/strawberry-letter-23/1443838711?i=1443839233&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Strawberry Letter 23",
+      "apple_music_artist_name": "The Brothers Johnson",
+      "apple_music_album_name": "Right On Time"
     },
     {
       "episode_date": "2015.05.24",
@@ -7440,11 +7440,11 @@ window.TWM_DATA = {
       "artist": "Aim",
       "raw_title": "From A Seaside Town / Aim",
       "notes": "2,000年頃にリリースされたイギリスの曲で、以前、訓市がチル・アウト系のコンピレーション・アルバムを作った時に選曲したとか。彼曰く、自分が車を運転している時ではなくて、助手席に座って景色を眺めながらボケ?っとするのにおススメ。この曲を聴くと何処かに行きたくなります・・・とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/from-a-seaside-town/373444609?i=373444734&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "From a Seaside Town",
+      "apple_music_artist_name": "Aim",
+      "apple_music_album_name": "Hinterland"
     },
     {
       "episode_date": "2015.05.31",
@@ -7455,11 +7455,11 @@ window.TWM_DATA = {
       "artist": "Beastie Boys",
       "raw_title": "Ricky's Theme / Beastie Boys",
       "notes": "ニューヨークをベースにした3人組のユニットで、ロックとヒップ・ホップを融合させて人気を博したビースティー・ボーイズ。1994年にリリースされたアルバム『III Communication』に収録された、ビースティーとしては珍しい、チルなインスト・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/rickys-theme/724771323?i=724772485&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Ricky's Theme",
+      "apple_music_artist_name": "Beastie Boys",
+      "apple_music_album_name": "Ill Communication"
     },
     {
       "episode_date": "2015.05.31",
@@ -7470,11 +7470,11 @@ window.TWM_DATA = {
       "artist": "Beachwood Sparks",
       "raw_title": "By Your Side / Beachwood Sparks",
       "notes": "ロサンゼルスをベースにしたオルタナティヴ系バンド、ビーチウッド・スパークス。この曲は日本でも大ヒットしたシャーデーのカバー・ヴァージョンで、何ともヘナチョコな感じが妙にGoodです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/by-your-side/1568766917?i=1568766927&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "By Your Side",
+      "apple_music_artist_name": "Beachwood Sparks",
+      "apple_music_album_name": "Scott Pilgrim Vs. The World (Original Motion Picture Soundtrack Expanded Edition)"
     },
     {
       "episode_date": "2015.05.31",
@@ -7485,11 +7485,11 @@ window.TWM_DATA = {
       "artist": "Love And Rockets",
       "raw_title": "Saudade / Love And Rockets",
       "notes": "イギリスのオルタナティヴ・ロック・バンド、ラヴ＆ロケッツが1985年にリリースしたデビュー・アルバム『Seventh Dream of Teenage Heaven』に収録されたインスト・トラック。訓市好みの「ドリーミー」な曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/saudade/1199491386?i=1199491816&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Saudade",
+      "apple_music_artist_name": "Love and Rockets",
+      "apple_music_album_name": "Seventh Dream of Teenage Heaven"
     },
     {
       "episode_date": "2015.05.31",
@@ -7515,11 +7515,11 @@ window.TWM_DATA = {
       "artist": "Bob Marley",
       "raw_title": "Redemption Song / Bob Marley",
       "notes": "ボブ・マーリーが生んだ永遠の名曲！ボブ・マーリー＆ザ・ウェイラーズ名義による9枚目のアルバム『Uprising』のファイナル・トラックで、多くのミュージシャンがカバーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/redemption-song/1469575763?i=1469576035&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "Redemption Song",
+      "apple_music_artist_name": "Bob Marley & The Wailers",
+      "apple_music_album_name": "Legend – The Best Of Bob Marley & The Wailers"
     },
     {
       "episode_date": "2015.05.31",
@@ -7530,11 +7530,11 @@ window.TWM_DATA = {
       "artist": "Neil Young",
       "raw_title": "When I Hold You In My Arms / Neil Young",
       "notes": "ニール・ヤングが2002年にリリースしたアルバム『Are You Passionate?』に収録されている曲で、自身のバンド：クレイジー・ホースに加え、メンフィスをベースにしたR&B/ファンク系バンド、ブッカー・Ｔ＆The MG’sをフィーチャーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/when-i-hold-you-in-my-arms/1709411693?i=1709411706&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "When I Hold You In My Arms",
+      "apple_music_artist_name": "Neil Young",
+      "apple_music_album_name": "Before and After"
     },
     {
       "episode_date": "2015.05.31",
@@ -7545,11 +7545,11 @@ window.TWM_DATA = {
       "artist": "The Replacements",
       "raw_title": "Swingin Party / The Replacements",
       "notes": "米ミネアポリスのロック・バンド、ザ・リプレイスメンツが1985年にリリースした4枚目のアルバムで、メジャー・デビュー作となる『Tim』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/swingin-party/290650814?i=290650836&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Swingin Party",
+      "apple_music_artist_name": "The Replacements",
+      "apple_music_album_name": "Tim (Expanded Edition)"
     },
     {
       "episode_date": "2015.05.31",
@@ -7560,11 +7560,11 @@ window.TWM_DATA = {
       "artist": "Guns 'N' Roses",
       "raw_title": "Patience / Guns 'N' Roses",
       "notes": "ヴォーカリストのアクセル・ローズを中心に、ギタリストのイジー・ストラドリンとスラッシュが在籍していた初期の楽曲で、1988年にリリースされたミニ・アルバム『GN’R LIES』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/patience/1440905381?i=1440905397&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Patience",
+      "apple_music_artist_name": "Guns N' Roses",
+      "apple_music_album_name": "G N' R Lies"
     },
     {
       "episode_date": "2015.06.07",
@@ -7575,11 +7575,11 @@ window.TWM_DATA = {
       "artist": "Basement Jaxx",
       "raw_title": "Romeo (Acoustic Mix) / Basement Jaxx",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/romeo-acoustic-version/310998709?i=310998819&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Romeo (Acoustic Version)",
+      "apple_music_artist_name": "Basement Jaxx",
+      "apple_music_album_name": "The Singles (Special Edition)"
     },
     {
       "episode_date": "2015.06.07",
@@ -7620,11 +7620,11 @@ window.TWM_DATA = {
       "artist": "Brian Eno",
       "raw_title": "An Ending (Ascent) / Brian Eno",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/an-ending-ascent/714861155?i=714861225&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "An Ending (Ascent)",
+      "apple_music_artist_name": "Brian Eno",
+      "apple_music_album_name": "Apollo: Atmospheres and Soundtracks"
     },
     {
       "episode_date": "2015.06.07",
@@ -7650,11 +7650,11 @@ window.TWM_DATA = {
       "artist": "The Art Of Noise",
       "raw_title": "Moments In Love / The Art Of Noise",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/moments-in-love/1364593455?i=1364594622&uo=4",
+      "apple_music_confidence": 93,
+      "apple_music_track_name": "Moments in Love",
+      "apple_music_artist_name": "Art of Noise",
+      "apple_music_album_name": "(Who's Afraid of) The Art of Noise? [Remastered]"
     },
     {
       "episode_date": "2015.06.07",
@@ -7665,11 +7665,11 @@ window.TWM_DATA = {
       "artist": "Nacho Sotomayor",
       "raw_title": "Cafe Del Mar / Nacho Sotomayor",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/cafe-del-mar/264995611?i=264995628&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Cafe del Mar",
+      "apple_music_artist_name": "Nacho Sotomayor",
+      "apple_music_album_name": "Café del Mar Dreams - Single"
     },
     {
       "episode_date": "2015.06.07",
@@ -7680,11 +7680,11 @@ window.TWM_DATA = {
       "artist": "Jose Padilla",
       "raw_title": "Close To You / Jose Padilla",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/close-to-you/1372759848?i=1372759861&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Close to You",
+      "apple_music_artist_name": "José Padilla",
+      "apple_music_album_name": "Souvenir"
     },
     {
       "episode_date": "2015.06.07",
@@ -7695,11 +7695,11 @@ window.TWM_DATA = {
       "artist": "Velvet Underground & Nico",
       "raw_title": "I'll Be Your Mirror / Velvet Underground & Nico",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ill-be-your-mirror/1440851613?i=1440851916&uo=4",
+      "apple_music_confidence": 97,
+      "apple_music_track_name": "I'll Be Your Mirror",
+      "apple_music_artist_name": "The Velvet Underground & Nico",
+      "apple_music_album_name": "The Velvet Underground & Nico (45th Anniversary Edition)"
     },
     {
       "episode_date": "2015.06.14",
@@ -7710,11 +7710,11 @@ window.TWM_DATA = {
       "artist": "The XX",
       "raw_title": "Intro / The XX",
       "notes": "ロンドン出身の3人バンド、The XX。この曲は2009年にリリースされたデビュー・アルバム『XX』に収録。訓市は先日、仕事でニューヨークに行った時、二日酔いで入店した行きつけのカフェで流れているのを耳にして思い出したとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/intro/1850810462?i=1850810463&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Intro",
+      "apple_music_artist_name": "The xx",
+      "apple_music_album_name": "xx"
     },
     {
       "episode_date": "2015.06.14",
@@ -7725,11 +7725,11 @@ window.TWM_DATA = {
       "artist": "Cassandra Wilson",
       "raw_title": "Days Of Wine And Roses / Cassandra Wilson",
       "notes": "邦題「酒とバラの日々」でお馴染みのジャズ・スタンダードで、作曲は映画音楽の巨匠ヘンリー・マンシーニ。カサンドラ・ウィルソンのヴァージョンはクリント・イーストウッドが監督を務めた1997年の映画『Midnight In The Garden Of Good And Evil』のサントラに収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/days-of-wine-and-roses/329934817?i=329935257&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Days of Wine and Roses",
+      "apple_music_artist_name": "Cassandra Wilson",
+      "apple_music_album_name": "Midnight In the Garden of Good and Evil (Music from and Inspired By the Motion Picture)"
     },
     {
       "episode_date": "2015.06.14",
@@ -7740,11 +7740,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "Warm Beer And Cold Women / Tom Waits",
       "notes": "訓市のフェイヴァリット・アーティストの一人、トム・ウェイツの1975年のアルバム『Nighthawks At The Diner』に収録。訓市曰く、「ラジオ局には、肌がCOOLなWOMENはいない！」とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/warm-beer-and-cold-women/1485072511?i=1485072702&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Warm Beer and Cold Women",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "Nighthawks at the Diner (2018 Remaster)"
     },
     {
       "episode_date": "2015.06.14",
@@ -7755,11 +7755,11 @@ window.TWM_DATA = {
       "artist": "The Stranglers",
       "raw_title": "Golden Brown / The Stranglers",
       "notes": "1970年代に大活躍したイギリスのパンク・ロック・バンド、ザ・ストラングラーズ。シングルのリリースは1981年で、その後、アルバム『La Folie』に収録されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/golden-brown/696838485?i=696838901&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Golden Brown",
+      "apple_music_artist_name": "The Stranglers",
+      "apple_music_album_name": "La folie"
     },
     {
       "episode_date": "2015.06.14",
@@ -7770,11 +7770,11 @@ window.TWM_DATA = {
       "artist": "Tommy Guerrero",
       "raw_title": "And The Folklore Continues / Tommy Guerrero",
       "notes": "訓市がプライベートでも付き合いのあるミュージシャンでスケートボーダーのトミー・ゲレロ。彼の地元サンフランシスコで連れて行ってもらった店で食べたタコスを思い出す１曲とか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/and-the-folklore-continues/1052335333?i=1052335696&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "And the Folklore Continues",
+      "apple_music_artist_name": "Tommy Guerrero",
+      "apple_music_album_name": "Return of the Bastard"
     },
     {
       "episode_date": "2015.06.14",
@@ -7785,11 +7785,11 @@ window.TWM_DATA = {
       "artist": "Bread",
       "raw_title": "Everything I Own / Bread",
       "notes": "米カリフォルニア出身で、1960年代から70年代に活躍したバンド、ブレッドのアルバム『Baby, I’m A Want You』に収録されている美メロ名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/everything-i-own/73245616?i=73245032&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Everything I Own",
+      "apple_music_artist_name": "Bread",
+      "apple_music_album_name": "The Best of Bread"
     },
     {
       "episode_date": "2015.06.14",
@@ -7800,11 +7800,11 @@ window.TWM_DATA = {
       "artist": "TLC",
       "raw_title": "Diggin' On You / TLC",
       "notes": "T-Boz、Left-Eye、Chilliの女性3人からなるR&Bグループで、1990年代前半に一世を風靡したTLC。この曲は1994年にリリースされた大ヒット・アルバム『Crazy Sexy Cool』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/diggin-on-you/270246704?i=270246717&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Diggin' On You",
+      "apple_music_artist_name": "TLC",
+      "apple_music_album_name": "CrazySexyCool"
     },
     {
       "episode_date": "2015.06.14",
@@ -7830,11 +7830,11 @@ window.TWM_DATA = {
       "artist": "The Love Unlimited Orchestra",
       "raw_title": "Love's Theme / The Love Unlimited Orchestra",
       "notes": "超低音ヴォイスが魅力で、コンポーザー、アレンジャーとしても豊かな才能を持ったバリー・ホワイト率いる、ザ・ラヴ・アンリミテッド・オーケストラ。この曲はストリングスのアレンジも秀逸ですが、最大の聴き所は、ギターのカッティング・・・ ワカチコ、ワカチコ?♪",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/loves-theme/1431061119?i=1431061547&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love's Theme",
+      "apple_music_artist_name": "The Love Unlimited Orchestra",
+      "apple_music_album_name": "Rhapsody In White"
     },
     {
       "episode_date": "2015.06.21",
@@ -7845,11 +7845,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "No Expectations / The Rolling Stones",
       "notes": "初期リーダーのブライアン・ジョーンズが在籍していた1968年リリースの名盤『Beggards Banquet』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/no-expectations/1500643395?i=1500643403&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "No Expectations",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Beggars Banquet (2018 Remaster)"
     },
     {
       "episode_date": "2015.06.21",
@@ -7860,11 +7860,11 @@ window.TWM_DATA = {
       "artist": "KT Tunstall",
       "raw_title": "Paper Aeroplane / KT Tunstall",
       "notes": "スコットランド出身の女性シンガー・ソング・ライター、KTタンストール。2007年にリリースされたセカンド・アルバム『Drastic Fantastic』に収録されている曲です。訓市は彼女の「歌声」がお気に入りとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/paper-aeroplane/716241343?i=716241771&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Paper Aeroplane",
+      "apple_music_artist_name": "KT Tunstall",
+      "apple_music_album_name": "Drastic Fantastic"
     },
     {
       "episode_date": "2015.06.21",
@@ -7875,11 +7875,11 @@ window.TWM_DATA = {
       "artist": "Brian Eno",
       "raw_title": "Deep Blue Sky / Brian Eno",
       "notes": "ドキュメンタリー映画『Apollo』のサウンド・トラックとして1983年にリリースされたアルバムに収録されている曲で、訓市は旅先の空港での待ち時間に、この曲を聴きながら大きな窓越しに見える「青い空」を眺めるのが好き・・・とのことです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/deep-blue-day/714861155?i=714861238&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Deep Blue Day",
+      "apple_music_artist_name": "Brian Eno",
+      "apple_music_album_name": "Apollo: Atmospheres and Soundtracks"
     },
     {
       "episode_date": "2015.06.21",
@@ -7905,11 +7905,11 @@ window.TWM_DATA = {
       "artist": "The Beach Boys",
       "raw_title": "Feel Flows / The Beach Boys",
       "notes": "オリジナル・メンバーの一人、カール・ウィルソンが実質的リーダーだった1971年のアルバム『Surf’s Up』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/feel-flows/1440873813?i=1440874141&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Feel Flows",
+      "apple_music_artist_name": "The Beach Boys",
+      "apple_music_album_name": "Surf's Up"
     },
     {
       "episode_date": "2015.06.21",
@@ -7920,11 +7920,11 @@ window.TWM_DATA = {
       "artist": "Will To Power",
       "raw_title": "I'm Not In Love / Will To Power",
       "notes": "1980年代から90年代前半にかけて活躍したWill To Powerが1990年にリリースしたセカンド・アルバム『Journey Home』に収録されている曲で、10 C.C.のカバー・バージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-not-in-love/944537632?i=944537639&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm Not in Love",
+      "apple_music_artist_name": "Will to Power",
+      "apple_music_album_name": "I'm Not in Love - Single"
     },
     {
       "episode_date": "2015.06.21",
@@ -7950,11 +7950,11 @@ window.TWM_DATA = {
       "artist": "Poolside",
       "raw_title": "Take Me Home / Poolside",
       "notes": "米ロサンゼルスをベースにしたデュオ、プールサイドが2011年にシングルでリリースした曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/take-me-home/1216384091?i=1216384407&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Take Me Home",
+      "apple_music_artist_name": "Poolside",
+      "apple_music_album_name": "Pacific Standard Time"
     },
     {
       "episode_date": "2015.06.28",
@@ -7995,11 +7995,11 @@ window.TWM_DATA = {
       "artist": "Donald Fagen",
       "raw_title": "I.G.Y. / Donald Fagen",
       "notes": "ウォルター・ベッカーとのデュオ・バンド、スティーリー・ダンでお馴染みのドナルド・フェイゲンが1982年にリリースしたファースト・ソロ・アルバム『The Nightfly』に収められている曲。このアルバムは歴史的名盤です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-g-y/617827654?i=617827657&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I.G.Y.",
+      "apple_music_artist_name": "Donald Fagen",
+      "apple_music_album_name": "The Nightfly"
     },
     {
       "episode_date": "2015.06.28",
@@ -8025,11 +8025,11 @@ window.TWM_DATA = {
       "artist": "John Mayer",
       "raw_title": "Something's Missing / John Mayer",
       "notes": "アメリカのシンガー・ソング・ライターでギタリストのジョン・メイヤーが2003年にリリースした4枚目のアルバム『Heavier Things』に収録されている曲。彼のギター・テクニックは当代随一！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/somethings-missing/199049977?i=199050529&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Something's Missing",
+      "apple_music_artist_name": "John Mayer",
+      "apple_music_album_name": "Heavier Things"
     },
     {
       "episode_date": "2015.06.28",
@@ -8040,11 +8040,11 @@ window.TWM_DATA = {
       "artist": "Red Hot Chili Peppers",
       "raw_title": "Scar Tissue / Red Hot Chili Peppers",
       "notes": "ヴォーカルのアンソニーとベースのフリーを中心とした米西海岸のロック・バンド、レッド・ホット・チリ・ペッパーズ。一時グループを脱退していたギタリストのジョン・フルシアンテが復帰後の1999年にリリースされたアルバム『Californication』に収録されているヒット曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/scar-tissue/945575406?i=945575409&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Scar Tissue",
+      "apple_music_artist_name": "Red Hot Chili Peppers",
+      "apple_music_album_name": "Californication (Remastered)"
     },
     {
       "episode_date": "2015.06.28",
@@ -8055,11 +8055,11 @@ window.TWM_DATA = {
       "artist": "Sublime",
       "raw_title": "Santeria / Sublime",
       "notes": "米西海岸のロック・バンド、サブライムが1996年にリリースしたラスト・アルバム『Sublime』に収録されている曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/santeria/1440838803?i=1440839501&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Santeria",
+      "apple_music_artist_name": "Sublime",
+      "apple_music_album_name": "Sublime"
     },
     {
       "episode_date": "2015.06.28",
@@ -8070,11 +8070,11 @@ window.TWM_DATA = {
       "artist": "Eagles",
       "raw_title": "New Kid In Town / Eagles",
       "notes": "20世紀のウェスト・コースト・ロックを代表するバンド、イーグルスの最高傑作！1976年のアルバム『Hotel California』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/new-kid-in-town/635770200?i=635770203&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "New Kid In Town",
+      "apple_music_artist_name": "Eagles",
+      "apple_music_album_name": "Hotel California"
     },
     {
       "episode_date": "2015.07.05",
@@ -8100,11 +8100,11 @@ window.TWM_DATA = {
       "artist": "Ben E.King",
       "raw_title": "Stand My Me / Ben E.King",
       "notes": "アメリカのソウル・シンガー、ベン・Ｅ・キングは1950年代末、ザ・ドリフターズに加入してキャリアをスタートし、グループ脱退後の1961年にリリースしたこの曲「Stand By Me」が大ヒットを記録。それ以降、コンスタントに活躍しましたが、今年4月30日に惜しくもこの世を去っています。同曲は1986年に映画『Stand By Me』のテーマ曲となりリバイバル・ヒットしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/stand-by-me/1104053564?i=1104054293&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Stand By Me",
+      "apple_music_artist_name": "Ben E. King",
+      "apple_music_album_name": "The Complete ATCO/Atlantic Singles (Vol. 1: 1960-1966)"
     },
     {
       "episode_date": "2015.07.05",
@@ -8115,11 +8115,11 @@ window.TWM_DATA = {
       "artist": "Neil Young",
       "raw_title": "Heart Of Gold / Neil Young",
       "notes": "訓市のフェイバリッと・アーティストの一人、ニール・ヤングの代表曲。1972年のアルバム『Harvest』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/heart-of-gold/1015739190?i=1015739546&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Heart of Gold",
+      "apple_music_artist_name": "Neil Young",
+      "apple_music_album_name": "Harvest"
     },
     {
       "episode_date": "2015.07.05",
@@ -8130,11 +8130,11 @@ window.TWM_DATA = {
       "artist": "Ed Harcourt",
       "raw_title": "Apple Of My Eye / Ed Harcourt",
       "notes": "イギリス人シンガー・ソング・ライター、エド・ハーコートが2001年にリリースしたデビュー・アルバム『Here Be Monsters』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/apple-of-my-eye/1365405205?i=1365408232&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Apple of My Eye",
+      "apple_music_artist_name": "Ed Harcourt",
+      "apple_music_album_name": "2000's Pop Hits"
     },
     {
       "episode_date": "2015.07.05",
@@ -8145,11 +8145,11 @@ window.TWM_DATA = {
       "artist": "Radiohead",
       "raw_title": "Fake Plastic Trees / Radiohead",
       "notes": "ヴォーカルのトム・ヨークを中心としたイギリスのロック・バンド、レディオヘッド。1995年リリースのセカンド・アルバム『The Bends』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fake-plastic-trees/1097862703?i=1097862845&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fake Plastic Trees",
+      "apple_music_artist_name": "Radiohead",
+      "apple_music_album_name": "The Bends"
     },
     {
       "episode_date": "2015.07.05",
@@ -8160,11 +8160,11 @@ window.TWM_DATA = {
       "artist": "Tracey Thorn",
       "raw_title": "Here It Comes Again / Tracey Thorn",
       "notes": "イギリスの男女ユニット、エヴリシィング・バット・ザ・ガールの女性ヴォーカリスト、トレイシー・ソーンのソロ・アルバム、2007年のアルバム『Out Of The Woods』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/here-it-comes-again/714606316?i=714606466&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Here It Comes Again",
+      "apple_music_artist_name": "Tracey Thorn",
+      "apple_music_album_name": "Out of the Woods"
     },
     {
       "episode_date": "2015.07.05",
@@ -8175,11 +8175,11 @@ window.TWM_DATA = {
       "artist": "The National",
       "raw_title": "A Reasonable Man (I Don't Mind) / The National",
       "notes": "ニューヨークのブルックリンをベースに活動するインディー・ロック・バンド、ザ・ナショナル。二組の兄弟プラス一人というユニークな編成の5人組です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-reasonable-man-i-dont-mind/1491416471?i=1491416894&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Reasonable Man (I Don't Mind)",
+      "apple_music_artist_name": "The National",
+      "apple_music_album_name": "Cherry Tree"
     },
     {
       "episode_date": "2015.07.05",
@@ -8190,11 +8190,11 @@ window.TWM_DATA = {
       "artist": "Eddie Vedder",
       "raw_title": "Guaranteed / Eddie Vedder",
       "notes": "オルタナティブ・ロック・バンド、パール・ジャムのリード・ヴォーカル、エディ・ヴェダーが手掛けた2007年の映画『Into The Wild』のサウンド・トラック・アルバムから。この映画はノンフィクション小説をベースに製作されたもので、監督と脚本はショーン・ペン。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/guaranteed/1440897227?i=1440897636&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Guaranteed",
+      "apple_music_artist_name": "Eddie Vedder",
+      "apple_music_album_name": "Into the Wild (Music For the Motion Picture)"
     },
     {
       "episode_date": "2015.07.12",
@@ -8205,11 +8205,11 @@ window.TWM_DATA = {
       "artist": "Eric Serra",
       "raw_title": "The Big Blue Overture / Eric Serra",
       "notes": "フランス出身の作曲家、エリック・セラが手掛けた1988年の映画『グラン・ブルー』のサウンド・トラックからオープニング・トラック。幻想的です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-big-blue-overture/1469429297?i=1469435708&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Big Blue Overture",
+      "apple_music_artist_name": "Eric Serra",
+      "apple_music_album_name": "Télé 80 et 90"
     },
     {
       "episode_date": "2015.07.12",
@@ -8220,11 +8220,11 @@ window.TWM_DATA = {
       "artist": "Bee Gees",
       "raw_title": "How Deep Is Your Love / Bee Gees",
       "notes": "イギリスのギブ3兄弟によるヴォーカル・グループ、ビージーズ。1977年に全世界で大ヒットを記録した映画『サタデー・ナイト・フィーバー』のサントラに収録されているメローな曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/how-deep-is-your-love/1445664302?i=1445664553&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "How Deep Is Your Love",
+      "apple_music_artist_name": "Bee Gees",
+      "apple_music_album_name": "Greatest"
     },
     {
       "episode_date": "2015.07.12",
@@ -8235,11 +8235,11 @@ window.TWM_DATA = {
       "artist": "Quincy Jones",
       "raw_title": "Summer In The City / Quincy Jones",
       "notes": "この曲のオリジナルは1966年にヒットを記録したラヴィン・スプーンフルで、クインシー・ジョーンズは1973年のアルバム『You’ve Got It Bad Girl』でカバーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/summer-in-the-city/1443997207?i=1443997497&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Summer In the City",
+      "apple_music_artist_name": "Quincy Jones",
+      "apple_music_album_name": "You've Got It Bad Girl"
     },
     {
       "episode_date": "2015.07.12",
@@ -8250,11 +8250,11 @@ window.TWM_DATA = {
       "artist": "Sebastian Tellier",
       "raw_title": "La Ritournelle / Sebastian Tellier",
       "notes": "フランス出身のヴォーカリストで、ギター、ベース、ピアノなどもこなすマルチ・ミュージシャン、セバスチャン・テリエ。2005年にリリースされたセカンド・アルバム『Politics』に収録されている曲で、大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/la-ritournelle/1742757141?i=1742757142&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "La Ritournelle",
+      "apple_music_artist_name": "Sébastien Tellier",
+      "apple_music_album_name": "La Ritournelle"
     },
     {
       "episode_date": "2015.07.12",
@@ -8280,11 +8280,11 @@ window.TWM_DATA = {
       "artist": "Phil Collins",
       "raw_title": "Against All Odds / Phil Collins",
       "notes": "イギリス出身のアーティストで、1980年代に頂点を極めたフィル・コリンズの代表曲で、映画『カリブの熱い夜?Against All Odds』のサントラに収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/against-all-odds-take-a-look-at-me-now/1148642251?i=1148642452&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Against All Odds (Take a Look at Me Now)",
+      "apple_music_artist_name": "Phil Collins",
+      "apple_music_album_name": "The Singles (Remastered)"
     },
     {
       "episode_date": "2015.07.12",
@@ -8295,11 +8295,11 @@ window.TWM_DATA = {
       "artist": "Suzi Quatro & Chris Norman",
       "raw_title": "Stumblin' In / Suzi Quatro & Chris Norman",
       "notes": "アメリカの女性ロック・シンガーでベーシストのスージー・クアトロ。1978年のアルバム『If You Knew Suzi』に収録されている曲で、デュエットの相手クリス・ノーマン＆スージー・クアトロ名義でシングル・カットされ、大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/stumblin-in/276653961?i=276654081&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Stumblin' In",
+      "apple_music_artist_name": "Chris Norman & Suzi Quatro",
+      "apple_music_album_name": "The Collection & Tracklisting"
     },
     {
       "episode_date": "2015.07.12",
@@ -8310,11 +8310,11 @@ window.TWM_DATA = {
       "artist": "TOTO",
       "raw_title": "Georgy Porgy / TOTO",
       "notes": "アメリカ西海岸のトップ・セッション・ミュージシャンによって1970年代後半に結成され、80年代に入ってヒット曲を連発したバンド、ＴＯＴＯ。この曲は1978年リリースのデビュー・アルバム『TOTO?宇宙の騎士』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/georgy-porgy/198226130?i=198226436&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Georgy Porgy",
+      "apple_music_artist_name": "Toto",
+      "apple_music_album_name": "Toto"
     },
     {
       "episode_date": "2015.07.12",
@@ -8325,11 +8325,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Let It Loose / The Rolling Stones",
       "notes": "ザ・ローリング・ストーンズの1972年リリースのアルバム『Exile On Main St.』（邦題：メインストリートのならず者）に収録されている曲。このアルバムは当時、2枚組で発売されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/let-it-loose/1440872228?i=1440872611&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let It Loose",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Exile On Main Street (2010 Remaster)"
     },
     {
       "episode_date": "2015.07.19",
@@ -8340,11 +8340,11 @@ window.TWM_DATA = {
       "artist": "Vapour Trails",
       "raw_title": "Don't Worry Baby / Vapour Trails",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-worry-baby/1771011102?i=1771017038&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't Worry Baby",
+      "apple_music_artist_name": "Vapour Trails",
+      "apple_music_album_name": "A Yacht Rock Odyssey - 100 Greatest"
     },
     {
       "episode_date": "2015.07.19",
@@ -8355,11 +8355,11 @@ window.TWM_DATA = {
       "artist": "Shanice",
       "raw_title": "I Love Your Smile / Shanice",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-love-your-smile/1446862421?i=1446862439&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Love Your Smile",
+      "apple_music_artist_name": "Shanice",
+      "apple_music_album_name": "Ultimate Collection: Shanice"
     },
     {
       "episode_date": "2015.07.19",
@@ -8370,11 +8370,11 @@ window.TWM_DATA = {
       "artist": "Color Me Badd",
       "raw_title": "I Wanna Sex You Up / Color Me Badd",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-wanna-sex-you-up/1574906265?i=1574906270&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Wanna Sex You Up",
+      "apple_music_artist_name": "Color Me Badd",
+      "apple_music_album_name": "C.M.B. (Expanded Edition)"
     },
     {
       "episode_date": "2015.07.19",
@@ -8385,11 +8385,11 @@ window.TWM_DATA = {
       "artist": "GURU",
       "raw_title": "No Time To Play / GURU",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/no-time-to-play/723627224?i=723627547&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "No Time to Play",
+      "apple_music_artist_name": "Guru",
+      "apple_music_album_name": "Jazzmatazz, Vol.1"
     },
     {
       "episode_date": "2015.07.19",
@@ -8415,11 +8415,11 @@ window.TWM_DATA = {
       "artist": "America",
       "raw_title": "Ventura Highway / America",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ventura-highway/342373179?i=342373184&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Ventura Highway",
+      "apple_music_artist_name": "America",
+      "apple_music_album_name": "Homecoming"
     },
     {
       "episode_date": "2015.07.19",
@@ -8430,11 +8430,11 @@ window.TWM_DATA = {
       "artist": "Eddie Money",
       "raw_title": "Baby Hold On / Eddie Money",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/baby-hold-on/200302899?i=200306752&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Baby Hold On",
+      "apple_music_artist_name": "Eddie Money",
+      "apple_music_album_name": "The Best of Eddie Money"
     },
     {
       "episode_date": "2015.07.19",
@@ -8445,11 +8445,11 @@ window.TWM_DATA = {
       "artist": "Chris Rea",
       "raw_title": "On The Beach / Chris Rea",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/on-the-beach/1329075084?i=1329075086&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "On the Beach",
+      "apple_music_artist_name": "Chris Rea",
+      "apple_music_album_name": "On the Beach"
     },
     {
       "episode_date": "2015.07.19",
@@ -8460,11 +8460,11 @@ window.TWM_DATA = {
       "artist": "Cat Stevens",
       "raw_title": "The Wind / Cat Stevens",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-wind/1586832328?i=1586832332&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Wind",
+      "apple_music_artist_name": "Cat Stevens",
+      "apple_music_album_name": "Teaser And The Firecat (2021 Remaster)"
     },
     {
       "episode_date": "2015.07.26",
@@ -8475,11 +8475,11 @@ window.TWM_DATA = {
       "artist": "Alan Braxe & Fred Falke",
       "raw_title": "Intro / Alan Braxe & Fred Falke",
       "notes": "フランスのエレクトロニック系アーティスト、Alan Braxeが２０００年にリリースしたシングル曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/intro/1616792066?i=1616792067&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Intro",
+      "apple_music_artist_name": "Alan Braxe & Fred Falke",
+      "apple_music_album_name": "Running - Single"
     },
     {
       "episode_date": "2015.07.26",
@@ -8490,11 +8490,11 @@ window.TWM_DATA = {
       "artist": "Lemon Jelly",
       "raw_title": "Soft / Lemon Jelly",
       "notes": "イギリス人DJとプログラミングを手掛ける二人からなるユニット、レモン・ジェリー。２００１年にリリースされたシングルのタイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/soft/7059154?i=7059152&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Soft",
+      "apple_music_artist_name": "Lemon Jelly",
+      "apple_music_album_name": "Nice Weather for Ducks - Single"
     },
     {
       "episode_date": "2015.07.26",
@@ -8520,11 +8520,11 @@ window.TWM_DATA = {
       "artist": "Paul Simon",
       "raw_title": "50 Ways To Leave Your Lover / Paul Simon",
       "notes": "サイモン＆ガーファンクルとして１９７０年代に一斉を風靡したポール・サイモンが１９７５年にリリースしたソロ作、『Still Crazy After All These Years?時の流れに』に収録された曲で、「恋人と別れる５０の方法」というユニークな邦題が付けられています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/50-ways-to-leave-your-lover/380590574?i=380590584&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "50 Ways to Leave Your Lover",
+      "apple_music_artist_name": "Paul Simon",
+      "apple_music_album_name": "Still Crazy After All These Years (Bonus Tracks Edition)"
     },
     {
       "episode_date": "2015.07.26",
@@ -8550,11 +8550,11 @@ window.TWM_DATA = {
       "artist": "Culture Club",
       "raw_title": "Do You Really Want To Hurt Me / Culture Club",
       "notes": "１９８０年代前期に人気を博したイギリスのバンド、カルチャー・クラブの代表曲。ヴォーカルのボーイ・ジョージは音楽界の中でいち早く「カミング・アウト」したアーティストとしても有名です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/do-you-really-want-to-hurt-me/724472869?i=724474136&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Do You Really Want to Hurt Me",
+      "apple_music_artist_name": "Culture Club",
+      "apple_music_album_name": "Kissing to Be Clever"
     },
     {
       "episode_date": "2015.07.26",
@@ -8565,11 +8565,11 @@ window.TWM_DATA = {
       "artist": "De La Soul",
       "raw_title": "Eye Know / De La Soul",
       "notes": "ＭＣ３人で構成されたアメリカのヒップ・ホップ・グループ、デ・ラ・ソウルが１９８９年にリリースしたデビュー・アルバム『３Feet High And Rising』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/eye-know-feat-otis-redding/1657705063?i=1657705231&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Eye Know (feat. Otis Redding)",
+      "apple_music_artist_name": "De La Soul",
+      "apple_music_album_name": "3 Feet High and Rising"
     },
     {
       "episode_date": "2015.07.26",
@@ -8580,11 +8580,11 @@ window.TWM_DATA = {
       "artist": "Howard Jones",
       "raw_title": "No One Is To Blame / Howard Jones",
       "notes": "イギリス出身のアーティスト、ハワード・ジョーンズが１９８５年にリリースしたアルバム『Dream Into Action』からシングル・カットされ、全米でも大ヒットを記録した曲。邦題は「悲しき願い」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/no-one-is-to-blame/1764332125?i=1764332265&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "No One Is To Blame",
+      "apple_music_artist_name": "Howard Jones",
+      "apple_music_album_name": "Action Replay"
     },
     {
       "episode_date": "2015.07.26",
@@ -8595,11 +8595,11 @@ window.TWM_DATA = {
       "artist": "Fleetwood Mac",
       "raw_title": "Albatross / Fleetwood Mac",
       "notes": "ブルース・ギタリストのピーター・グリーンとドラマーのミック・フリートウッドを中心として１９６０年代後期に結成されたイギリスのバンド、フリートウッド・マック。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/albatross/1534614559?i=1534615510&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Albatross",
+      "apple_music_artist_name": "Fleetwood Mac",
+      "apple_music_album_name": "The Blue Horizon Story (1965-1970)"
     },
     {
       "episode_date": "2015.08.02",
@@ -8610,11 +8610,11 @@ window.TWM_DATA = {
       "artist": "Carpenters",
       "raw_title": "I Won't Last A Day Without You / Carpenters",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-wont-last-a-day-without-you/1413927531?i=1413927540&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Won't Last a Day Without You",
+      "apple_music_artist_name": "Carpenters",
+      "apple_music_album_name": "Gold: Greatest Hits"
     },
     {
       "episode_date": "2015.08.02",
@@ -8625,11 +8625,11 @@ window.TWM_DATA = {
       "artist": "Earth,Wind & Fire",
       "raw_title": "That's The Way Of The World / Earth,Wind & Fire",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/thats-the-way-of-the-world/532975789?i=532975791&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "That's the Way of the World",
+      "apple_music_artist_name": "Earth, Wind & Fire",
+      "apple_music_album_name": "That's the Way of the World"
     },
     {
       "episode_date": "2015.08.02",
@@ -8640,11 +8640,11 @@ window.TWM_DATA = {
       "artist": "Bee Gees",
       "raw_title": "Too Much Heaven / Bee Gees",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/too-much-heaven/1423191432?i=1423191436&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Too Much Heaven",
+      "apple_music_artist_name": "Bee Gees",
+      "apple_music_album_name": "Spirits Having Flown"
     },
     {
       "episode_date": "2015.08.02",
@@ -8655,11 +8655,11 @@ window.TWM_DATA = {
       "artist": "Captain & Tennille",
       "raw_title": "Do That To Me One More Time / Captain & Tennille",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/do-that-to-me-one-more-time/1444091753?i=1444092278&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Do That To Me One More Time",
+      "apple_music_artist_name": "Captain & Tennille",
+      "apple_music_album_name": "Make Your Move"
     },
     {
       "episode_date": "2015.08.02",
@@ -8670,11 +8670,11 @@ window.TWM_DATA = {
       "artist": "稲垣潤一",
       "raw_title": "夏のクラクション / 稲垣潤一",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1444192224?i=1444192431&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "夏のクラクション",
+      "apple_music_artist_name": "稲垣潤一",
+      "apple_music_album_name": "J.I."
     },
     {
       "episode_date": "2015.08.02",
@@ -8685,11 +8685,11 @@ window.TWM_DATA = {
       "artist": "DJ Jazzy Jeff",
       "raw_title": "For Da Love Of The Game / DJ Jazzy Jeff",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/for-da-love-of-da-game-tv/1444659141?i=1444659199&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "For Da Love of Da Game (TV)",
+      "apple_music_artist_name": "DJ Jazzy Jeff",
+      "apple_music_album_name": "The Beat Generation 10th Anniversary Presents: The Magnificent EP"
     },
     {
       "episode_date": "2015.08.02",
@@ -8700,11 +8700,11 @@ window.TWM_DATA = {
       "artist": "Barry White",
       "raw_title": "I'm Gonna Love You Just A Little More Babe / Barry White",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-gonna-love-you-just-a-little-more-babe/1422951361?i=1422952198&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm Gonna Love You Just a Little More Babe",
+      "apple_music_artist_name": "Barry White",
+      "apple_music_album_name": "Barry White - The Collection"
     },
     {
       "episode_date": "2015.08.02",
@@ -8715,11 +8715,11 @@ window.TWM_DATA = {
       "artist": "De La Soul",
       "raw_title": "Pass The Plugs / De La Soul",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pass-the-plugs/1673848395?i=1673848564&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Pass the Plugs",
+      "apple_music_artist_name": "De La Soul",
+      "apple_music_album_name": "De La Soul Is Dead"
     },
     {
       "episode_date": "2015.08.02",
@@ -8730,11 +8730,11 @@ window.TWM_DATA = {
       "artist": "Whitney Houston",
       "raw_title": "Saving All My Love For You / Whitney Houston",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/saving-all-my-love-for-you/1784790555?i=1784790779&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Saving All My Love for You",
+      "apple_music_artist_name": "Whitney Houston",
+      "apple_music_album_name": "Whitney Houston"
     },
     {
       "episode_date": "2015.08.09",
@@ -8745,11 +8745,11 @@ window.TWM_DATA = {
       "artist": "Sade",
       "raw_title": "Love Is Stronger Than Pride (Mad Professor Mix) / Sade",
       "notes": "リミックスを手掛けているマッド・プロフェッサーはアフリカ出身の黒人アーティストで、活動のベースはイギリス、ジャンルはレゲエ。「ダブ」と呼ばれる手法を駆使したこのミックスは名作。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-is-stronger-than-pride/211676462?i=211676463&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Love Is Stronger Than Pride",
+      "apple_music_artist_name": "Sade",
+      "apple_music_album_name": "Stronger Than Pride"
     },
     {
       "episode_date": "2015.08.09",
@@ -8790,11 +8790,11 @@ window.TWM_DATA = {
       "artist": "Pearl Jam",
       "raw_title": "Around The Bend / Pearl Jam",
       "notes": "訓市によれば・・・「ライブですと演奏や歌が下手だったり、CDで聴いたのとはチョッと違うな〜って思うアーティストも多いんですけど、このパール・ジャムのエディ・ヴェダーは本当に声がよく出て、声がナチュラルに震えていて、とにかくそれが何か突き刺さるものがあって聞き惚れてしまうボーカリストの一人だと思います」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/around-the-bend/157478390?i=157478513&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Around the Bend",
+      "apple_music_artist_name": "Pearl Jam",
+      "apple_music_album_name": "No Code"
     },
     {
       "episode_date": "2015.08.09",
@@ -8805,11 +8805,11 @@ window.TWM_DATA = {
       "artist": "The Police",
       "raw_title": "Every Breath You Tale / The Police",
       "notes": "訓市がアメリカ留学していた時に当時の彼女と一緒に観に行ったのがスティングのテキサス公演。本人曰く、「あまり期待していなかった」のことですが、「とにかく素晴らしいステージで感激した」とのことです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/every-breath-you-take/1440882817?i=1440882897&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "Every Breath You Take",
+      "apple_music_artist_name": "The Police",
+      "apple_music_album_name": "The Very Best of Sting & The Police"
     },
     {
       "episode_date": "2015.08.09",
@@ -8820,11 +8820,11 @@ window.TWM_DATA = {
       "artist": "Smashing Pumpkins",
       "raw_title": "Soothe / Smashing Pumpkins",
       "notes": "訓市がロンドンに住んでいる時に生で観たスマッシング・パンプキンズ。その当時の彼らは人気絶頂期で、爆音のノイズが凄かったとのこと。ただ、彼はアコースティック系の大人しい曲により魅力を感じるとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/soothe-demo/1471445093?i=1471445260&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Soothe (Demo)",
+      "apple_music_artist_name": "The Smashing Pumpkins",
+      "apple_music_album_name": "Pisces Iscariot (Deluxe Edition)"
     },
     {
       "episode_date": "2015.08.09",
@@ -8835,11 +8835,11 @@ window.TWM_DATA = {
       "artist": "Bonnie Raitt",
       "raw_title": "I Can't Make You Love Me / Bonnie Raitt",
       "notes": "「スライド・ギター」の名手、ボニー・レイットが1991年にリリースしたアルバム『Luck Of The Draw』に収録されている曲で、失恋した人にこれを聞かせるとさらに落ちるっていう究極の失恋ソング！名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-cant-make-you-love-me/715830026?i=715830287&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Can't Make You Love Me",
+      "apple_music_artist_name": "Bonnie Raitt",
+      "apple_music_album_name": "The Best of Bonnie Raitt On Capitol 1989-2003"
     },
     {
       "episode_date": "2015.08.09",
@@ -8850,11 +8850,11 @@ window.TWM_DATA = {
       "artist": "U2",
       "raw_title": "One / U2",
       "notes": "アイルランド出身の世界的ロック・バンド、U2。訓市は彼らのライヴではギタリストのエッジの音だけを聴いていて・・・それだけで丼３杯いけるとか（笑）。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/one/1440729856?i=1440729871&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "One",
+      "apple_music_artist_name": "U2",
+      "apple_music_album_name": "U218 Singles (Deluxe Edition)"
     },
     {
       "episode_date": "2015.08.16",
@@ -8865,11 +8865,11 @@ window.TWM_DATA = {
       "artist": "Maria Muldaur",
       "raw_title": "Midnight At The Oasis / Maria Muldaur",
       "notes": "アメリカの女性シンガーソングライター、マリア・マルダーが1973年にリリースしたファースト・ソロ・アルバム『Maria Muldaur』に収録されている曲で、彼女の代表作。邦題は「真夜中のオアシス」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/midnight-at-the-oasis/882486627?i=882486701&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Midnight At the Oasis",
+      "apple_music_artist_name": "Maria Muldaur",
+      "apple_music_album_name": "Maria Muldaur"
     },
     {
       "episode_date": "2015.08.16",
@@ -8880,11 +8880,11 @@ window.TWM_DATA = {
       "artist": "The Isley Brothers",
       "raw_title": "If You Were There / The Isley Brothers",
       "notes": "黒人ヴォーカリスト、ロナルド・アイズレーを中心としたR&B、ファンク系バンド、アイズレー・ブラザーズ。絶頂期にあたる1973年にリリースされたアルバム『3 + 3』は歴史的名盤です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/if-you-were-there/1030452445?i=1030452448&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "If You Were There",
+      "apple_music_artist_name": "The Isley Brothers",
+      "apple_music_album_name": "3+3"
     },
     {
       "episode_date": "2015.08.16",
@@ -8895,11 +8895,11 @@ window.TWM_DATA = {
       "artist": "The Mamas & The Papas",
       "raw_title": "Dream A Little Dream Of Me / The Mamas & The Papas",
       "notes": "1960年代後半に活躍した女性2人プラス男性2人からなるフォーク・バンド、ママス＆パパスが1930年代に生まれたジャズ・スタンダードを取り上げた作品です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dream-a-little-dream-of-me/1415197628?i=1415197762&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dream a Little Dream of Me",
+      "apple_music_artist_name": "The Mamas & The Papas",
+      "apple_music_album_name": "Mama's Big Ones"
     },
     {
       "episode_date": "2015.08.16",
@@ -8910,11 +8910,11 @@ window.TWM_DATA = {
       "artist": "Ray Barbee",
       "raw_title": "A Man's Wisdom Gives Him Patience / Ray Barbee",
       "notes": "レイ・バービーはカリフォルニア出身のスケートボーダーで、ギタリスト。訓市の友人でもあります。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-mans-wisdom-gives-him-patience/79765173?i=79765020&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Man's Wisdom Gives Him Patience",
+      "apple_music_artist_name": "Ray Barbee",
+      "apple_music_album_name": "In Full View"
     },
     {
       "episode_date": "2015.08.16",
@@ -8925,11 +8925,11 @@ window.TWM_DATA = {
       "artist": "Hans Zimmer",
       "raw_title": "You're So Cool / Hans Zimmer",
       "notes": "ドイツ人作曲家のハンス・ジマーが手掛けた1993年のアメリカ映画『True Romance』のサントラに収録されている曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/youre-so-cool/1442904436?i=1442904448&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "You're So Cool",
+      "apple_music_artist_name": "Hans Zimmer",
+      "apple_music_album_name": "True Romance (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.08.16",
@@ -8940,11 +8940,11 @@ window.TWM_DATA = {
       "artist": "Jimmy Cliff",
       "raw_title": "Many Rivers To Cross / Jimmy Cliff",
       "notes": "ジャマイカ人レゲエ・シンガー、ジミー・クリフが1969年にリリースしたアルバム『Jimmy Cliff』に収録されている代表曲。名作です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/many-rivers-to-cross/1535475638?i=1535475642&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Many Rivers To Cross",
+      "apple_music_artist_name": "Jimmy Cliff",
+      "apple_music_album_name": "The Harder They Come (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.08.16",
@@ -8955,11 +8955,11 @@ window.TWM_DATA = {
       "artist": "Graham Nash",
       "raw_title": "Better Days / Graham Nash",
       "notes": "ホリーズ、クロスビー・スティルス・ナッシュ＆ヤングなどの活動で有名なシンガーソングライター、グラハム・ナッシュが1971年にリリースしたファースト・ソロ・アルバム『Song For Beginners』に収録されている曲で歌詞が秀逸！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/better-days/290664335?i=290664338&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Better Days",
+      "apple_music_artist_name": "Graham Nash",
+      "apple_music_album_name": "Songs for Beginners"
     },
     {
       "episode_date": "2015.08.16",
@@ -8970,11 +8970,11 @@ window.TWM_DATA = {
       "artist": "Kool & The Gang",
       "raw_title": "Summer Madness / Kool & The Gang",
       "notes": "1960年代半ばに結成され、70年代から80年代に一世を風靡したR&B、ファンク系バンドのクール・アンド・ザ・ギャング。1974年にリリースされたアルバム『Light Of Worlds』に収録されているサマー・アンセムの名曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/summer-madness/1443798401?i=1443798986&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Summer Madness",
+      "apple_music_artist_name": "Kool & The Gang",
+      "apple_music_album_name": "Light of Worlds"
     },
     {
       "episode_date": "2015.08.23",
@@ -8985,11 +8985,11 @@ window.TWM_DATA = {
       "artist": "MC Miker \"G\" & DJ Sven",
       "raw_title": "Holiday Rap / MC Miker \"G\" & DJ Sven",
       "notes": "オランダ人デュオ、MC MIKER “G” & DJ SVENによる1986年の曲で、マドンナの大ヒット曲「Holiday」を元ネタにラップを乗せたもの。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/holiday-rap/906486144?i=906486261&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Holiday Rap",
+      "apple_music_artist_name": "MC Miker G. & DJ Sven",
+      "apple_music_album_name": "Soleil 80, Vol. 1 (Toute la chaleur des années 80)"
     },
     {
       "episode_date": "2015.08.23",
@@ -9000,11 +9000,11 @@ window.TWM_DATA = {
       "artist": "Steely Dan",
       "raw_title": "Babylon Sisters / Steely Dan",
       "notes": "ドナルド・フェイゲンとウォルター・ベッカーの２人中心にし、アルバムごとにミュージシャンを迎えるスタイルで作品を生み出しているスティーリー・ダン。この曲は1980年にリリースされた『GAUCHO』のオープニング・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/babylon-sisters/1715946508?i=1715946511&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Babylon Sisters",
+      "apple_music_artist_name": "Steely Dan",
+      "apple_music_album_name": "Gaucho"
     },
     {
       "episode_date": "2015.08.23",
@@ -9015,11 +9015,11 @@ window.TWM_DATA = {
       "artist": "Oasis",
       "raw_title": "Married With Children / Oasis",
       "notes": "リアムとノエルのギャラガー兄弟を中心としたイギリスのロック・バンド、オアシス。1994年にリリースされた記念すべきデビュー・アルバム『Definitely Maybe』に収録されている曲で、アルバム中唯一のアコースティック・ナンバーです。なお、グループは2009年に解散しましたが、再結成の噂も・・・",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/married-with-children-demo/1525936190?i=1525937141&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Married With Children (Demo)",
+      "apple_music_artist_name": "Oasis",
+      "apple_music_album_name": "Definitely Maybe (Deluxe Edition Remastered)"
     },
     {
       "episode_date": "2015.08.23",
@@ -9030,11 +9030,11 @@ window.TWM_DATA = {
       "artist": "Roxy Music",
       "raw_title": "More Than This / Roxy Music",
       "notes": "ヴォーカリストのブライアン・フェリーを中心としたイギリスのバンドで、1970年代から80年代にかけて活躍したロキシー・ミュージック。1982年にリリースされた代表作の1枚、『Avalon』に収録されている曲で、訓市はソフィア・コッポラ監督の映画『Lost In Translation』の中でビル・マーレイと一緒にカラオケで歌っています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/more-than-this/724413368?i=724413583&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "More Than This",
+      "apple_music_artist_name": "Roxy Music",
+      "apple_music_album_name": "The Best of Roxy Music"
     },
     {
       "episode_date": "2015.08.23",
@@ -9045,11 +9045,11 @@ window.TWM_DATA = {
       "artist": "井上陽水・安全地帯",
       "raw_title": "夏の終りのハーモニー / 井上陽水・安全地帯",
       "notes": "作詞：井上陽水、作曲；玉置浩二による名作で、二人のデュエットは絶品！訓市はカラオケに行くと夏でなくても歌ってしまうとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E7%B5%82%E3%82%8A%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC/1440895139?i=1440895683&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "夏の終りのハーモニー",
+      "apple_music_artist_name": "井上陽水・安全地帯",
+      "apple_music_album_name": "ALL TIME BEST"
     },
     {
       "episode_date": "2015.08.23",
@@ -9060,11 +9060,11 @@ window.TWM_DATA = {
       "artist": "George Harrison",
       "raw_title": "My Sweet Lord / George Harrison",
       "notes": "ジョージ・ハリソンがビートルズ解散直後の1970年にリリースした超大作、『All Things Must Pass』に収録されている曲で、当日、英米のチャートではナンバーワンを記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/my-sweet-lord/1367505267?i=1367506295&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "My Sweet Lord",
+      "apple_music_artist_name": "George Harrison",
+      "apple_music_album_name": "Eric Clapton: Life In 12 Bars (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.08.23",
@@ -9075,11 +9075,11 @@ window.TWM_DATA = {
       "artist": "Fairground Attraction",
       "raw_title": "Perfect / Fairground Attraction",
       "notes": "女性ヴォーカリストのエディ・リーダーを中心としたイギリスのバンド、フェアーグラウンド・アトラクション唯一のオリジナル・アルバム『First Kiss』に収録されている曲で、リリース当時の1988年には日本のＦＭラジオでも頻繁にオンエアされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/perfect/355893419?i=355893740&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Perfect",
+      "apple_music_artist_name": "Fairground Attraction",
+      "apple_music_album_name": "80s 100 Hits"
     },
     {
       "episode_date": "2015.08.23",
@@ -9090,11 +9090,11 @@ window.TWM_DATA = {
       "artist": "The Jam",
       "raw_title": "That's Entertainment / The Jam",
       "notes": "ヴォーカル＆ギターのポール・ウェラーを中心にした３人組バンドで、1970年代後半から80年代に活躍したザ・ジャム。この曲は1980年にリリースされた5枚目のアルバム『Sound Affects』に収録されている曲で、当時、シングル・カットされました。なお、ポール・ウェラーはバンドを解散後、スタイル・カウンシルを結成しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/thats-entertainment/1440925312?i=1440925830&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "That's Entertainment",
+      "apple_music_artist_name": "The Jam",
+      "apple_music_album_name": "Sound Affects"
     },
     {
       "episode_date": "2015.08.23",
@@ -9105,11 +9105,11 @@ window.TWM_DATA = {
       "artist": "Bob Marley & The Wailers",
       "raw_title": "Small Axe / Bob Marley & The Wailers",
       "notes": "伝説的レゲエ・アーティスト、ボブ・マーリーの初期代表作『Burnin’』に収録されている曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/small-axe-paul-price-remix/1386376973?i=1386379033&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Small Axe (Paul & Price Remix)",
+      "apple_music_artist_name": "Bob Marley & The Wailers",
+      "apple_music_album_name": "Bob Marley & The Wailers: Roots, Rock, Remixed (The Complete Sessions)"
     },
     {
       "episode_date": "2015.08.30",
@@ -9120,11 +9120,11 @@ window.TWM_DATA = {
       "artist": "The LA's",
       "raw_title": "There She Goes / The LA's",
       "notes": "1980年代半ばに結成され、約10年間にわたって活動したイギリスのロック・バンド、ザ・ラーズ。この曲は1988年にリリースされたセカンド・シングルで、美しいメロディーが魅力の名作です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/there-she-goes/1452851666?i=1452851685&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "There She Goes",
+      "apple_music_artist_name": "The La's",
+      "apple_music_album_name": "The La's (Deluxe Edition)"
     },
     {
       "episode_date": "2015.08.30",
@@ -9135,11 +9135,11 @@ window.TWM_DATA = {
       "artist": "Souls Of Mischief",
       "raw_title": "93 'Til Infinity / Souls Of Mischief",
       "notes": "米カリフォルニア州オークランドをベースにしたヒップ・ホップ・グループ、ソウルズ・オブ・ミスチーフが1993年にリリースしたフォースト・アルバムのタイトル・トラック。訓市にとってヒップ・ホップの「オール・タイム・ベスト5」に入るとのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/93-til-infinity/369570847?i=369570892&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "93 'Til Infinity",
+      "apple_music_artist_name": "Souls of Mischief",
+      "apple_music_album_name": "93 'til Infinity"
     },
     {
       "episode_date": "2015.08.30",
@@ -9150,11 +9150,11 @@ window.TWM_DATA = {
       "artist": "10CC",
       "raw_title": "The Things We Do For Love / 10CC",
       "notes": "1970年代初頭、イギリスのマンチェスターで結成された4人組ロック・バンド、10CC。邦題「愛ゆえに」と名付けられたこの曲は、「I’m Not In Love」とともに日本でもお馴染みの代表曲となっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-things-we-do-for-love/1440912379?i=1440912384&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Things We Do For Love",
+      "apple_music_artist_name": "10cc",
+      "apple_music_album_name": "Deceptive Bends (Remastered)"
     },
     {
       "episode_date": "2015.08.30",
@@ -9195,11 +9195,11 @@ window.TWM_DATA = {
       "artist": "Pat Metheny Group",
       "raw_title": "Every Summer Night / Pat Metheny Group",
       "notes": "現代最高峰のジャズ・ギタリスト、パット・メセニーがブラジル音楽に傾倒していた1989年にリリースされたアルバム『Letter From Home』に収録されている曲で、行く夏を惜しむこの時期にピッタリ！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/every-summer-night/1680282280?i=1680282284&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Every Summer Night",
+      "apple_music_artist_name": "Pat Metheny Group",
+      "apple_music_album_name": "Letter from Home"
     },
     {
       "episode_date": "2015.08.30",
@@ -9210,11 +9210,11 @@ window.TWM_DATA = {
       "artist": "Richie Havens",
       "raw_title": "Here Comes The Sun / Richie Havens",
       "notes": "米ニューヨーク出身のシンガーでギタリストのリッチー・ヘヴンス。この曲は1971年リリースのアルバム『Alarm Clock』のオープニングを飾っているビートルズのカバー・ヴァージョンで、オリジナルよりもエモーショナルな仕上がりです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/here-comes-the-sun/1812732116?i=1812732123&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Here Comes the Sun",
+      "apple_music_artist_name": "Richie Havens",
+      "apple_music_album_name": "Alarm Clock"
     },
     {
       "episode_date": "2015.08.30",
@@ -9225,11 +9225,11 @@ window.TWM_DATA = {
       "artist": "Jerry Garcia",
       "raw_title": "Love Scene / Jerry Garcia",
       "notes": "1960年代のヒッピー文化を代表する伝説的バンド、グレイトフル・デッドの中心人物で、ヴォーカリスト＆ギタリストのジェリー・ガルシア。この曲はミケランジェロ・アントニオーニ監督による1970年の映画『砂丘』のサウンド・トラック・アルバムに収録されています。生前にガルシアが映画のサントラを手掛けたのはこの１曲のみ！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-scene/1455569469?i=1455569485&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love Scene",
+      "apple_music_artist_name": "Jerry Garcia",
+      "apple_music_album_name": "Zabriskie Point (Original Motion Picture Soundtrack) [Extended Edition]"
     },
     {
       "episode_date": "2015.08.30",
@@ -9240,11 +9240,11 @@ window.TWM_DATA = {
       "artist": "Booker T",
       "raw_title": "Jamaica Song / Booker T",
       "notes": "米テネシー州メンフィス出身のオルガン・プレーヤー、プロデューサーのブッカー・Ｔ・ジョーンズ。彼はブッカー・Ｔ＆THE MG’sのリーダーとして、オーティス・レディングやウィルソン・ピケットを始め多くのR&Bシンガーをサポートしています。この曲は1974年にリリースされたソロ作『Evergreen』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/jamaica-song/838777586?i=838777593&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Jamaica Song",
+      "apple_music_artist_name": "Booker T.",
+      "apple_music_album_name": "Evergreen (Expanded Edition)"
     },
     {
       "episode_date": "2015.09.06",
@@ -9255,11 +9255,11 @@ window.TWM_DATA = {
       "artist": "Pretty Maids",
       "raw_title": "Please Don't Leave Me / Pretty Maids",
       "notes": "デンマーク出身のヘヴィメタル・バンド、プリティ・メイズが1991年にリリースしたアルバム『SIN-DECADE』に収録されている曲で、タイガース・オブ・パンタン、シン・リジー、ホワイトスネイクなどのバンドを渡り歩いたギタリスト、ジョン・サイクスのカバー・ヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/please-dont-leave-me/268436447?i=268436573&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Please Don't Leave Me",
+      "apple_music_artist_name": "Pretty Maids",
+      "apple_music_album_name": "Sin-Decade"
     },
     {
       "episode_date": "2015.09.06",
@@ -9270,11 +9270,11 @@ window.TWM_DATA = {
       "artist": "Nick Holder",
       "raw_title": "Summer Daze / Nick Holder",
       "notes": "カナダのハウス・ミュージック・シーンを代表するプロデューサー、ニック・ホルダーによる名曲！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/summer-daze/82747796?i=82747602&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Summer Daze",
+      "apple_music_artist_name": "Nick Holder",
+      "apple_music_album_name": "Underground Alternatives"
     },
     {
       "episode_date": "2015.09.06",
@@ -9285,11 +9285,11 @@ window.TWM_DATA = {
       "artist": "P.M.Dawn",
       "raw_title": "Set Adrift On Memory Bliss / P.M.Dawn",
       "notes": "アトレルとジャレットのコーズ兄弟からなるラップ・デュオ、P.M.ドーン。スパンダー・バレーの代表曲「True」をサンプリングしたこの曲は日本でも大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/set-adrift-on-memory-bliss/1737857883?i=1737858438&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Set Adrift On Memory Bliss",
+      "apple_music_artist_name": "P.M. Dawn",
+      "apple_music_album_name": "Of the Heart, Of the Soul and of the Cross: The Utopian Experience"
     },
     {
       "episode_date": "2015.09.06",
@@ -9300,11 +9300,11 @@ window.TWM_DATA = {
       "artist": "Jan Hammer Group",
       "raw_title": "Don't You Know / Jan Hammer Group",
       "notes": "ジャズ畑出身でロック・ミュージシャンとも数多くの共演を果たしているキーボード・プレーヤー、ヤン・ハマーのソロ・アルバム『Melodies』に収録されているメロー・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-you-know/525872012?i=525872239&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't You Know",
+      "apple_music_artist_name": "Jan Hammer Group",
+      "apple_music_album_name": "Melodies"
     },
     {
       "episode_date": "2015.09.06",
@@ -9330,11 +9330,11 @@ window.TWM_DATA = {
       "artist": "Kings Of Convinience",
       "raw_title": "Cayman Islands / Kings Of Convinience",
       "notes": "訓市のお気に入りバンド、キングス・オブ・コンビニエンスのアルバム『Riot On An Empty Street』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/cayman-islands/1663661508?i=1663661513&uo=4",
+      "apple_music_confidence": 90,
+      "apple_music_track_name": "Cayman Islands",
+      "apple_music_artist_name": "Kings of Convenience",
+      "apple_music_album_name": "Riot On an Empty Street"
     },
     {
       "episode_date": "2015.09.06",
@@ -9345,11 +9345,11 @@ window.TWM_DATA = {
       "artist": "Rhye",
       "raw_title": "One Of Those Summer Days / Rhye",
       "notes": "デンマーク出身のロビンとカナダ人のミロシュからなるデュオ、ライ。シャーデーに似た歌声ですが・・・男性です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/one-of-those-summer-days/1440873634?i=1440873890&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "One of Those Summer Days",
+      "apple_music_artist_name": "Rhye",
+      "apple_music_album_name": "Woman"
     },
     {
       "episode_date": "2015.09.06",
@@ -9360,11 +9360,11 @@ window.TWM_DATA = {
       "artist": "Tracy Chapman",
       "raw_title": "Baby Can I Hold You / Tracy Chapman",
       "notes": "1988年リリースでグラミー賞も受賞したデビュー・アルバム『Tracy Chapman』に収録されている曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/baby-can-i-hold-you/79565550?i=79565526&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Baby Can I Hold You",
+      "apple_music_artist_name": "Tracy Chapman",
+      "apple_music_album_name": "Tracy Chapman"
     },
     {
       "episode_date": "2015.09.06",
@@ -9375,11 +9375,11 @@ window.TWM_DATA = {
       "artist": "鈴木慶一とムーンライダース",
       "raw_title": "スカンピン / 鈴木慶一とムーンライダース",
       "notes": "1976年にリリースされた鈴木慶一とムーンライダース名義でリリースされたデビュー・アルバム『火の玉ボーイ』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%82%B9%E3%82%AB%E3%83%B3%E3%83%94%E3%83%B3/361343131?i=361343184&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "スカンピン",
+      "apple_music_artist_name": "鈴木慶一とムーンライダース",
+      "apple_music_album_name": "火の玉ボーイ"
     },
     {
       "episode_date": "2015.09.13",
@@ -9390,11 +9390,11 @@ window.TWM_DATA = {
       "artist": "Vanessa Paradis",
       "raw_title": "Sunday Mondays / Vanessa Paradis",
       "notes": "レニー・クラヴィッツをプロデューサーに迎え、世界的に大ヒットを記録した1993年のアルバム『Be My Baby』から。ヴァネッサ・パラディは女優としても活躍。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sunday-mondays/1444049506?i=1444049934&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sunday Mondays",
+      "apple_music_artist_name": "Vanessa Paradis",
+      "apple_music_album_name": "Vanessa Paradis"
     },
     {
       "episode_date": "2015.09.13",
@@ -9405,11 +9405,11 @@ window.TWM_DATA = {
       "artist": "John Lennon",
       "raw_title": "Nobody Loves You (When You're DOwn And Out) / John Lennon",
       "notes": "1974年にリリースされ全米ナンバーワンを記録したアルバム『Walls And Bridges』（邦題：「心の壁、愛の橋」）から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/nobody-loves-you-when-youre-down-and-out/1440854452?i=1440855058&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Nobody Loves You (When You're Down and Out)",
+      "apple_music_artist_name": "John Lennon",
+      "apple_music_album_name": "Walls and Bridges"
     },
     {
       "episode_date": "2015.09.13",
@@ -9420,11 +9420,11 @@ window.TWM_DATA = {
       "artist": "Weather Report",
       "raw_title": "Night Passage / Weather Report",
       "notes": "キング・オブ・ジャズ＝マイルス・デイヴィスのグループで活躍していた現役サックス・プレーヤーのウェイン・ショーターと、今は亡きキーボード・プレーヤーのジョー・ザビヌルを中心としたエレクトリック・バンド、ウェザー・リポート。エレクトリック・ベースのスタイルを革命的に進化させてジャコ・パストリアスが在籍していた1980年にリリースされたアルバムのタイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/night-passage/516411445?i=516411647&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Night Passage",
+      "apple_music_artist_name": "Weather Report",
+      "apple_music_album_name": "Night Passage"
     },
     {
       "episode_date": "2015.09.13",
@@ -9450,11 +9450,11 @@ window.TWM_DATA = {
       "artist": "Sade",
       "raw_title": "Kiss Of Life / Sade",
       "notes": "女性ヴォーカリストのシャーデー・アデュを中心としたイギリスのバンドで、日本でも1990年代以降、大人気を誇ったバンド、シャーデーの代表曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kiss-of-life/158796559?i=158796603&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kiss of Life",
+      "apple_music_artist_name": "Sade",
+      "apple_music_album_name": "Love Deluxe"
     },
     {
       "episode_date": "2015.09.13",
@@ -9465,11 +9465,11 @@ window.TWM_DATA = {
       "artist": "Calm",
       "raw_title": "Introducing The Shadow Of The Earth / Calm",
       "notes": "チルアウト系ミュージックのパイオニア的存在の日本人アーティスト、カーム。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/introducing-the-shadow-of-the-earth/1313693120?i=1313693137&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Introducing The Shadow Of The Earth",
+      "apple_music_artist_name": "Calm",
+      "apple_music_album_name": "Shadow Of The Earth"
     },
     {
       "episode_date": "2015.09.13",
@@ -9480,11 +9480,11 @@ window.TWM_DATA = {
       "artist": "Gary Jules",
       "raw_title": "Mad World / Gary Jules",
       "notes": "アメリカ人シンガーソングライター、ゲイリー・ジュールスが2001年にリリースしたアルバム『Trading Snakeoil for Wolfticket』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/mad-world/1829564204?i=1829564210&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Mad World",
+      "apple_music_artist_name": "Gary Jules",
+      "apple_music_album_name": "Mad World - Single"
     },
     {
       "episode_date": "2015.09.13",
@@ -9495,11 +9495,11 @@ window.TWM_DATA = {
       "artist": "Monty Python",
       "raw_title": "Always Look On The Bright Side Of Life / Monty Python",
       "notes": "イギリスBBCのテレビ番組『空飛ぶモンティ・パイソン』をきっかけに大活躍したコメディ・グループ。1979年のアルバム『Life Of Brian』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/always-look-on-the-bright-side-of-life/1440732357?i=1440732807&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Always Look On the Bright Side of Life",
+      "apple_music_artist_name": "Michael McGrath, Todd Ellison, Tim Curry & Ensemble",
+      "apple_music_album_name": "Spamalot (Original Broadway Cast)"
     },
     {
       "episode_date": "2015.09.20",
@@ -9510,11 +9510,11 @@ window.TWM_DATA = {
       "artist": "Marvin Gaye",
       "raw_title": "Let's Get It On / Marvin Gaye",
       "notes": "20世紀のミュージック・シーンを代表するソウル、R&Bシンガーのマーヴィン・ゲイ。その絶頂期にあたる1973年にリリースされたアルバムのタイトル・トラック。絶品です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/lets-get-it-on/1445094266?i=1445094678&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let's Get It On",
+      "apple_music_artist_name": "Marvin Gaye",
+      "apple_music_album_name": "Love Songs Number 1's"
     },
     {
       "episode_date": "2015.09.20",
@@ -9525,11 +9525,11 @@ window.TWM_DATA = {
       "artist": "Cheap Trick",
       "raw_title": "Voices / Cheap Trick",
       "notes": "1974年に結成され、80年代にかけて絶大な人気を誇ったアメリカのロック・バンド、チープ・トリック。1979年にリリースされた4枚目のオリジナル・アルバム『Dream Police』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/voices/185679768?i=185680513&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Voices",
+      "apple_music_artist_name": "Cheap Trick",
+      "apple_music_album_name": "Dream Police"
     },
     {
       "episode_date": "2015.09.20",
@@ -9540,11 +9540,11 @@ window.TWM_DATA = {
       "artist": "Procol Harum",
       "raw_title": "A Whiter Shade Of Pale / Procol Harum",
       "notes": "邦題は「青い影」。1967年にリリースされたデビュー曲で、本国アメリカではナンバー・ワンを記録した歴史的名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-whiter-shade-of-pale/1469579642?i=1469579797&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "A Whiter Shade of Pale",
+      "apple_music_artist_name": "Procol Harum",
+      "apple_music_album_name": "The Big Chill (Original Motion Picture Soundtrack) [15th Anniversary]"
     },
     {
       "episode_date": "2015.09.20",
@@ -9555,11 +9555,11 @@ window.TWM_DATA = {
       "artist": "The Blow Monkeys",
       "raw_title": "Digging Your Scene / The Blow Monkeys",
       "notes": "ヴォーカル＆ギターのDr. Robertを中心としたイギリスの4人組バンド、ブロウ・モンキーズ。1986年のアルバム『Animal Magic』から訓市がセレクトした曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/digging-your-scene/253957474?i=253957521&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Digging Your Scene",
+      "apple_music_artist_name": "The Blow Monkeys",
+      "apple_music_album_name": "Choices - The Singles Collection"
     },
     {
       "episode_date": "2015.09.20",
@@ -9570,11 +9570,11 @@ window.TWM_DATA = {
       "artist": "DJ Shadow",
       "raw_title": "Sad And Lonely / DJ Shadow",
       "notes": "米カリフォルニア州出身のDJ、プロデューサーのDJ Shadowが2011年にリリースしたアルバム『The Less You Know, The Better』に収録されている曲です。訓市セレクト。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sad-and-lonely/1660654692?i=1660655659&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sad and Lonely",
+      "apple_music_artist_name": "DJ Shadow",
+      "apple_music_album_name": "The Less You Know, The Better (Deluxe Edition)"
     },
     {
       "episode_date": "2015.09.20",
@@ -9600,11 +9600,11 @@ window.TWM_DATA = {
       "artist": "Soul Asylum",
       "raw_title": "Runaway TRain / Soul Asylum",
       "notes": "米ミネソタ州出身のオルタナティブ・ロック・バンド、ソウル・アサイラム。1992年にリリースされたアルバム『Grave Dancers Union』に収録されているこの曲は、グラミー賞も獲得しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/runaway-train/394943200?i=394943368&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Runaway Train",
+      "apple_music_artist_name": "Soul Asylum",
+      "apple_music_album_name": "Black Gold: The Best of Soul Asylum"
     },
     {
       "episode_date": "2015.09.20",
@@ -9615,11 +9615,11 @@ window.TWM_DATA = {
       "artist": "椎名林檎 宇多田ヒカル",
       "raw_title": "I Won't Last A Day Without You / 椎名林檎 宇多田ヒカル",
       "notes": "椎名林檎が2002年にリリースしたカバー・アルバム『唄ひ手冥利〜其の壱〜』に収録されているカーペンターズのカバー・ヴァージョン。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/i-wont-last-a-day-without-you/1385312220?i=1385312565&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "i won't last a day without you",
+      "apple_music_artist_name": "椎名林檎 & 宇多田ヒカル",
+      "apple_music_album_name": "唄ひ手冥利 ~其ノ壱~"
     },
     {
       "episode_date": "2015.09.27",
@@ -9630,11 +9630,11 @@ window.TWM_DATA = {
       "artist": "The Cinematic Orchestra",
       "raw_title": "All That You Give / The Cinematic Orchestra",
       "notes": "UKロンドンをベースに活動しているザ・シネマティック・オーケストラ。ピアノ、ギター、ドラムス、ベースのリズム・セクションに加え、サックスとターンテーブリストが加わった6人組で、生楽器とサンプリングをミックスしたジャズ・テイストのサウンドが特徴です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/all-that-you-give/1408820845?i=1408820855&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "All That You Give",
+      "apple_music_artist_name": "The Cinematic Orchestra",
+      "apple_music_album_name": "Ninja Tune Retrospect (No. 1)"
     },
     {
       "episode_date": "2015.09.27",
@@ -9645,11 +9645,11 @@ window.TWM_DATA = {
       "artist": "Mike And The Mechanics",
       "raw_title": "The Living Years / Mike And The Mechanics",
       "notes": "イギリス出身のギタリストで、元ジェネシスのメンバーだったマイク・ラザフォードを中心としたグループ、マイク・アンド・ザ・メカニックス。1989年にリリースされたこの曲は全米チャートでもNO.1を記録し、最大のヒット曲となっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-living-years/919919438?i=919919502&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "The Living Years",
+      "apple_music_artist_name": "Mike + The Mechanics",
+      "apple_music_album_name": "R-Kive"
     },
     {
       "episode_date": "2015.09.27",
@@ -9660,11 +9660,11 @@ window.TWM_DATA = {
       "artist": "The Pastels",
       "raw_title": "Rough Rider (Future Pilot AKA) / The Pastels",
       "notes": "スコットランドのグラスゴー出身のオルタナティヴ・ロック系バンド、ザ・パステルズ。このヴァージョンは1998年にリリースされたリミックス・アルバム『Illuminati』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/rough-riders-future-pilot-aka-remix/81036499?i=81036452&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "Rough Riders (Future Pilot Aka Remix)",
+      "apple_music_artist_name": "The Pastels",
+      "apple_music_album_name": "Illuminati"
     },
     {
       "episode_date": "2015.09.27",
@@ -9675,11 +9675,11 @@ window.TWM_DATA = {
       "artist": "Amy Winehouse",
       "raw_title": "Love Is A Losing Game / Amy Winehouse",
       "notes": "ロンドン出身の女性ヴォーカリスト、エイミー・ワインハウスが2006年にリリースしたセカンド・アルバム『Back To Black』に収録されている曲です。なお、将来が嘱望されていたエイミーでしたが、2011年に27歳の若さで逝去。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-is-a-losing-game/1422677780?i=1422677786&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love Is a Losing Game",
+      "apple_music_artist_name": "Amy Winehouse",
+      "apple_music_album_name": "Back to Black"
     },
     {
       "episode_date": "2015.09.27",
@@ -9705,11 +9705,11 @@ window.TWM_DATA = {
       "artist": "Bloc Party",
       "raw_title": "SRXT / Bloc Party",
       "notes": "ロンドン出身のギター・ロック・バンド、ブロック・パーティー。この曲は2007年にリリースされたセカンド・アルバム『A Weekend In The City』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/srxt/268052107?i=268053220&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Srxt",
+      "apple_music_artist_name": "Bloc Party",
+      "apple_music_album_name": "A Weekend In the City"
     },
     {
       "episode_date": "2015.09.27",
@@ -9720,11 +9720,11 @@ window.TWM_DATA = {
       "artist": "Mogwai",
       "raw_title": "Tracy (Kid Loco's Playing With The Young Team) / Mogwai",
       "notes": "スコットランドのグラスゴー出身、ギター・サウンドをメインにしたインストゥルメンタル系ロック・バンド、モグワイ。オリジナル・ヴァージョンは何故か「富士銀行」の写真が使われたデビュー・アルバム『Young Team』に収録されていますが、番組ではフランス人アーティストのキッド・ロコが手掛けたリミックス・ヴァージョンをセレクトしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/tracy-kid-locos-playing-with-the-young-team-remix/313761423?i=313761510&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Tracy (Kid Loco's Playing With the Young Team Remix)",
+      "apple_music_artist_name": "Mogwai",
+      "apple_music_album_name": "Kicking a Dead Pig"
     },
     {
       "episode_date": "2015.09.27",
@@ -9735,11 +9735,11 @@ window.TWM_DATA = {
       "artist": "The Dave Brubeck Quartet",
       "raw_title": "Take Five / The Dave Brubeck Quartet",
       "notes": "米ウェスト・コースト・ジャズを代表するジャズ・ピアニストの一人、デイヴ・ブルーベックと、名パートナーのアルト・サックス・プレーヤー、ポール・デスモンドを中心とした4人組。デスモンド作曲による「Take Five」はジャズ史に燦然と輝く超有名曲です！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/take-five/193085545?i=193085790&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Take Five",
+      "apple_music_artist_name": "The Dave Brubeck Quartet",
+      "apple_music_album_name": "Time Out"
     },
     {
       "episode_date": "2015.10.04",
@@ -9750,11 +9750,11 @@ window.TWM_DATA = {
       "artist": "The Lovin' Spoonful",
       "raw_title": "Daydream / The Lovin' Spoonful",
       "notes": "1960年代に数々の名曲を産んだバンド、ラヴィン・スプーンフルが1966年に放った代ヒット曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/daydream/253838626?i=253838638&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Daydream",
+      "apple_music_artist_name": "The Lovin' Spoonful",
+      "apple_music_album_name": "Daydream"
     },
     {
       "episode_date": "2015.10.04",
@@ -9765,11 +9765,11 @@ window.TWM_DATA = {
       "artist": "The Alan Parsons Project",
       "raw_title": "Don't Answer Me / The Alan Parsons Project",
       "notes": "レコーディング・エンジニアとしてザ・ビートルズやピンク・フロイドなどの作品を手掛けたキャリアをもつアラン・パーソンズを中心としたバンドで、1984年のアルバム『Ammonia Avenue』に収録されている曲で、当時、大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-answer-me/265093082?i=265093254&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't Answer Me",
+      "apple_music_artist_name": "The Alan Parsons Project",
+      "apple_music_album_name": "The Best of The Alan Parsons Project, Vol. 2"
     },
     {
       "episode_date": "2015.10.04",
@@ -9780,11 +9780,11 @@ window.TWM_DATA = {
       "artist": "Todd Rundgren",
       "raw_title": "It Wouldn't Have Made Any Difference / Todd Rundgren",
       "notes": "1970年にデビュー・アルバムをリリースして以降、現在に至るまで活動を続けているアーティスト、トッド・ラングレン。この曲は初期の名盤『Something/Anything?』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/it-wouldnt-have-made-any-difference/1084074389?i=1084074839&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "It Wouldn't Have Made Any Difference",
+      "apple_music_artist_name": "Todd Rundgren",
+      "apple_music_album_name": "Something/Anything?"
     },
     {
       "episode_date": "2015.10.04",
@@ -9795,11 +9795,11 @@ window.TWM_DATA = {
       "artist": "Cowboy Junkies",
       "raw_title": "Sweet Jane / Cowboy Junkies",
       "notes": "カナダのトロントで結成されたオルタナティブ・ロック・バンド、カウボーイ・ジャンキーズ。1988年にリリースされたアルバム『The Trinity Session』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/sweet-jane/456804794?i=456805007&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Sweet Jane",
+      "apple_music_artist_name": "Cowboy Junkies",
+      "apple_music_album_name": "The Trinity Session"
     },
     {
       "episode_date": "2015.10.04",
@@ -9810,11 +9810,11 @@ window.TWM_DATA = {
       "artist": "崎谷健次郎",
       "raw_title": "もう一度夜を止めて / 崎谷健次郎",
       "notes": "広島出身のシンガーソングライター、崎谷健次郎の代表曲で、1987年に大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E5%A4%9C%E3%82%92%E6%AD%A2%E3%82%81%E3%81%A6/1704759270?i=1704759271&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "もう一度夜を止めて",
+      "apple_music_artist_name": "崎谷健次郎",
+      "apple_music_album_name": "もう一度夜を止めて - Single"
     },
     {
       "episode_date": "2015.10.04",
@@ -9825,11 +9825,11 @@ window.TWM_DATA = {
       "artist": "Janis Joplin",
       "raw_title": "A Woman Lonely / Janis Joplin",
       "notes": "アメリカの20世紀ロック史を代表する女性ヴァーカリスト、ジャニス・ジョプリン。遺作となった1971年のアルバム『Pearl』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/a-woman-left-lonely/917030890?i=917030911&uo=4",
+      "apple_music_confidence": 80,
+      "apple_music_track_name": "A Woman Left Lonely",
+      "apple_music_artist_name": "Janis Joplin",
+      "apple_music_album_name": "Pearl"
     },
     {
       "episode_date": "2015.10.04",
@@ -9840,11 +9840,11 @@ window.TWM_DATA = {
       "artist": "Jackson Browne",
       "raw_title": "The Road / Jackson Browne",
       "notes": "米ウェスト・コース・ロックを代表するシンガーソングライター、ジャクソン・ブラウンの代表作、1977年にリリースされた5枚目のアルバム『Running On Empty』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-road-remastered/1466749581?i=1466749718&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "The Road (Remastered)",
+      "apple_music_artist_name": "Jackson Browne",
+      "apple_music_album_name": "Running on Empty (Remastered)"
     },
     {
       "episode_date": "2015.10.04",
@@ -9855,11 +9855,11 @@ window.TWM_DATA = {
       "artist": "Stevie Ray Vaughan",
       "raw_title": "Lenny / Stevie Ray Vaughan",
       "notes": "米テキサス出身のブルース系ギタリスト、スティーヴィー・レイ・ヴォーン。1983年のデビュー・アルバム『Texas Flood』から。なお、彼はヘリコプターの墜落事故により35歳の若さで逝去。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/lenny/592756949?i=592756962&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "Lenny",
+      "apple_music_artist_name": "Stevie Ray Vaughan & Double Trouble",
+      "apple_music_album_name": "Texas Flood (Legacy Edition)"
     },
     {
       "episode_date": "2015.10.04",
@@ -9870,11 +9870,11 @@ window.TWM_DATA = {
       "artist": "Beck",
       "raw_title": "Heart Is A Drum / Beck",
       "notes": "アメリカ西海岸出身のベックが昨年リリースした最新作『Morning Phase』に収録されている曲です。なお、本作は2015年のグラミー賞で「Album Of The Year」に輝いています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/heart-is-a-drum/1440857105?i=1440857261&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Heart Is a Drum",
+      "apple_music_artist_name": "Beck",
+      "apple_music_album_name": "Morning Phase"
     },
     {
       "episode_date": "2015.10.11",
@@ -9885,11 +9885,11 @@ window.TWM_DATA = {
       "artist": "Camera Obscura",
       "raw_title": "Tears For Affairs / Camera Obscura",
       "notes": "スコットランド、グラスゴー出身の男女混成5人組バンド、カメラ・オブスキュラ。結成は1996年で、この曲は2006年にリリースされた3枚目のアルバム『Let’s Get Out of This Country』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/tears-for-affairs/219655572?i=219655582&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tears for Affairs",
+      "apple_music_artist_name": "Camera Obscura",
+      "apple_music_album_name": "Tears for Affairs - EP"
     },
     {
       "episode_date": "2015.10.11",
@@ -9900,11 +9900,11 @@ window.TWM_DATA = {
       "artist": "Lutricia McNeal",
       "raw_title": "Ain't That Just The Way / Lutricia McNeal",
       "notes": "アメリカの女性シンガー、ルトリシア・マクニールのデビュー曲でリリースは1997年。当時、日本を含め世界中で大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/aint-that-just-the-way/1801171667?i=1801171911&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Ain't That Just the Way",
+      "apple_music_artist_name": "Lutricia McNeal",
+      "apple_music_album_name": "Ain't That Just the Way"
     },
     {
       "episode_date": "2015.10.11",
@@ -9915,11 +9915,11 @@ window.TWM_DATA = {
       "artist": "Swing Out Sister",
       "raw_title": "La La Means I Love You / Swing Out Sister",
       "notes": "女性ヴォーカリストのコリーンと男性キーボーディストのアンディからなるイギリスのデュオ、スウィング・アウト・シスター。1990年代に日本でもヒットを連発し、絶大な人気を誇りました。この曲はアメリカのソウル・グループ、デルフォニックスの代表曲をカバーしたもの。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/la-la-means-i-love-you/1443737620?i=1443737960&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "La La (Means I Love You)",
+      "apple_music_artist_name": "Swing Out Sister",
+      "apple_music_album_name": "The Living Return"
     },
     {
       "episode_date": "2015.10.11",
@@ -9930,11 +9930,11 @@ window.TWM_DATA = {
       "artist": "Everything But The Girl",
       "raw_title": "Alison / Everything But The Girl",
       "notes": "アンニュイなヴォーカルが魅力のトレイシー・ソーンとギタリストのベン・ワットからなるイギリスの男女デュオ、エブリシング・バット・ザ・ガール。1992年にリリースされたコンピレーション・アルバム『Acoustic』に収録されている曲で、エルヴィス・コステロのカバー・ヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/alison/1629189242?i=1629189456&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Alison",
+      "apple_music_artist_name": "Everything But the Girl",
+      "apple_music_album_name": "Acoustic"
     },
     {
       "episode_date": "2015.10.11",
@@ -9945,11 +9945,11 @@ window.TWM_DATA = {
       "artist": "竹内まりや",
       "raw_title": "元気を出して / 竹内まりや",
       "notes": "竹内まりやが薬師丸ひろ子に書き下ろした曲をセルフ・カバーしたヴァージョン。後半部で薬師丸ひろ子のコーラスがフィーチャーされています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E5%85%83%E6%B0%97%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6/1541673202?i=1541673401&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "元気を出して",
+      "apple_music_artist_name": "竹内まりや",
+      "apple_music_album_name": "Expressions (MOON Version)"
     },
     {
       "episode_date": "2015.10.11",
@@ -9960,11 +9960,11 @@ window.TWM_DATA = {
       "artist": "Sarah McLachran",
       "raw_title": "I Will Remember You / Sarah McLachran",
       "notes": "カナダ出身の女性シンガーソングライター、サラ・マクラクラン。1999年のアルバム『Mirrorball』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-will-remember-you/292017416?i=292017578&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "I Will Remember You",
+      "apple_music_artist_name": "Sarah McLachlan",
+      "apple_music_album_name": "Closer - The Best of Sarah McLachlan"
     },
     {
       "episode_date": "2015.10.11",
@@ -9975,11 +9975,11 @@ window.TWM_DATA = {
       "artist": "Sheryl Crow",
       "raw_title": "No One Said It Would Be Easy / Sheryl Crow",
       "notes": "アメリカの女性シンガーソングライター、シェリル・クロウのデビュー・アルバムで、1993年のリリース当時、世界的にヒットした『Tuesday Night Music Club』に収録されている隠れた名曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/no-one-said-it-would-be-easy/1440918803?i=1440919031&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "No One Said It Would Be Easy",
+      "apple_music_artist_name": "Sheryl Crow",
+      "apple_music_album_name": "Tuesday Night Music Club"
     },
     {
       "episode_date": "2015.10.11",
@@ -9990,11 +9990,11 @@ window.TWM_DATA = {
       "artist": "Bette Midler",
       "raw_title": "Baby Mine / Bette Midler",
       "notes": "ベット・ミドラー自身も出演している1988年の映画『Beaches（邦題：フォーエバー・フレンズ）』のサントラに収録されている曲で、ディズニー・アニメ『ダンボ』のテーマ・ソング。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/baby-mine/290661781?i=290661856&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Baby Mine",
+      "apple_music_artist_name": "Bette Midler",
+      "apple_music_album_name": "Beaches (Original Motion Picture Soundtrack)"
     },
     {
       "episode_date": "2015.10.11",
@@ -10005,11 +10005,11 @@ window.TWM_DATA = {
       "artist": "Janet Jackson",
       "raw_title": "Let's Wait Awhile / Janet Jackson",
       "notes": "ジャネット・ジャクソンの一躍ポピュラーにした1986年の大ヒット・アルバム『Control』に収録されている曲で、全米R&Bチャートでナンバーワンを記録。当時、一世を風靡していたジャム＆ルイスがプロデュースを手がけています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/lets-wait-awhile/1440831636?i=1440831866&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let's Wait Awhile",
+      "apple_music_artist_name": "Janet Jackson",
+      "apple_music_album_name": "Control"
     },
     {
       "episode_date": "2015.10.18",
@@ -10020,11 +10020,11 @@ window.TWM_DATA = {
       "artist": "Kanye West feat. John Legend",
       "raw_title": "Blame Game / Kanye West feat. John Legend",
       "notes": "米シカゴ出身のラッパーで、他アーティストのプロデュースなども数多く手掛けているカニエ・ウェスト。全米チャートでNO.1を記録した2010年のアルバム『My Beautiful Dark Twisted Fantasy』に収録されている曲で、黒人R&Bシンガーのジョン・レジェンドがゲスト参加。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/blame-game-feat-john-legend/1443160553?i=1443160704&uo=4",
+      "apple_music_confidence": 87,
+      "apple_music_track_name": "Blame Game (feat. John Legend)",
+      "apple_music_artist_name": "Kanye West & John Legend",
+      "apple_music_album_name": "My Beautiful Dark Twisted Fantasy"
     },
     {
       "episode_date": "2015.10.18",
@@ -10035,11 +10035,11 @@ window.TWM_DATA = {
       "artist": "Cutting Crew",
       "raw_title": "I've Been In Love Before / Cutting Crew",
       "notes": "1986年のデビュー・アルバム『Broadcast』に収録されている曲「(I Just) Died In Your Amrs（邦題：愛に抱かれた夜）」が全世界で大ヒットを記録したイギリスのロックバンド、カッティング・クルー。この曲は同アルバムから。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ive-been-in-love-before/724597652?i=724598011&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I've Been in Love Before",
+      "apple_music_artist_name": "Cutting Crew",
+      "apple_music_album_name": "Broadcast"
     },
     {
       "episode_date": "2015.10.18",
@@ -10050,11 +10050,11 @@ window.TWM_DATA = {
       "artist": "Cyndi Lauper",
       "raw_title": "Time After Time / Cyndi Lauper",
       "notes": "アメリカの女性ヴォーカリスト、シンディ・ローパーが1983年にリリースしたデビュー・アルバム『She’s So Unusual』に収録されている永遠の名曲！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/time-after-time/400603643?i=400603695&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Time After Time",
+      "apple_music_artist_name": "Cyndi Lauper",
+      "apple_music_album_name": "She's So Unusual"
     },
     {
       "episode_date": "2015.10.18",
@@ -10065,11 +10065,11 @@ window.TWM_DATA = {
       "artist": "Night Ranger",
       "raw_title": "Goodbye / Night Ranger",
       "notes": "1982年結成で、ギタリスト２人、ヴォーカリスト2人というユニークな編成が魅力のハード・ロック・バンド、ナイト・レンジャー。1985年リリースのアルバム『7 Wishes』に収録されている切ないバラード。バンドは4人編成となって現在も活動を続けています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/goodbye/1445666976?i=1445667548&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Goodbye",
+      "apple_music_artist_name": "Night Ranger",
+      "apple_music_album_name": "7 Wishes"
     },
     {
       "episode_date": "2015.10.18",
@@ -10080,11 +10080,11 @@ window.TWM_DATA = {
       "artist": "Lenny Kravitz",
       "raw_title": "Rosemary / Lenny Kravitz",
       "notes": "1989年にリリースされたレニー・クラヴィッツの記念すべきデビュー・アルバム『Let Love Rule』に収録されているこの曲は、当時の奥さんだったリサ・ボネットとの共作。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/rosemary/725208349?i=725208366&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Rosemary",
+      "apple_music_artist_name": "Lenny Kravitz",
+      "apple_music_album_name": "Let Love Rule"
     },
     {
       "episode_date": "2015.10.18",
@@ -10095,11 +10095,11 @@ window.TWM_DATA = {
       "artist": "Stevie Wonder",
       "raw_title": "Love's In Need Of Love Today / Stevie Wonder",
       "notes": "1976年にリリースされた歴史的名盤『Songs In The Key Of Life』のオープニングを飾る曲\n\n。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/loves-in-need-of-love-today/1440788438?i=1440788532&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love's In Need of Love Today",
+      "apple_music_artist_name": "Stevie Wonder",
+      "apple_music_album_name": "Songs in the Key of Life"
     },
     {
       "episode_date": "2015.10.18",
@@ -10125,11 +10125,11 @@ window.TWM_DATA = {
       "artist": "John Mayer",
       "raw_title": "Daughters / John Mayer",
       "notes": "アメリカ人シンガソングライターでギタリストのジョン・メイヤー。2003年にリリースされたセカンド・アルバム『Heavier Things』に収録されている名曲。なお、彼はジョン・フルシアンテ、デレク・トラックスと並んで「現代の3ギタリスト」の一人に選ばれています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/daughters/199049977?i=199051362&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Daughters",
+      "apple_music_artist_name": "John Mayer",
+      "apple_music_album_name": "Heavier Things"
     },
     {
       "episode_date": "2015.10.25",
@@ -10140,11 +10140,11 @@ window.TWM_DATA = {
       "artist": "Jim O'Rouke",
       "raw_title": "Ghost Ship In A Storm / Jim O'Rouke",
       "notes": "アメリカ人マルチ・アーティスト、ジム・オルークが1999年にリリースしたアルバム『Eureka』に収録されている曲。ジムは大の親日家で、東京在住とも・・・。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/ghost-ship-in-a-storm/1610301015?i=1610301018&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Ghost Ship in a Storm",
+      "apple_music_artist_name": "Jim O'Rourke",
+      "apple_music_album_name": "Eureka"
     },
     {
       "episode_date": "2015.10.25",
@@ -10155,11 +10155,11 @@ window.TWM_DATA = {
       "artist": "Manic Street Preachers",
       "raw_title": "So Why So Sad (Avalanches Remix) / Manic Street Preachers",
       "notes": "英国ウェールズ出身のロックバンド、マニック・ストリート・プリーチャーズ。2001年のアルバム『Know Your Enemy』に収録されている曲をオーストラリアのグループ、アヴァランチェスがリミックスしたヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/so-why-so-sad-avalanches-remix/257478944?i=257480732&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "So Why So Sad (Avalanches Remix)",
+      "apple_music_artist_name": "MANIC STREET PREACHERS",
+      "apple_music_album_name": "Forever Delayed - Manic Street Preachers Greatest Hits"
     },
     {
       "episode_date": "2015.10.25",
@@ -10170,11 +10170,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "If I Have To Go / Tom Waits",
       "notes": "2006年にリリースされたCD3枚からなる大作、『Orphans』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/if-i-have-to-go/1485076540?i=1485076723&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "If I Have to Go",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)"
     },
     {
       "episode_date": "2015.10.25",
@@ -10200,11 +10200,11 @@ window.TWM_DATA = {
       "artist": "奇妙礼太郎",
       "raw_title": "悲しくてやりきれない / 奇妙礼太郎",
       "notes": "テレビCMで使われている松田聖子のカバー・ヴァージョン「渚のバルコニー」も歌っている奇妙礼太郎。訓市は雑誌の編集・執筆作業で完徹した時、あまりにも眠すぎてこのような気持ちになるとか・・・。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/%E6%82%B2%E3%81%97%E3%81%8F%E3%81%A6%E3%82%84%E3%82%8A%E3%81%8D%E3%82%8C%E3%81%AA%E3%81%84/1093037413?i=1093037452&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "悲しくてやりきれない",
+      "apple_music_artist_name": "奇妙礼太郎",
+      "apple_music_album_name": "Grand Gallery Presents Home Party Starring Kimyo Reitaro"
     },
     {
       "episode_date": "2015.10.25",
@@ -10230,11 +10230,11 @@ window.TWM_DATA = {
       "artist": "Yo La Tengo",
       "raw_title": "Green Arrow / Yo La Tengo",
       "notes": "米ニュージャージー出身の3人組バンド、ヨ・ラ・テンゴ。ジャンルを超越したヴァラエティ豊かな音楽性が魅力！1997年のアルバム『I Can Hear The Heart Beating As One』に収録されているチルなインストゥルメンタル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/green-arrow/1589242975?i=1589243069&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Green Arrow",
+      "apple_music_artist_name": "Yo La Tengo",
+      "apple_music_album_name": "I Can Hear the Heart Beating As One"
     },
     {
       "episode_date": "2015.10.25",
@@ -10245,11 +10245,11 @@ window.TWM_DATA = {
       "artist": "Sun City Girls",
       "raw_title": "Vine Street Piano (Orchestral) / Sun City Girls",
       "notes": "米アリゾナ出身のバンド、サン・シティ・ガールズ。グループ名は「ガール」ですが、メンバーは男性3人。サーフ・ロック系のインストゥルメンタル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/vine-street-piano-orchestral/553880546?i=553880832&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Vine Street Piano (Orchestral)",
+      "apple_music_artist_name": "Sun City Girls",
+      "apple_music_album_name": "Funeral Mariachi"
     },
     {
       "episode_date": "2015.10.25",
@@ -10260,11 +10260,11 @@ window.TWM_DATA = {
       "artist": "Yo La Tengo",
       "raw_title": "Blue Line Swinger / Yo La Tengo",
       "notes": "今年12月に来日公演が予定されているヨ・ラ・テンゴ。この曲は1995年のアルバム『Electr-O-Pura』に収録されています。訓市は徹夜明けに車を運転しながらコレを聴いて、気持ちを上げているとか・・・。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/blue-line-swinger/1589273378?i=1589274748&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Blue Line Swinger",
+      "apple_music_artist_name": "Yo La Tengo",
+      "apple_music_album_name": "Prisoners of Love: A Smattering of Scintillating Senescent Songs 1985-2003 PLUS A Smattering of Outtakes and Rarities 1986-2002"
     },
     {
       "episode_date": "2015.11.01",
@@ -10275,11 +10275,11 @@ window.TWM_DATA = {
       "artist": "Stevie Wonder",
       "raw_title": "Golden Lady / Stevie Wonder",
       "notes": "1973年リリースのアルバム『Innervisions』に収録されている曲。本作はスティーヴィーが一人で全ての楽器を演奏したもので、グラミー賞の「Album Of The Year」も獲得しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/golden-lady/1440806790?i=1440807306&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Golden Lady",
+      "apple_music_artist_name": "Stevie Wonder",
+      "apple_music_album_name": "Innervisions"
     },
     {
       "episode_date": "2015.11.01",
@@ -10290,11 +10290,11 @@ window.TWM_DATA = {
       "artist": "Primal Scream",
       "raw_title": "Come Together / Primal Scream",
       "notes": "ヴォーカルのボビー・ギレスピーを中心にスコットランドのグラスゴーで結成されたバンド、プライマル・スクリームの代表作『Screamadelica』に収録されている曲で、ビートルズとは同名異曲のオリジナルです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/come-together-farley-mix/302077857?i=302077865&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Come Together (Farley Mix)",
+      "apple_music_artist_name": "Primal Scream",
+      "apple_music_album_name": "Screamadelica"
     },
     {
       "episode_date": "2015.11.01",
@@ -10305,11 +10305,11 @@ window.TWM_DATA = {
       "artist": "Sigur Ros",
       "raw_title": "Hoppipolla / Sigur Ros",
       "notes": "アイスランド出身のバンド、シガー・ロスが2005年にリリースしたアルバム『Takk...』に収録されている曲。アルバム・タイトルを日本語に訳すと「ありがとう」とのこと。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hoppipolla-the-tape-variations/1854519212?i=1854519608&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "Hoppipolla (The Tape Variations)",
+      "apple_music_artist_name": "Sigur Rós",
+      "apple_music_album_name": "Takk... (The Tape Variations)"
     },
     {
       "episode_date": "2015.11.01",
@@ -10320,11 +10320,11 @@ window.TWM_DATA = {
       "artist": "Jimi Hendrix Experience",
       "raw_title": "Castles Made Of Sand / Jimi Hendrix Experience",
       "notes": "アメリカの伝説的黒人ギタリスト、ジミ・ヘンドリックスの代表作の1枚、『Axis: Bold As Love』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/castles-made-of-sand/357222341?i=357222532&uo=4",
+      "apple_music_confidence": 97,
+      "apple_music_track_name": "Castles Made of Sand",
+      "apple_music_artist_name": "The Jimi Hendrix Experience",
+      "apple_music_album_name": "Axis: Bold As Love"
     },
     {
       "episode_date": "2015.11.01",
@@ -10335,11 +10335,11 @@ window.TWM_DATA = {
       "artist": "Bank Band",
       "raw_title": "糸 / Bank Band",
       "notes": "数多くのアーティストがカバーしている中島みゆきの名曲。Bank Bandのヴァージョンは2004年のアルバム『沿志秦逢』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E7%B3%B8/1390999523?i=1390999932&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "糸",
+      "apple_music_artist_name": "Bank Band",
+      "apple_music_album_name": "沿志奏逢"
     },
     {
       "episode_date": "2015.11.01",
@@ -10365,11 +10365,11 @@ window.TWM_DATA = {
       "artist": "Little River Band",
       "raw_title": "Reminiscing / Little River Band",
       "notes": "豪メルボルン出身の6人組リトル・リバー・バンドの代表曲で、1978年に大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/reminiscing/1645806082?i=1645806384&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Reminiscing",
+      "apple_music_artist_name": "Little River Band",
+      "apple_music_album_name": "Ultimate Hits (Remastered 2022)"
     },
     {
       "episode_date": "2015.11.01",
@@ -10380,11 +10380,11 @@ window.TWM_DATA = {
       "artist": "Seu Jorge",
       "raw_title": "Changes / Seu Jorge",
       "notes": "リオデジャネイロ出身のシンガーソングライター、セウ・ジョルジ。自身も俳優として出演したウェス・アンダーソン監督の映画『Life Aquatic』の為に制作されたアルバムから。本作は全編にわたってデヴィッド・ボウイの曲をポルトガル語でカバーしています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/changes/1440916686?i=1440916990&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Changes",
+      "apple_music_artist_name": "Seu Jorge",
+      "apple_music_album_name": "The Life Aquatic - Studio Sessions featuring Seu Jorge"
     },
     {
       "episode_date": "2015.11.08",
@@ -10395,11 +10395,11 @@ window.TWM_DATA = {
       "artist": "Junior Kimbrough",
       "raw_title": "Meet Me In The City / Junior Kimbrough",
       "notes": "米ミシシッピ出身の黒人ブルース・アーティスト、ジュニア・キンブロー。1992年のアルバム『All Night Long』に収録されているミディアム・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/meet-me-in-the-city/1088126574?i=1088126580&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Meet Me in the City",
+      "apple_music_artist_name": "Junior Kimbrough",
+      "apple_music_album_name": "Meet Me in the City"
     },
     {
       "episode_date": "2015.11.08",
@@ -10410,11 +10410,11 @@ window.TWM_DATA = {
       "artist": "Elvis Costello & The Attractions",
       "raw_title": "I Wanna Be Loved / Elvis Costello & The Attractions",
       "notes": "「& The Attractions」名義で1984年にリリースされたアルバム『Goodbye Cruel World』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-wanna-be-loved/1442958604?i=1442958996&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Wanna Be Loved",
+      "apple_music_artist_name": "Elvis Costello & The Attractions",
+      "apple_music_album_name": "Goodbye Cruel World"
     },
     {
       "episode_date": "2015.11.08",
@@ -10425,11 +10425,11 @@ window.TWM_DATA = {
       "artist": "Ron Sexsmith",
       "raw_title": "Secret Heart / Ron Sexsmith",
       "notes": "カナダ出身の男性シンガーソングライター、ロン・セクスミスが1995年にリリースしたメジャー・デビュー・アルバムから。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/secret-heart/1444054024?i=1444054183&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Secret Heart",
+      "apple_music_artist_name": "Ron Sexsmith",
+      "apple_music_album_name": "Ron Sexsmith"
     },
     {
       "episode_date": "2015.11.08",
@@ -10440,11 +10440,11 @@ window.TWM_DATA = {
       "artist": "The Verve",
       "raw_title": "Drugs Don't Work / The Verve",
       "notes": "ヴォーカリストのリチャード・アシュクロフトを中心としたイギリスのロック・バンド、ザ・ヴァーヴ。1997年リリースのサード・アルバム『Urban Hymns』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-drugs-dont-work/1443258184?i=1443258320&uo=4",
+      "apple_music_confidence": 89,
+      "apple_music_track_name": "The Drugs Don't Work",
+      "apple_music_artist_name": "The Verve",
+      "apple_music_album_name": "Urban Hymns (Deluxe / Remastered 2016)"
     },
     {
       "episode_date": "2015.11.08",
@@ -10455,11 +10455,11 @@ window.TWM_DATA = {
       "artist": "鈴木常吉",
       "raw_title": "思ひで / 鈴木常吉",
       "notes": "人気テレビ番組「深夜食堂」で使われている曲で、オリジナルはアイルランド民謡。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%B2%E3%81%A7/339692942?i=339693053&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "思ひで",
+      "apple_music_artist_name": "鈴木常吉",
+      "apple_music_album_name": "ぜいご"
     },
     {
       "episode_date": "2015.11.08",
@@ -10470,11 +10470,11 @@ window.TWM_DATA = {
       "artist": "Squarepusher",
       "raw_title": "Tommib / Squarepusher",
       "notes": "マルチ・プレーヤーで、コンポーザー、DJとしても活躍するイギリス人、トーマス・ジェンキンソンのソロ・ユニット、スクエアプッシャー。2001年リリースのアルバム『Go Plastic』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/tommib/281864519?i=281864776&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tommib",
+      "apple_music_artist_name": "Squarepusher",
+      "apple_music_album_name": "Go Plastic"
     },
     {
       "episode_date": "2015.11.08",
@@ -10485,11 +10485,11 @@ window.TWM_DATA = {
       "artist": "Telefon Tel Aviv",
       "raw_title": "Fahrenheit Fair Enough / Telefon Tel Aviv",
       "notes": "米シカゴをベースにしたテクノ系ユニット、テレフォン・テル・アヴィヴ。2001年にリリースされたファースト・アルバムのタイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fahrenheit-fair-enough/1163911790?i=1163911983&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fahrenheit Fair Enough",
+      "apple_music_artist_name": "Telefon Tel Aviv",
+      "apple_music_album_name": "Fahrenheit Fair Enough"
     },
     {
       "episode_date": "2015.11.08",
@@ -10500,11 +10500,11 @@ window.TWM_DATA = {
       "artist": "砂原良徳",
       "raw_title": "Lovebeat / 砂原良徳",
       "notes": "元・電気グルーヴのメンバーで、脱退後はソロで活躍しているテクノ系アーティスト、「まりん」こと砂原良徳が1998年にリリースしたアルバム『The Sound Of 70’s』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/lovebeat/1536360205?i=1536360209&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "LOVEBEAT",
+      "apple_music_artist_name": "砂原良徳",
+      "apple_music_album_name": "LOVEBEAT"
     },
     {
       "episode_date": "2015.11.08",
@@ -10515,11 +10515,11 @@ window.TWM_DATA = {
       "artist": "Simply Red",
       "raw_title": "Holding Back The Year / Simply Red",
       "notes": "ヴォーカリストのミック・ハックネルを中心としたイギリスのバンド、シンプリー・レッド。1985年リリースのデビュー・アルバム『Picture Book』に収録されている曲で、当時、大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/holding-back-the-years/294361410?i=294361564&uo=4",
+      "apple_music_confidence": 99,
+      "apple_music_track_name": "Holding Back the Years",
+      "apple_music_artist_name": "Simply Red",
+      "apple_music_album_name": "Picture Book (Expanded Version)"
     },
     {
       "episode_date": "2015.11.15",
@@ -10545,11 +10545,11 @@ window.TWM_DATA = {
       "artist": "The Pretenders",
       "raw_title": "Don't Get Me Wrong / The Pretenders",
       "notes": "女性ヴォーカリストのクリッシー・ハインドを中心としたイギリスのバンド、プリテンダーズの代表曲で、1986年のアルバム『Get Close』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-get-me-wrong/255897461?i=255900085&uo=4",
+      "apple_music_confidence": 92,
+      "apple_music_track_name": "Don't Get Me Wrong",
+      "apple_music_artist_name": "Pretenders",
+      "apple_music_album_name": "Get Close (Expanded & Remastered)"
     },
     {
       "episode_date": "2015.11.15",
@@ -10560,11 +10560,11 @@ window.TWM_DATA = {
       "artist": "Tom Petty & The Heartbreakers",
       "raw_title": "Two Gunslingers / Tom Petty & The Heartbreakers",
       "notes": "1970年代半ば、トム・ペティ＆ザ・ハートブレイカーズ名義でデビューを果たし、今も現役で活躍しているアメリカン・ロック・アーティスト、トム・ペティ。1991年にリリースされたアルバム『Into The Great Wide Open』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/two-gunslingers/1440821504?i=1440821921&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Two Gunslingers",
+      "apple_music_artist_name": "Tom Petty & The Heartbreakers",
+      "apple_music_album_name": "Into the Great Wide Open"
     },
     {
       "episode_date": "2015.11.15",
@@ -10575,11 +10575,11 @@ window.TWM_DATA = {
       "artist": "Snow Patrol",
       "raw_title": "Open Your Eyes / Snow Patrol",
       "notes": "スコットランドのグラスゴーを本拠とする5人組ロック・バンド、スノーパトロール。2006年にリリースされたアルバムのタイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/open-your-eyes/1440758222?i=1440759164&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Open Your Eyes",
+      "apple_music_artist_name": "Snow Patrol",
+      "apple_music_album_name": "Eyes Open (Bonus Track Version)"
     },
     {
       "episode_date": "2015.11.15",
@@ -10590,11 +10590,11 @@ window.TWM_DATA = {
       "artist": "Manic Street Preachers",
       "raw_title": "Motorcycle Emptiness / Manic Street Preachers",
       "notes": "英ウェールズ出身のロック・バンド、通称マニックスの記念すべきデビュー・アルバム『Generation Terrorists』に収録されている曲の別ヴァージョン。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/motorcycle-emptiness/257478944?i=257478979&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Motorcycle Emptiness",
+      "apple_music_artist_name": "Manic Street Preachers",
+      "apple_music_album_name": "Forever Delayed - Manic Street Preachers Greatest Hits"
     },
     {
       "episode_date": "2015.11.15",
@@ -10605,11 +10605,11 @@ window.TWM_DATA = {
       "artist": "Rhye",
       "raw_title": "The Fall / Rhye",
       "notes": "ヴァーカル担当のカナダ人と楽器担当のデンマーク人からなるデュオ、ライ。シャーデーを連想させる歌声ですが、男性です！2013年にリリースされたアルバム『Woman』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-fall/1440873634?i=1440873881&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Fall",
+      "apple_music_artist_name": "Rhye",
+      "apple_music_album_name": "Woman"
     },
     {
       "episode_date": "2015.11.15",
@@ -10620,11 +10620,11 @@ window.TWM_DATA = {
       "artist": "Bob Dylan & The Band",
       "raw_title": "Bessie Smith / Bob Dylan & The Band",
       "notes": "絶頂期にあったボブ・ディランが1966年のオートバイ事故により一線を退き、療養生活を送っていた時期に「ビッグ・ピンク」と呼ばれる「地下室」で行われたザ・バンドとのセッションの模様を収めたアルバム『The Basement』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/bessie-smith/309065794?i=309065804&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Bessie Smith",
+      "apple_music_artist_name": "Bob Dylan & The Band",
+      "apple_music_album_name": "The Basement Tapes"
     },
     {
       "episode_date": "2015.11.15",
@@ -10635,11 +10635,11 @@ window.TWM_DATA = {
       "artist": "U2",
       "raw_title": "Running To Stand Still / U2",
       "notes": "アイルランドのダブリンで結成されたU2が世界最高峰に上り詰めるきっかけとなった傑作『The Joshua Tree』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/running-to-stand-still/1443155637?i=1443155649&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Running to Stand Still",
+      "apple_music_artist_name": "U2",
+      "apple_music_album_name": "The Joshua Tree"
     },
     {
       "episode_date": "2015.11.15",
@@ -10665,11 +10665,11 @@ window.TWM_DATA = {
       "artist": "Hall & Oates",
       "raw_title": "Say It Isn't So / Hall & Oates",
       "notes": "ダリル・ホールとジョン・オーツのデュオ、ホール＆オーツ。結成は1969年で70年代から80年代にかけてヒット曲を連発！今年、来日公演も実現し訓市も堪能しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/say-it-isnt-so/273750173?i=273750253&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Say It Isn't So",
+      "apple_music_artist_name": "Daryl Hall & John Oates",
+      "apple_music_album_name": "The Very Best of Daryl Hall & John Oates"
     },
     {
       "episode_date": "2015.11.22",
@@ -10680,11 +10680,11 @@ window.TWM_DATA = {
       "artist": "Ben Watt",
       "raw_title": "North Marine Drive / Ben Watt",
       "notes": "女性ヴァーカリストで妻のトレイシー・ソーンとのユニット、エブリシング・バット・ザ・ガールでお馴染みのギタリスト、ベン・ワット。本作は1983年にリリースされたソロ・アルバムで、ドライブのBGMにもおススメです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/north-marine-drive/202854390?i=202854530&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "North Marine Drive",
+      "apple_music_artist_name": "Ben Watt",
+      "apple_music_album_name": "North Marine Drive"
     },
     {
       "episode_date": "2015.11.22",
@@ -10695,11 +10695,11 @@ window.TWM_DATA = {
       "artist": "Jason Mraz",
       "raw_title": "I'm Yours / Jason Mraz",
       "notes": "アメリカの男性シンガーソングライター、ジェイソン・ムラーズのアルバム『WE SING, WE DANCE, WE STEAL THINGS』からシングル・カットされ世界各国で大ヒットを記録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-yours/277635758?i=277635828&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm Yours",
+      "apple_music_artist_name": "Jason Mraz",
+      "apple_music_album_name": "We Sing. We Dance. We Steal Things"
     },
     {
       "episode_date": "2015.11.22",
@@ -10710,11 +10710,11 @@ window.TWM_DATA = {
       "artist": "Foo Fighters",
       "raw_title": "Everlong (Acoustic Version) / Foo Fighters",
       "notes": "ニルヴァーナの元ドラマー、デイヴ・グロールを中心としたアメリカのオルタナティヴ・ロック・バンド、フー・ファイターズ。1997年のあるバム『The Colour and The Shape』に収録されている曲のアコースティック・ヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/everlong-acoustic-version/334811953?i=334812065&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Everlong (Acoustic Version)",
+      "apple_music_artist_name": "Foo Fighters",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2015.11.22",
@@ -10725,11 +10725,11 @@ window.TWM_DATA = {
       "artist": "矢沢永吉",
       "raw_title": "時間よ止まれ / 矢沢永吉",
       "notes": "1978年にリリースされた4枚目のアルバム『ゴールドラッシュ』にされている矢沢永吉の代表曲のひとつ。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E6%99%82%E9%96%93%E3%82%88%E6%AD%A2%E3%81%BE%E3%82%8C-remastered-2022/1636233934?i=1636234075&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "時間よ止まれ (Remastered 2022)",
+      "apple_music_artist_name": "矢沢永吉",
+      "apple_music_album_name": "ゴールドラッシュ (50th Anniversary Remastered)"
     },
     {
       "episode_date": "2015.11.22",
@@ -10740,11 +10740,11 @@ window.TWM_DATA = {
       "artist": "Billy Joel",
       "raw_title": "She's Always A Woman / Billy Joel",
       "notes": "Mr.ニューヨークことビリー・ジョエルの大出世作、1977年にリリースされたアルバム『The Stranger』に収録されています。本作には「Just The Way You Are〜素顔のままで」など名曲が多数！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/shes-always-a-woman/158815463?i=158816065&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "She's Always a Woman",
+      "apple_music_artist_name": "Billy Joel",
+      "apple_music_album_name": "The Essential Billy Joel"
     },
     {
       "episode_date": "2015.11.22",
@@ -10755,11 +10755,11 @@ window.TWM_DATA = {
       "artist": "Q-Tip feat. Norah Jones",
       "raw_title": "Life Is Better / Q-Tip feat. Norah Jones",
       "notes": "1980年代後期から90年代にかけて大活躍したヒップ・ホップ・グループ、あ・トライブ・コールド・クエストのMCでプロデューサーのQ-Tipが2008年にリリースしたソロ・アルバム『The Renaissance』に収録。今年はATCQのファースト・アルバム登場から25周年にあたり盛り上がりを見せました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/life-is-better-feat-norah-jones/1445859394?i=1445859638&uo=4",
+      "apple_music_confidence": 88,
+      "apple_music_track_name": "Life Is Better (feat. Norah Jones)",
+      "apple_music_artist_name": "Q-Tip",
+      "apple_music_album_name": "The Renaissance (Deluxe)"
     },
     {
       "episode_date": "2015.11.22",
@@ -10770,11 +10770,11 @@ window.TWM_DATA = {
       "artist": "The Delfonics",
       "raw_title": "La La Means I Love You / The Delfonics",
       "notes": "数多くのカバー・ヴァージョンを生んだ名曲「La La (Means I Love You)」のオリジナルで、リリースは1968年です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/la-la-means-i-love-you/258594622?i=258594631&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "La-La Means I Love You",
+      "apple_music_artist_name": "The Delfonics",
+      "apple_music_album_name": "La-La Means I Love You: The Definitive Collection (Remastered)"
     },
     {
       "episode_date": "2015.11.22",
@@ -10785,11 +10785,11 @@ window.TWM_DATA = {
       "artist": "Shirly Bassey",
       "raw_title": "Never Never Never (Groove Armada Mix) / Shirly Bassey",
       "notes": "1950年代から活躍する英国ミュージック・シーンの超大御所女性ヴォーカリスト、シャーリー・バッシー。オリジナルは1973年リリースで、同じくUKのユニット、グルーヴ・アルマダがリミックス。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/never-never-never-groove-armada-mix/695780419?i=695780720&uo=4",
+      "apple_music_confidence": 83,
+      "apple_music_track_name": "Never Never Never (Groove Armada Mix)",
+      "apple_music_artist_name": "Shirley Bassey and Groove Armada",
+      "apple_music_album_name": "The Remix Album: Diamonds Are Forever"
     },
     {
       "episode_date": "2015.11.29",
@@ -10800,11 +10800,11 @@ window.TWM_DATA = {
       "artist": "Staycool",
       "raw_title": "Bitter / Staycool",
       "notes": "台湾・台北をベースにしたオルタナティヴ・ロック・バンド、ステイクールの日本デビュー・アルバム『Urban Canyon』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/bitter/1801109417?i=1801109609&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Bitter",
+      "apple_music_artist_name": "STAYCOOL",
+      "apple_music_album_name": "Urban Canyon"
     },
     {
       "episode_date": "2015.11.29",
@@ -10815,11 +10815,11 @@ window.TWM_DATA = {
       "artist": "Plain White T's",
       "raw_title": "Hey There Delilah / Plain White T's",
       "notes": "アメリカの5人組ポップ・ロック・バンド、プレイン・ホワイト・ティーズ。2007年にリリースされたこの曲は全米チャートでナンバーワンを記録！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hey-there-delilah/1445310750?i=1445310753&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Hey There Delilah",
+      "apple_music_artist_name": "Plain White T's",
+      "apple_music_album_name": "Hey There Delilah - EP"
     },
     {
       "episode_date": "2015.11.29",
@@ -10830,11 +10830,11 @@ window.TWM_DATA = {
       "artist": "Norah Jones",
       "raw_title": "What Am I To You / Norah Jones",
       "notes": "2002年リリースのデビュー・アルバム『Come Away With Me』が世界各国で大ヒットを記録し、グラミーの主要4部門独占を含む8部門を受賞したノラ・ジョーンズ。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/what-am-i-to-you/721258539?i=721258702&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "What Am I to You?",
+      "apple_music_artist_name": "Norah Jones",
+      "apple_music_album_name": "Feels Like Home"
     },
     {
       "episode_date": "2015.11.29",
@@ -10845,11 +10845,11 @@ window.TWM_DATA = {
       "artist": "Diana Ross",
       "raw_title": "If We Hold On Together / Diana Ross",
       "notes": "1960年代からミュージック・シーンの第一線で活躍しているアメリカR&Bのディーヴァ、ダイアナ・ロス。この曲は今井美樹と石田純一が主演した1990年のトレンディ・ドラマ『想い出にかわるまで』の主題歌として日本で大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/if-we-hold-on-together/1445748288?i=1445749623&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "If We Hold On Together",
+      "apple_music_artist_name": "Diana Ross",
+      "apple_music_album_name": "The Motown Anthology"
     },
     {
       "episode_date": "2015.11.29",
@@ -10860,11 +10860,11 @@ window.TWM_DATA = {
       "artist": "フジファブリック",
       "raw_title": "赤黄色の金木犀 / フジファブリック",
       "notes": "2000年結成のロック・バンド、フジファブリックがメジャー・デビューの年にあたる2004年にリリースした3枚目のシングル曲。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E8%B5%A4%E9%BB%84%E8%89%B2%E3%81%AE%E9%87%91%E6%9C%A8%E7%8A%80/1440725420?i=1440725599&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "赤黄色の金木犀",
+      "apple_music_artist_name": "フジファブリック",
+      "apple_music_album_name": "SINGLES 2004-2009"
     },
     {
       "episode_date": "2015.11.29",
@@ -10875,11 +10875,11 @@ window.TWM_DATA = {
       "artist": "Jody Watley",
       "raw_title": "Everything / Jody Watley",
       "notes": "元シャラマーのメンバーで、1987年以降はソロ・アーティストとして活躍している女性R&Bシンガー、ジョディ・ワトリー。1989年リリースの代表作『Larger Than Life』に収録されているミディアム・テンポのトラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/everything/1444090518?i=1444090534&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Everything",
+      "apple_music_artist_name": "Jody Watley",
+      "apple_music_album_name": "Larger Than Life"
     },
     {
       "episode_date": "2015.11.29",
@@ -10890,11 +10890,11 @@ window.TWM_DATA = {
       "artist": "Des'ree",
       "raw_title": "Feel So High / Des'ree",
       "notes": "英ロンドン出身の黒人女性シンガー、デズリーのデビュー曲で代表作。1992年のアルバム『Mind Adventures』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/feel-so-high/210500910?i=210500944&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Feel so High",
+      "apple_music_artist_name": "Des'ree",
+      "apple_music_album_name": "Muzik of the Mind and Spirit - A Concept Compilation"
     },
     {
       "episode_date": "2015.11.29",
@@ -10905,11 +10905,11 @@ window.TWM_DATA = {
       "artist": "Kama Aina",
       "raw_title": "Car Song / Kama Aina",
       "notes": "リトル・クリーチャーズでお馴染みの青柳拓次さんによる別プロジェクト、カマナイアのアルバム『club KAMA AINA』から。繊細！おススメ！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/car-song/202508631?i=202509087&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Car Song",
+      "apple_music_artist_name": "Kama Aina",
+      "apple_music_album_name": "Club Kama Aina"
     },
     {
       "episode_date": "2015.11.29",
@@ -10920,11 +10920,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "Hungry Heart (Live Version) /Bruce Springsteen",
       "notes": "Mr.アメリカ＝ブルース・スプリングスティーンの全盛期にあたる1975年から85年のライヴ・テイクを集めたアルバムから。気持ちがアガります！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hungry-heart-single-lp-version-1979/1438594981?i=1438594986&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Hungry Heart (Single LP Version - 1979)",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "The Ties That Bind: The River Collection"
     },
     {
       "episode_date": "2015.12.06",
@@ -10935,11 +10935,11 @@ window.TWM_DATA = {
       "artist": "Opus III",
       "raw_title": "It's A Fine Day / Opus III",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/its-a-fine-day/160782837?i=160782840&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "It's A Fine Day",
+      "apple_music_artist_name": "Opus III",
+      "apple_music_album_name": "Mind Fruit"
     },
     {
       "episode_date": "2015.12.06",
@@ -10950,11 +10950,11 @@ window.TWM_DATA = {
       "artist": "The Band",
       "raw_title": "The Weight / The Band",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-weight/1440841468?i=1440841469&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Weight",
+      "apple_music_artist_name": "The Band",
+      "apple_music_album_name": "Greatest Hits (Remastered)"
     },
     {
       "episode_date": "2015.12.06",
@@ -10965,11 +10965,11 @@ window.TWM_DATA = {
       "artist": "Mojave 3",
       "raw_title": "Got My Sunshine / Mojave 3",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/got-my-sunshine/1450131096?i=1450131219&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Got My Sunshine",
+      "apple_music_artist_name": "Mojave 3",
+      "apple_music_album_name": "Excuses for Travellers"
     },
     {
       "episode_date": "2015.12.06",
@@ -10980,11 +10980,11 @@ window.TWM_DATA = {
       "artist": "Ultra Orange & Emmanuelle",
       "raw_title": "Don't Kiss Me Goodbye / Ultra Orange & Emmanuelle",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dont-kiss-me-goodbye/217972598?i=217973961&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Don't Kiss Me Goodbye",
+      "apple_music_artist_name": "Ultra Orange & Emmanuelle",
+      "apple_music_album_name": "Ultra Orange & Emmanuelle"
     },
     {
       "episode_date": "2015.12.06",
@@ -11010,11 +11010,11 @@ window.TWM_DATA = {
       "artist": "Mazzy Star",
       "raw_title": "Five String Serenade / Mazzy Star",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/five-string-serenade/1440848808?i=1440848815&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Five String Serenade",
+      "apple_music_artist_name": "Mazzy Star",
+      "apple_music_album_name": "So Tonight That I Might See"
     },
     {
       "episode_date": "2015.12.06",
@@ -11025,11 +11025,11 @@ window.TWM_DATA = {
       "artist": "Eric Clapton",
       "raw_title": "Wonderful Tonight / Eric Clapton",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/wonderful-tonight/1440782705?i=1440783103&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Wonderful Tonight",
+      "apple_music_artist_name": "Eric Clapton",
+      "apple_music_album_name": "Slowhand (35th Anniversary Edition)"
     },
     {
       "episode_date": "2015.12.06",
@@ -11040,11 +11040,11 @@ window.TWM_DATA = {
       "artist": "Blind Willie Johnson",
       "raw_title": "Dark Was The Night - Cold Was The Ground / Blind Willie Johnson",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/dark-was-the-night-cold-was-the-ground/158578564?i=158578579&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Dark Was the Night, Cold Was the Ground",
+      "apple_music_artist_name": "Blind Willie Johnson",
+      "apple_music_album_name": "Dark Was the Night"
     },
     {
       "episode_date": "2015.12.06",
@@ -11055,11 +11055,11 @@ window.TWM_DATA = {
       "artist": "Pixies",
       "raw_title": "Where's My Mind? / Pixies",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/where-is-my-mind/1025318588?i=1025318629&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "Where Is My Mind?",
+      "apple_music_artist_name": "Pixies",
+      "apple_music_album_name": "Wave of Mutilation: Best of Pixies"
     },
     {
       "episode_date": "2015.12.13",
@@ -11085,11 +11085,11 @@ window.TWM_DATA = {
       "artist": "Lou Reed",
       "raw_title": "Perfect Day / Lou Reed",
       "notes": "当番組では常連アーティストのルー・リード。1972年のアルバム『Transformer』に収録されているこの曲はデヴィッド・ボウイがプロデュース。また、ダニー・ボイル監督の映画『Trainspotting』のサウンド・トラック・アルバムにも収められています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/perfect-day/463899258?i=463899650&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Perfect Day",
+      "apple_music_artist_name": "Lou Reed",
+      "apple_music_album_name": "The Essential Lou Reed (Remastered)"
     },
     {
       "episode_date": "2015.12.13",
@@ -11100,11 +11100,11 @@ window.TWM_DATA = {
       "artist": "Donna Summer",
       "raw_title": "In Another Place And Time / Donna Summer",
       "notes": "1970年代後半から80年代にかけて、「ディスコの歌姫」として一世を風靡したアメリカの黒人女性ヴォーカリスト、ドナ・サマー。この曲は1989年リリースのアルバム・タイトル・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/in-another-place-and-time/1587057878?i=1587057890&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "In Another Place and Time",
+      "apple_music_artist_name": "Donna Summer",
+      "apple_music_album_name": "Another Place & Time"
     },
     {
       "episode_date": "2015.12.13",
@@ -11115,11 +11115,11 @@ window.TWM_DATA = {
       "artist": "B.Fleischmann",
       "raw_title": "Pass By / B.Fleischmann",
       "notes": "ウィーン出身のオーストリア人アーティスト、Bernhard Fleischmann。ジャンルはエレクトロニック系で、この曲は旅のお供にも似合いそうなタイトルのアルバム『Welcome Tourist』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pass-by/39870344?i=39870320&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Pass By",
+      "apple_music_artist_name": "B. Fleischmann",
+      "apple_music_album_name": "Welcome Tourist"
     },
     {
       "episode_date": "2015.12.13",
@@ -11145,11 +11145,11 @@ window.TWM_DATA = {
       "artist": "Simply Red",
       "raw_title": "Stars / Simply Red",
       "notes": "青い目の白人ヴォーカリスト、ミック・ハックネルを中心としたイギリスのバンド、シンプリー・レッド。1991年にリリースされたアルバムのタイトル・トラックで、日本でも大ヒットを記録しました。なお、当時は日本人ドラマーの屋敷豪太がレギュラー・メンバーでした。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/stars/294350016?i=294350020&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Stars",
+      "apple_music_artist_name": "Simply Red",
+      "apple_music_album_name": "Stars (Deluxe Edition)"
     },
     {
       "episode_date": "2015.12.13",
@@ -11160,11 +11160,11 @@ window.TWM_DATA = {
       "artist": "Sixpence None The Richer",
       "raw_title": "Kiss Me / Sixpence None The Richer",
       "notes": "女性ヴォーカリストのリー・ナッシュがフロントに立つアメリカのバンド、シックスペンス・ノン・ザ・リッチャー。この曲は1999年にリリースされ、世界的に大ヒットを記録しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kiss-me/1163449953?i=1163449957&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kiss Me",
+      "apple_music_artist_name": "Sixpence None the Richer",
+      "apple_music_album_name": "Sixpence None the Richer"
     },
     {
       "episode_date": "2015.12.13",
@@ -11190,11 +11190,11 @@ window.TWM_DATA = {
       "artist": "The Nylons",
       "raw_title": "The Stars Are Ours / The Nylons",
       "notes": "カナダ出身の男性アカペラ・ヴォーカル・グループ、ザ・ナイロンズ。1984年リリースのアルバム『Seamless』に収録されているこの曲は、当時、タバコのテレビCM曲として日本で使われました。訓市は「星ソング」というとこの曲を思い出すとか。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-stars-are-ours/289458311?i=289458640&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Stars Are Ours",
+      "apple_music_artist_name": "The Nylons",
+      "apple_music_album_name": "The Best of the Nylons"
     },
     {
       "episode_date": "2015.12.20",
@@ -11205,11 +11205,11 @@ window.TWM_DATA = {
       "artist": "Sarah McLachlan",
       "raw_title": "Happy Xmas (War Is Over) / Sarah McLachlan",
       "notes": "カナダ出身の女性シンガーソングライター、サラ・マクラクランによるジョン・レノンのスタンダード曲カバー。2006年のアルバム『Wintersong』に収録されています。なお、2015年12月はジョン・レノンの没後30周年に当たる年でした。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/happy-xmas-war-is-over-feat-the-sarah-mclachlan-music/200880196?i=200880278&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Happy Xmas (War Is Over) [feat. The Sarah McLachlan Music Outreach Children's Choir and Youth Choir]",
+      "apple_music_artist_name": "Sarah McLachlan",
+      "apple_music_album_name": "Wintersong"
     },
     {
       "episode_date": "2015.12.20",
@@ -11220,11 +11220,11 @@ window.TWM_DATA = {
       "artist": "Sheena Easton",
       "raw_title": "It's Christmas All Over The World / Sheena Easton",
       "notes": "イギリス・スコットランドの女性ヴォーカリスト、シーナ・イーストン。1980年にアルバム『Modern Girl』でデビューし、90年代にかけてヒット曲を量産しました。この曲は1987年リリースのアルバム『No Sound But A Heart』にボーナス・トラックとして収録されています。因みに、『Santa Claus - THE MOVIE』という映画のサントラの為に制作されたヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/its-christmas-all-over-the-world/1680287610?i=1680288516&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "It's Christmas All Over The World",
+      "apple_music_artist_name": "Sheena Easton",
+      "apple_music_album_name": "The Definitive Singles 1980 - 1987"
     },
     {
       "episode_date": "2015.12.20",
@@ -11235,11 +11235,11 @@ window.TWM_DATA = {
       "artist": "Alexander O'Neal",
       "raw_title": "My Gift To You / Alexander O'Neal",
       "notes": "アメリカの黒人男性シンガーで、1985年にデビュー・アルバムをリリースし、それ以降、R&B、ブラック・コンテンポラリーのジャンルで大活躍したアレクサンダー・オニール。この曲はスタンダードとオリジナルのクリスマス・ソングを収めた1988年のアルバム『My Gift To You』のタイトル・トラックです。ジャム＆ルイスのプロデュースが秀逸！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/my-gift-to-you/1443733893?i=1443734190&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "My Gift to You",
+      "apple_music_artist_name": "Alexander O'Neal",
+      "apple_music_album_name": "My Gift to You"
     },
     {
       "episode_date": "2015.12.20",
@@ -11250,11 +11250,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Winter / The Rolling Stones",
       "notes": "ギタリストのミック・テイラー在籍時の1973年にリリースされたアルバム『Goats Head Soup』（邦題：『山羊の頭のスープ』）に収録されている曲で、ミック・ジャガー＆キース・リチャーズ作のストーンズ流のクリスマス・ソング（？）",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/winter/1440852826?i=1440853613&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Winter",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Goats Head Soup (2009 Remaster)"
     },
     {
       "episode_date": "2015.12.20",
@@ -11265,11 +11265,11 @@ window.TWM_DATA = {
       "artist": "浜田省吾",
       "raw_title": "Midnight Flight / 浜田省吾",
       "notes": "広島出身のシンガーソングライター、浜田省吾が1989年にリリースしたバラード集『Wasted Tears』に収録されている曲で、サブ・タイトルは「ひとりぼっちのクリスマス・イヴ」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/midnight-flight-%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E3%82%A4%E3%83%96/1537259403?i=1537259653&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Midnight Flight -ひとりぼっちのクリスマス・イブ-",
+      "apple_music_artist_name": "浜田省吾",
+      "apple_music_album_name": "CLUB SURF & SNOWBOUND"
     },
     {
       "episode_date": "2015.12.20",
@@ -11280,11 +11280,11 @@ window.TWM_DATA = {
       "artist": "Nat King Cole",
       "raw_title": "The Christmas Song / Nat King Cole",
       "notes": "ポピュラー・ミュージック・シーンに燦然と輝くクリスマス・ソングの超名曲！ジャズ・シンガーのメル・トーメとソング・ライターのボブ・ウェルズが共作した曲で、ジャズを中心に多くのアーティストが取り上げていますが、究極はナット・キング・コールのヴァージョンです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-christmas-song/716169111?i=716170526&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Christmas Song",
+      "apple_music_artist_name": "Nat \"King\" Cole",
+      "apple_music_album_name": "The Christmas Song"
     },
     {
       "episode_date": "2015.12.20",
@@ -11295,11 +11295,11 @@ window.TWM_DATA = {
       "artist": "Boom Bip",
       "raw_title": "Last Walk Around Mirror Lake (Boards Of Canada Remix) / Boom Bip",
       "notes": "アメリカのアーティスト、Byron Charles Hollonによるヒップ・ホップ系ソロ・ユニット、Boom Bip。2002年リリースのアルバム『Seed To Sun』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/last-walk-around-mirror-lake-boards-of-canada-remix/1829714305?i=1829714307&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Last Walk Around Mirror Lake (Boards of Canada Remix)",
+      "apple_music_artist_name": "Boom Bip",
+      "apple_music_album_name": "Corymb"
     },
     {
       "episode_date": "2015.12.20",
@@ -11310,11 +11310,11 @@ window.TWM_DATA = {
       "artist": "Pearl Jam",
       "raw_title": "Last Kiss / Pearl Jam",
       "notes": "オリジナルはアメリカの白人シンガーソングライター、ウェイン・コクランの曲で、パール・ジャムのカバー・ヴァージョンは1999年のチャリティ・アルバム『No Boundaries: A Benefit for the Kosovar Refugees』にも収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/last-kiss/1826659396?i=1826659460&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Last Kiss",
+      "apple_music_artist_name": "Pearl Jam",
+      "apple_music_album_name": "rearviewmirror (greatest hits 1991-2003)"
     },
     {
       "episode_date": "2015.12.20",
@@ -11325,11 +11325,11 @@ window.TWM_DATA = {
       "artist": "John Lennon",
       "raw_title": "Love / John Lennon",
       "notes": "今年、生誕75周年、没後35周年を迎えたジョン・レノン。ビートルズ解散後、初めてリリースされたソロ・アルバム『ジョンの魂』にされている曲で、プロデューサーでもあるフィル・スペクーターのピアノとジョンのヴォーカル＆ギターによるシンプルなアレンジの名曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love/1440858209?i=1440858399&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love",
+      "apple_music_artist_name": "John Lennon",
+      "apple_music_album_name": "John Lennon/Plastic Ono Band"
     },
     {
       "episode_date": "2015.12.27",
@@ -12360,11 +12360,11 @@ window.TWM_DATA = {
       "artist": "Cat Stevens",
       "raw_title": "The Wind / Cat Stevens",
       "notes": "英ロンドン出身のシンガー・ソングライター、キャット・スティーヴンスの楽曲。訓市が映画監督のウェス・アンダーソンと「船旅」の話をしていた時、「旅に１曲だけ持って行くとしたら何を選ぶ？」と聞いたところ、答えはこの曲だったということです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-wind/1586832328?i=1586832332&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Wind",
+      "apple_music_artist_name": "Cat Stevens",
+      "apple_music_album_name": "Teaser And The Firecat (2021 Remaster)"
     },
     {
       "episode_date": "2016.02.14",
@@ -12645,11 +12645,11 @@ window.TWM_DATA = {
       "artist": "The Doors",
       "raw_title": "Riders On The Storm / The Doors",
       "notes": "1960年代半ばから70年代にかけて活動したザ・ドアーズのラスト・アルバムとなった1971年の作品『L.A. Woman』のエンディングを飾る曲。バンドのヴォーカリストでカリスマ的人気を誇ったジム・モリソンはアルバム・リリース後、パリに移住し間もなく死去しました。彼の遺体もエディット・ピアフと同じ「ペール・ラシェーズ墓地」に埋葬されました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/riders-on-the-storm/640047463?i=640047752&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Riders On the Storm",
+      "apple_music_artist_name": "The Doors",
+      "apple_music_album_name": "The Very Best of The Doors"
     },
     {
       "episode_date": "2016.02.28",
@@ -12795,11 +12795,11 @@ window.TWM_DATA = {
       "artist": "Tom Waits",
       "raw_title": "If I Have To Go / Tom Waits",
       "notes": "1980年代から2000年代にかけてレコーディングされた新旧の曲を3枚のCDに収めた大作『Orphans: Brawlers, Bawlers & Bastards』から。リリースは2006年です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/if-i-have-to-go/1485076540?i=1485076723&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "If I Have to Go",
+      "apple_music_artist_name": "Tom Waits",
+      "apple_music_album_name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)"
     },
     {
       "episode_date": "2016.03.13",
@@ -14880,11 +14880,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "I'm On Fire / Bruce Springsteen",
       "notes": "ブルース・スプリングスティーンの代表作、1984年のアルバム『Born In The U.S.A.』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-on-fire/203708420?i=203708893&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm On Fire",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "Born In the U.S.A."
     },
     {
       "episode_date": "2016.06.26",
@@ -17220,11 +17220,11 @@ window.TWM_DATA = {
       "artist": "Mazzy Star",
       "raw_title": "Five String Serenade / Mazzy Star",
       "notes": "1989年に結成されたアメリカのロック・バンド、マジー・スターはヴォーカルとギターの２人編成。この曲はアルバム『So Tonight That I Might See』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/five-string-serenade/1440848808?i=1440848815&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Five String Serenade",
+      "apple_music_artist_name": "Mazzy Star",
+      "apple_music_album_name": "So Tonight That I Might See"
     },
     {
       "episode_date": "2016.10.23",
@@ -17385,11 +17385,11 @@ window.TWM_DATA = {
       "artist": "Phil Collins",
       "raw_title": "Against All Odds / Phil Collins",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/against-all-odds-take-a-look-at-me-now/1148642251?i=1148642452&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Against All Odds (Take a Look at Me Now)",
+      "apple_music_artist_name": "Phil Collins",
+      "apple_music_album_name": "The Singles (Remastered)"
     },
     {
       "episode_date": "2016.11.06",
@@ -18270,11 +18270,11 @@ window.TWM_DATA = {
       "artist": "Cat Stevens",
       "raw_title": "Morning Has Broken / Cat Stevens",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/morning-has-broken/1586832328?i=1586832570&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Morning Has Broken",
+      "apple_music_artist_name": "Cat Stevens",
+      "apple_music_album_name": "Teaser And The Firecat (2021 Remaster)"
     },
     {
       "episode_date": "2016.12.18",
@@ -18345,11 +18345,11 @@ window.TWM_DATA = {
       "artist": "Bobby Darin",
       "raw_title": "Beyond The Sea / Bobby Darin",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/beyond-the-sea/30393091?i=30393096&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Beyond the Sea",
+      "apple_music_artist_name": "Bobby Darin",
+      "apple_music_album_name": "That's All"
     },
     {
       "episode_date": "2016.12.25",
@@ -18480,11 +18480,11 @@ window.TWM_DATA = {
       "artist": "Everything But The Girl",
       "raw_title": "Driving (Acoustic Mix) / Everything But The Girl",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/driving-acoustic/1629192845?i=1629193160&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Driving (Acoustic)",
+      "apple_music_artist_name": "Everything But the Girl",
+      "apple_music_album_name": "Adapt or Die: Ten Years of Remixes"
     },
     {
       "episode_date": "2017.01.01",
@@ -18495,11 +18495,11 @@ window.TWM_DATA = {
       "artist": "Fleetwood Mac",
       "raw_title": "Albatross / Fleetwood Mac",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/albatross/1534614559?i=1534615510&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Albatross",
+      "apple_music_artist_name": "Fleetwood Mac",
+      "apple_music_album_name": "The Blue Horizon Story (1965-1970)"
     },
     {
       "episode_date": "2017.01.01",
@@ -18570,11 +18570,11 @@ window.TWM_DATA = {
       "artist": "John Lennon & Yoko Ono",
       "raw_title": "Happy Xmas (War Is Over) / John Lennon & Yoko Ono",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/happy-xmas-war-is-over-the-ultimate-mix/1527740882?i=1527742022&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Happy Xmas (War Is Over) [The Ultimate Mix]",
+      "apple_music_artist_name": "John Lennon & Yoko Ono",
+      "apple_music_album_name": "Gimme Some Truth: The Ultimate Mixes (Deluxe Edition)"
     },
     {
       "episode_date": "2017.01.08",
@@ -18675,11 +18675,11 @@ window.TWM_DATA = {
       "artist": "Guns N' Roses",
       "raw_title": "Patience / Guns N' Roses",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/patience/1440905381?i=1440905397&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Patience",
+      "apple_music_artist_name": "Guns N' Roses",
+      "apple_music_album_name": "G N' R Lies"
     },
     {
       "episode_date": "2017.01.08",
@@ -18840,11 +18840,11 @@ window.TWM_DATA = {
       "artist": "George Michael",
       "raw_title": "Kissing A Fool / George Michael",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kissing-a-fool/395918916?i=395918966&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kissing a Fool",
+      "apple_music_artist_name": "George Michael",
+      "apple_music_album_name": "Faith (2010 Remastered)"
     },
     {
       "episode_date": "2017.01.22",
@@ -23385,11 +23385,11 @@ window.TWM_DATA = {
       "artist": "The Lovin' Spoonful",
       "raw_title": "Daydream / The Lovin' Spoonful",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/daydream/253838626?i=253838638&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Daydream",
+      "apple_music_artist_name": "The Lovin' Spoonful",
+      "apple_music_album_name": "Daydream"
     },
     {
       "episode_date": "2017.09.10",
@@ -24465,11 +24465,11 @@ window.TWM_DATA = {
       "artist": "Tom Petty & The Heartbreakers",
       "raw_title": "Two Gunslingers / Tom Petty & The Heartbreakers",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/two-gunslingers/1440821504?i=1440821921&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Two Gunslingers",
+      "apple_music_artist_name": "Tom Petty & The Heartbreakers",
+      "apple_music_album_name": "Into the Great Wide Open"
     },
     {
       "episode_date": "2017.11.05",
@@ -24495,11 +24495,11 @@ window.TWM_DATA = {
       "artist": "Tom Petty",
       "raw_title": "Free Fallin' / Tom Petty",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/free-fallin/1469579555?i=1469579716&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Free Fallin'",
+      "apple_music_artist_name": "Tom Petty",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2017.11.05",
@@ -24675,11 +24675,11 @@ window.TWM_DATA = {
       "artist": "Plain White T's",
       "raw_title": "Hey There Delilah / Plain White T's",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hey-there-delilah/1445310750?i=1445310753&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Hey There Delilah",
+      "apple_music_artist_name": "Plain White T's",
+      "apple_music_album_name": "Hey There Delilah - EP"
     },
     {
       "episode_date": "2017.11.19",
@@ -25380,11 +25380,11 @@ window.TWM_DATA = {
       "artist": "Jevetta Steele",
       "raw_title": "Calling You / Jevetta Steele",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/calling-you/1780273314?i=1780273552&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Calling You",
+      "apple_music_artist_name": "Jevetta Steele",
+      "apple_music_album_name": "Here It Is"
     },
     {
       "episode_date": "2017.12.24",
@@ -25470,11 +25470,11 @@ window.TWM_DATA = {
       "artist": "Kings Of Convenience",
       "raw_title": "The Build Up / Kings Of Convenience",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/the-build-up/1663661508?i=1663661810&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "The Build Up",
+      "apple_music_artist_name": "Feist & Kings of Convenience",
+      "apple_music_album_name": "Riot On an Empty Street"
     },
     {
       "episode_date": "2017.12.31",
@@ -25485,11 +25485,11 @@ window.TWM_DATA = {
       "artist": "Amy Winehouse",
       "raw_title": "Love Is A Losing Game / Amy Winehouse",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-is-a-losing-game/1422677780?i=1422677786&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love Is a Losing Game",
+      "apple_music_artist_name": "Amy Winehouse",
+      "apple_music_album_name": "Back to Black"
     },
     {
       "episode_date": "2017.12.31",
@@ -25515,11 +25515,11 @@ window.TWM_DATA = {
       "artist": "Finley Quaye",
       "raw_title": "Even After All / Finley Quaye",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/even-after-all/1540699124?i=1540699128&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Even After All",
+      "apple_music_artist_name": "Finley Quaye",
+      "apple_music_album_name": "Maverick A Strike"
     },
     {
       "episode_date": "2017.12.31",
@@ -25620,11 +25620,11 @@ window.TWM_DATA = {
       "artist": "Oasis",
       "raw_title": "Champagne Supernova / Oasis",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/champagne-supernova/1517447039?i=1517447869&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Champagne Supernova",
+      "apple_music_artist_name": "Oasis",
+      "apple_music_album_name": "(What's the Story) Morning Glory?"
     },
     {
       "episode_date": "2018.01.07",
@@ -25680,11 +25680,11 @@ window.TWM_DATA = {
       "artist": "Fleetwood Mac",
       "raw_title": "Albatross / Fleetwood Mac",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/albatross/1534614559?i=1534615510&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Albatross",
+      "apple_music_artist_name": "Fleetwood Mac",
+      "apple_music_album_name": "The Blue Horizon Story (1965-1970)"
     },
     {
       "episode_date": "2018.01.07",
@@ -25935,11 +25935,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "Bobby Jean / Bruce Springsteen",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/bobby-jean/203708420?i=203709090&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Bobby Jean",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "Born In the U.S.A."
     },
     {
       "episode_date": "2018.01.21",
@@ -25965,11 +25965,11 @@ window.TWM_DATA = {
       "artist": "Sade",
       "raw_title": "Kiss Of Life / Sade",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kiss-of-life/158796559?i=158796603&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kiss of Life",
+      "apple_music_artist_name": "Sade",
+      "apple_music_album_name": "Love Deluxe"
     },
     {
       "episode_date": "2018.01.21",
@@ -26235,11 +26235,11 @@ window.TWM_DATA = {
       "artist": "Stevie Wonder",
       "raw_title": "Love's In Need Of Love Today / Stevie Wonder",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/loves-in-need-of-love-today/1440788438?i=1440788532&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love's In Need of Love Today",
+      "apple_music_artist_name": "Stevie Wonder",
+      "apple_music_album_name": "Songs in the Key of Life"
     },
     {
       "episode_date": "2018.02.04",
@@ -27270,11 +27270,11 @@ window.TWM_DATA = {
       "artist": "Suzanne Vega",
       "raw_title": "Tom's Diner / Suzanne Vega",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/toms-diner/276688313?i=276688334&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tom's Diner",
+      "apple_music_artist_name": "Suzanne Vega",
+      "apple_music_album_name": "Fast Folk Musical Magazine (Vol. 1, No. 1)"
     },
     {
       "episode_date": "2018.04.01",
@@ -30855,11 +30855,11 @@ window.TWM_DATA = {
       "artist": "Swing Out Sister",
       "raw_title": "Now You're Not Here / Swing Out Sister",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/now-youre-not-here/1443873515?i=1443873754&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Now You're Not Here",
+      "apple_music_artist_name": "Swing Out Sister",
+      "apple_music_album_name": "Shapes and Patterns"
     },
     {
       "episode_date": "2018.09.30",
@@ -30870,11 +30870,11 @@ window.TWM_DATA = {
       "artist": "Tracy Chapman",
       "raw_title": "Fast Car / Tracy Chapman",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/fast-car/79565550?i=79565507&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Fast Car",
+      "apple_music_artist_name": "Tracy Chapman",
+      "apple_music_album_name": "Tracy Chapman"
     },
     {
       "episode_date": "2018.09.30",
@@ -30900,11 +30900,11 @@ window.TWM_DATA = {
       "artist": "Yo La Tengo",
       "raw_title": "Blue Line Swinger / Yo La Tengo",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/blue-line-swinger/1589273378?i=1589274748&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Blue Line Swinger",
+      "apple_music_artist_name": "Yo La Tengo",
+      "apple_music_album_name": "Prisoners of Love: A Smattering of Scintillating Senescent Songs 1985-2003 PLUS A Smattering of Outtakes and Rarities 1986-2002"
     },
     {
       "episode_date": "2018.10.07",
@@ -31590,11 +31590,11 @@ window.TWM_DATA = {
       "artist": "Talking Heads",
       "raw_title": "Road To Nowhere / Talking Heads",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/road-to-nowhere/302136342?i=302136359&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Road to Nowhere",
+      "apple_music_artist_name": "Talking Heads",
+      "apple_music_album_name": "Little Creatures"
     },
     {
       "episode_date": "2018.11.11",
@@ -32835,11 +32835,11 @@ window.TWM_DATA = {
       "artist": "Steely Dan",
       "raw_title": "Babylon Sisters / Steely Dan",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/babylon-sisters/1715946508?i=1715946511&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Babylon Sisters",
+      "apple_music_artist_name": "Steely Dan",
+      "apple_music_album_name": "Gaucho"
     },
     {
       "episode_date": "2019.01.13",
@@ -34605,11 +34605,11 @@ window.TWM_DATA = {
       "artist": "Jason Mraz",
       "raw_title": "I'm Yours / Jason Mraz",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/im-yours/277635758?i=277635828&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I'm Yours",
+      "apple_music_artist_name": "Jason Mraz",
+      "apple_music_album_name": "We Sing. We Dance. We Steal Things"
     },
     {
       "episode_date": "2019.04.14",
@@ -36660,11 +36660,11 @@ window.TWM_DATA = {
       "artist": "The Rolling Stones",
       "raw_title": "Let It Loose / The Rolling Stones",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/let-it-loose/1440872228?i=1440872611&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Let It Loose",
+      "apple_music_artist_name": "The Rolling Stones",
+      "apple_music_album_name": "Exile On Main Street (2010 Remaster)"
     },
     {
       "episode_date": "2019.07.28",
@@ -38835,11 +38835,11 @@ window.TWM_DATA = {
       "artist": "Taxi",
       "raw_title": "Campari Soda / Taxi",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/campari-soda/1648668180?i=1648668186&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Campari Soda",
+      "apple_music_artist_name": "Taxi",
+      "apple_music_album_name": "Campari Soda - Single"
     },
     {
       "episode_date": "2019.11.24",
@@ -42735,11 +42735,11 @@ window.TWM_DATA = {
       "artist": "Bruce Springsteen",
       "raw_title": "Hungry Heart (Live version) / Bruce Springsteen",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hungry-heart-single-lp-version-1979/1438594981?i=1438594986&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Hungry Heart (Single LP Version - 1979)",
+      "apple_music_artist_name": "Bruce Springsteen",
+      "apple_music_album_name": "The Ties That Bind: The River Collection"
     },
     {
       "episode_date": "2020.06.14",
@@ -48840,11 +48840,11 @@ window.TWM_DATA = {
       "artist": "Tom Petty",
       "raw_title": "Free Fallin' / Tom Petty",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/free-fallin/1469579555?i=1469579716&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Free Fallin'",
+      "apple_music_artist_name": "Tom Petty",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2021.04.25",
@@ -50250,11 +50250,11 @@ window.TWM_DATA = {
       "artist": "Pink Floyd",
       "raw_title": "Wish You Were Here / Pink Floyd",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Wish You Were Here",
+      "apple_music_artist_name": "Pink Floyd",
+      "apple_music_album_name": "Wish You Were Here"
     },
     {
       "episode_date": "2021.07.11",
@@ -84839,7 +84839,7 @@ window.TWM_DATA = {
       "JP"
     ],
     "minimum_confidence": 78,
-    "matched_track_count": 95,
-    "generated_at": "2026-06-16T04:43:42Z"
+    "matched_track_count": 575,
+    "generated_at": "2026-06-16T06:26:46Z"
   }
 };
