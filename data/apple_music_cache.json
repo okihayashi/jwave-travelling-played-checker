@@ -9882,16 +9882,40 @@
     "is_streamable": true
   },
   "life::des ree": {
-    "status": "error",
-    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    "status": "matched",
+    "confidence": 100,
+    "country": "US",
+    "apple_music_url": "https://music.apple.com/us/album/life/211424158?i=211424460&uo=4",
+    "apple_music_track_name": "Life",
+    "apple_music_artist_name": "Des'ree",
+    "apple_music_album_name": "Supernatural",
+    "apple_music_track_id": 211424460,
+    "apple_music_artist_id": 485319,
+    "is_streamable": true
   },
   "take it easy my brother charlie::astrud gilberto": {
-    "status": "error",
-    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    "status": "matched",
+    "confidence": 100,
+    "country": "US",
+    "apple_music_url": "https://music.apple.com/us/album/take-it-easy-my-brother-charlie/1466885041?i=1466885875&uo=4",
+    "apple_music_track_name": "Take It Easy My Brother Charlie",
+    "apple_music_artist_name": "Astrud Gilberto",
+    "apple_music_album_name": "Best of Perception & Today Records Compiled by DJ Spinna and Bbe Soundsystem",
+    "apple_music_track_id": 1466885875,
+    "apple_music_artist_id": 117128,
+    "is_streamable": true
   },
   "rollercoaster::everything but the girl": {
-    "status": "error",
-    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    "status": "matched",
+    "confidence": 100,
+    "country": "US",
+    "apple_music_url": "https://music.apple.com/us/album/rollercoaster/1629189383?i=1629189384&uo=4",
+    "apple_music_track_name": "Rollercoaster",
+    "apple_music_artist_name": "Everything But the Girl",
+    "apple_music_album_name": "Amplified Heart",
+    "apple_music_track_id": 1629189384,
+    "apple_music_artist_id": 164449,
+    "is_streamable": true
   },
   "i m a firefighter::cigarettes after sex": {
     "status": "error",

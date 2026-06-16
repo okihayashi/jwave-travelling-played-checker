@@ -14700,11 +14700,11 @@
       "artist": "Des'ree",
       "raw_title": "Life / Des'ree",
       "notes": "ロンドン出身の女性シンガー・ソングライター、デズリーが1998年にリリースした曲で、日本ではTVドラマで使われたこともあり大ヒットを記録し、当時、FM局でもヘヴィー・エアプレイされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/life/211424158?i=211424460&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Life",
+      "apple_music_artist_name": "Des'ree",
+      "apple_music_album_name": "Supernatural"
     },
     {
       "episode_date": "2016.06.19",
@@ -14715,11 +14715,11 @@
       "artist": "Astrud Gilberto",
       "raw_title": "Take It Easy My Brother Charlie / Astrud Gilberto",
       "notes": "ブラジルのバイーア州生まれでリオ・デジャネイロ育ちの女性ボサノヴァ・シンガー、アストラッド・ジルベルト。1972年リリースのアルバム『Astrud Gilberto Now』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/take-it-easy-my-brother-charlie/1466885041?i=1466885875&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Take It Easy My Brother Charlie",
+      "apple_music_artist_name": "Astrud Gilberto",
+      "apple_music_album_name": "Best of Perception & Today Records Compiled by DJ Spinna and Bbe Soundsystem"
     },
     {
       "episode_date": "2016.06.19",
@@ -14730,11 +14730,11 @@
       "artist": "Everything But The Girl",
       "raw_title": "Rollercoaster / Everything But The Girl",
       "notes": "1980年代から90年代にかけて日本でも人気を誇ったイギリスの男女二人組、エヴリシング・バット・ザ・ガールが1994年にリリースしたアルバム『Amplified Heart』に収録。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/rollercoaster/1629189383?i=1629189384&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Rollercoaster",
+      "apple_music_artist_name": "Everything But the Girl",
+      "apple_music_album_name": "Amplified Heart"
     },
     {
       "episode_date": "2016.06.19",
@@ -84839,7 +84839,7 @@
       "JP"
     ],
     "minimum_confidence": 78,
-    "matched_track_count": 777,
-    "generated_at": "2026-06-16T16:48:10Z"
+    "matched_track_count": 780,
+    "generated_at": "2026-06-16T16:55:10Z"
   }
 }
