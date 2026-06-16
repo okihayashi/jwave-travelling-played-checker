@@ -17,13 +17,25 @@ function normalize(value) {
     .trim();
 }
 
+function withoutLeadingArticle(value) {
+  return value.replace(/^(the|a|an)\s+/i, "");
+}
+
+function searchVariants(value) {
+  const normalized = normalize(value);
+  const articleless = withoutLeadingArticle(normalized);
+  return [...new Set([normalized, articleless].filter(Boolean))];
+}
+
 function searchText(track) {
   return normalize(`${track.title} ${track.artist} ${track.raw_title}`);
 }
 
 function exactSongMatch(track, query) {
-  return collator.compare(normalize(track.title), normalize(query)) === 0 ||
-    collator.compare(normalize(track.raw_title), normalize(query)) === 0;
+  const queryVariants = searchVariants(query);
+  return [...searchVariants(track.title), ...searchVariants(track.raw_title)].some((value) =>
+    queryVariants.some((variant) => collator.compare(value, variant) === 0)
+  );
 }
 
 function byDateThenTrack(a, b) {
@@ -140,19 +152,28 @@ function formatAppleTitle(track) {
 
 function scoreTrack(track, query) {
   const normalizedQuery = normalize(query);
+  const queryVariants = searchVariants(query);
   const text = searchText(track);
-  const title = normalize(track.title);
-  const artist = normalize(track.artist);
-  const raw = normalize(track.raw_title);
-  const words = normalizedQuery.split(/\s+/).filter(Boolean);
+  const textVariants = searchVariants(text);
+  const titleVariants = searchVariants(track.title);
+  const artistVariants = searchVariants(track.artist);
+  const rawVariants = searchVariants(track.raw_title);
+
+  const sameAsQuery = (values) => values.some((value) => queryVariants.includes(value));
+  const includesQuery = (values) =>
+    values.some((value) => queryVariants.some((variant) => value.includes(variant)));
+  const hasAllWords = queryVariants.some((variant) => {
+    const words = variant.split(/\s+/).filter(Boolean);
+    return words.length > 0 && words.every((word) => textVariants.some((value) => value.includes(word)));
+  });
 
   if (!normalizedQuery) return 0;
-  if (title === normalizedQuery || raw === normalizedQuery) return 100;
-  if (artist === normalizedQuery) return 90;
-  if (title.includes(normalizedQuery)) return 80;
-  if (artist.includes(normalizedQuery)) return 70;
-  if (raw.includes(normalizedQuery)) return 65;
-  if (words.every((word) => text.includes(word))) return 45;
+  if (sameAsQuery(titleVariants) || sameAsQuery(rawVariants)) return 100;
+  if (sameAsQuery(artistVariants)) return 90;
+  if (includesQuery(titleVariants)) return 80;
+  if (includesQuery(artistVariants)) return 70;
+  if (includesQuery(rawVariants)) return 65;
+  if (hasAllWords) return 45;
   return 0;
 }
 
