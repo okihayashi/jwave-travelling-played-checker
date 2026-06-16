@@ -11340,11 +11340,11 @@ window.TWM_DATA = {
       "artist": "The Beatles",
       "raw_title": "Hello Goodbye / The Beatles",
       "notes": "1967年にシングルでリリースされ、ザ・ビートルズ自身が製作した映画『Magical Mystery Tour』のサウンド・トラック・アルバムにも収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/hello-goodbye/1441163490?i=1441163755&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Hello, Goodbye",
+      "apple_music_artist_name": "The Beatles",
+      "apple_music_album_name": "Magical Mystery Tour"
     },
     {
       "episode_date": "2015.12.27",
@@ -11355,11 +11355,11 @@ window.TWM_DATA = {
       "artist": "Duncan Sheik",
       "raw_title": "She Runs Away / Duncan Sheik",
       "notes": "米ニュージャージー出身のシンガーソングライター、ダンカン・シェイク。1996年にリリースされたデビュー・アルバムに収録されている曲で、翌年にはシングル・カットされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/she-runs-away/216654760?i=216654761&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "She Runs Away",
+      "apple_music_artist_name": "Duncan Sheik",
+      "apple_music_album_name": "Duncan Sheik"
     },
     {
       "episode_date": "2015.12.27",
@@ -11370,11 +11370,11 @@ window.TWM_DATA = {
       "artist": "Seal",
       "raw_title": "Kiss From A Rose / Seal",
       "notes": "ロンドン出身の黒人アーティスト、シール。この曲は1994年にリリースされたアルバム『II』に収録されているもので、グラミー賞のでは「Record Of The Year」「Song Of The Year」なども4部門で受賞しています。また、映画『Batman Forever』のサントラにも収められています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/kiss-from-a-rose/30475342?i=30475379&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Kiss from a Rose",
+      "apple_music_artist_name": "Seal",
+      "apple_music_album_name": "Seal: Best 1991-2004 (Deluxe Version)"
     },
     {
       "episode_date": "2015.12.27",
@@ -11400,11 +11400,11 @@ window.TWM_DATA = {
       "artist": "ユニコーン",
       "raw_title": "雪が降る町 / ユニコーン",
       "notes": "今年、生誕50周年ライヴを開催した奥田民生を中心としたバンド、ユニコーン。1992年12月にシングルでリリースされたこの曲は、日本の「年末ソング」のスタンダードなっています。なお、ユニコーンは翌93年の秋に解散しました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E9%9B%AA%E3%81%8C%E9%99%8D%E3%82%8B%E7%94%BA/1536502778?i=1536502781&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "雪が降る町",
+      "apple_music_artist_name": "ユニコーン",
+      "apple_music_album_name": "アルバム未収録曲集 -UC30 若返る勤労 Remastered-"
     },
     {
       "episode_date": "2015.12.27",
@@ -11415,11 +11415,11 @@ window.TWM_DATA = {
       "artist": "Daft Punk",
       "raw_title": "Something About Us / Daft Punk",
       "notes": "ファレル・ウィリアムスとのコラボレーションによる作品で2013年にリリースした曲が全世界で大ヒットを記録したフランスのハウス、エレクトロ系デュオ、ダフト・パンク。この曲は2001年リリースのセカンド・アルバム『Discovery』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/something-about-us/697194953?i=697195941&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Something About Us",
+      "apple_music_artist_name": "Daft Punk",
+      "apple_music_album_name": "Discovery"
     },
     {
       "episode_date": "2015.12.27",
@@ -11430,11 +11430,11 @@ window.TWM_DATA = {
       "artist": "Nicknack",
       "raw_title": "Mustard Seed / Nicknack",
       "notes": "米テキサス出身のヒップ・ホップ系トラック・メーカー、ニックナックによるインスト・トラックです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/mustard-seed/6235528?i=6235502&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Mustard Seed",
+      "apple_music_artist_name": "NickNack",
+      "apple_music_album_name": "Improving Silence"
     },
     {
       "episode_date": "2015.12.27",
@@ -11460,11 +11460,11 @@ window.TWM_DATA = {
       "artist": "Miles Davis",
       "raw_title": "It Never Entered My Mind / Miles Davis",
       "notes": "米ポピュラー・ミュージックを代表する名コンビ、ロジャース＆ハートがミュージカルのために書き下ろした曲で、多くのジャズ・ミュージシャンが取り上げているスタンダード。マイルス・デイヴィスも幾つかのセッションでレコーディングしていますが、番組では1954年に録音されたワンホーン・カルテットによるヴァージョンをセレクトしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/it-never-entered-my-mind/726128444?i=726128593&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "It Never Entered My Mind",
+      "apple_music_artist_name": "Miles Davis",
+      "apple_music_album_name": "The Best of Miles Davis: The Capitol and Blue Note Years"
     },
     {
       "episode_date": "2016.01.03",
@@ -11475,11 +11475,11 @@ window.TWM_DATA = {
       "artist": "The Love Unlimited Orchestra",
       "raw_title": "Welcome Aboard / The Love Unlimited Orchestra",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/welcome-aboard/1618186298?i=1618186303&uo=4",
+      "apple_music_confidence": 91,
+      "apple_music_track_name": "Welcome Aboard",
+      "apple_music_artist_name": "The Lounge Unlimited Orchestra",
+      "apple_music_album_name": "Passion Fruit (The Lounge Voices Mood)"
     },
     {
       "episode_date": "2016.01.03",
@@ -11490,11 +11490,11 @@ window.TWM_DATA = {
       "artist": "TOTO",
       "raw_title": "Africa / TOTO",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/africa/185716551?i=185717604&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Africa",
+      "apple_music_artist_name": "Toto",
+      "apple_music_album_name": "Toto IV"
     },
     {
       "episode_date": "2016.01.03",
@@ -11505,11 +11505,11 @@ window.TWM_DATA = {
       "artist": "John Waite",
       "raw_title": "Missing You / John Waite",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/missing-you/716357529?i=716357681&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Missing You",
+      "apple_music_artist_name": "John Waite",
+      "apple_music_album_name": "No Brakes"
     },
     {
       "episode_date": "2016.01.03",
@@ -11520,11 +11520,11 @@ window.TWM_DATA = {
       "artist": "Foreigner",
       "raw_title": "I Want To Know What Love Is / Foreigner",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-want-to-know-what-love-is/284531685?i=284531789&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Want to Know What Love Is",
+      "apple_music_artist_name": "Foreigner",
+      "apple_music_album_name": "No End In Sight: The Very Best of Foreigner (Remastered)"
     },
     {
       "episode_date": "2016.01.03",
@@ -11550,11 +11550,11 @@ window.TWM_DATA = {
       "artist": "John Waite",
       "raw_title": "Walk On The Wild Side / John Waite",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/walk-on-the-wild-side/835305203?i=835305329&uo=4",
+      "apple_music_confidence": 84,
+      "apple_music_track_name": "Walk On the Wild Side",
+      "apple_music_artist_name": "John Maier",
+      "apple_music_album_name": "Acoustic Unplugged - EP"
     },
     {
       "episode_date": "2016.01.03",
@@ -11565,11 +11565,11 @@ window.TWM_DATA = {
       "artist": "Al Stewart",
       "raw_title": "Year Of The Cat / Al Stewart",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/year-of-the-cat/160422866?i=160423223&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Year of the Cat",
+      "apple_music_artist_name": "Al Stewart",
+      "apple_music_album_name": "Year of the Cat"
     },
     {
       "episode_date": "2016.01.03",
@@ -11580,11 +11580,11 @@ window.TWM_DATA = {
       "artist": "Kurt Cobain",
       "raw_title": "And I Love Her / Kurt Cobain",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/and-i-love-her/1443299811?i=1443301113&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "And I Love Her",
+      "apple_music_artist_name": "Kurt Cobain",
+      "apple_music_album_name": "Montage of Heck: The Home Recordings (Deluxe Soundtrack)"
     },
     {
       "episode_date": "2016.01.03",
@@ -11595,11 +11595,11 @@ window.TWM_DATA = {
       "artist": "Marvin Gaye",
       "raw_title": "What's Going On / Marvin Gaye",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/whats-going-on/1538081586?i=1538081594&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "What's Going On",
+      "apple_music_artist_name": "Marvin Gaye",
+      "apple_music_album_name": "What's Going On"
     },
     {
       "episode_date": "2016.01.10",
@@ -11610,11 +11610,11 @@ window.TWM_DATA = {
       "artist": "Poolside",
       "raw_title": "Harvest Moon / Poolside",
       "notes": "米ロサンゼルスをベースにした男性二人組プールサイド。結成は2010年で、2012年リリースのアルバム『Pacific Standard Time』に収録されているこの曲はニール・ヤングの名曲カバーです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/harvest-moon/1216384091?i=1216384317&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Harvest Moon",
+      "apple_music_artist_name": "Poolside",
+      "apple_music_album_name": "Pacific Standard Time"
     },
     {
       "episode_date": "2016.01.10",
@@ -11625,11 +11625,11 @@ window.TWM_DATA = {
       "artist": "Simon & Garfunkel",
       "raw_title": "Bridge Water Troubled Water / Simon & Garfunkel",
       "notes": "ポール・サイモンとアート・ガーファンクルの二人からなるデュオ、サイモン＆ガーファンクル。この曲は1970年にリリースされた5枚目のアルバムのタイトル・トラックで、本作はグラミー賞の「Album of The Year」に輝いています。歴史的名盤！",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/bridge-over-troubled-water/324127933?i=324127934&uo=4",
+      "apple_music_confidence": 81,
+      "apple_music_track_name": "Bridge Over Troubled Water",
+      "apple_music_artist_name": "Simon & Garfunkel",
+      "apple_music_album_name": "Bridge Over Troubled Water"
     },
     {
       "episode_date": "2016.01.10",
@@ -11640,11 +11640,11 @@ window.TWM_DATA = {
       "artist": "Boris Gardiner",
       "raw_title": "I Want To Wake Up With You / Boris Gardiner",
       "notes": "ジャマイカ・キングストン出身の男性シンガーソングライター、ボリス・ガーディナー。1986年にリリースされたこの曲は当時、UKチャートでナンバーワンを記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-want-to-wake-up-with-you/1826152595?i=1826152596&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Want To Wake Up With You",
+      "apple_music_artist_name": "Boris Gardiner",
+      "apple_music_album_name": "This Is Boris Gardiner"
     },
     {
       "episode_date": "2016.01.10",
@@ -11655,11 +11655,11 @@ window.TWM_DATA = {
       "artist": "Jack Johnson",
       "raw_title": "We're Going To Be Friends / Jack Johnson",
       "notes": "2006年公開の映画『Curious George〜あさるのジョージ』のサウンド・トラック・アルバムから。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/were-going-to-be-friends/1469577723?i=1469577830&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "We're Going To Be Friends",
+      "apple_music_artist_name": "Jack Johnson",
+      "apple_music_album_name": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George"
     },
     {
       "episode_date": "2016.01.10",
@@ -11670,11 +11670,11 @@ window.TWM_DATA = {
       "artist": "スピッツ",
       "raw_title": "田舎の生活 / スピッツ",
       "notes": "ヴォーカルの草野マサムネを中心とした4人組バンド、スピッツが1992年にリリースしたコンセプト・ミニ・アルバム『オーロラになれなかった人のために』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/jp/album/%E7%94%B0%E8%88%8E%E3%81%AE%E7%94%9F%E6%B4%BB/1443136777?i=1443136780&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "田舎の生活",
+      "apple_music_artist_name": "スピッツ",
+      "apple_music_album_name": "オーロラになれなかった人のために - EP"
     },
     {
       "episode_date": "2016.01.10",
@@ -11700,11 +11700,11 @@ window.TWM_DATA = {
       "artist": "Blur",
       "raw_title": "Tender / Blur",
       "notes": "ヴォーカルのデーモン・アルバーンを中心としたイギリスの4人組バンド、ブラー。アルバム・デビューは1991年で、この曲は1999年リリースのアルバム『13』のオープニング・トラック。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/tender/731972294?i=731972323&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Tender",
+      "apple_music_artist_name": "Blur",
+      "apple_music_album_name": "13 (Special Edition)"
     },
     {
       "episode_date": "2016.01.10",
@@ -11715,11 +11715,11 @@ window.TWM_DATA = {
       "artist": "Mum",
       "raw_title": "Green Grass Of Tunnel / Mum",
       "notes": "アイスランドの首都レイキャビック出身のエレクトロニカ系バンド、ムーム。この曲は2002年リリースのセカンド・アルバム『Finally We Are No One』に収録されています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/green-grass-of-tunnel/1101137881?i=1101138381&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Green Grass of Tunnel",
+      "apple_music_artist_name": "Mum",
+      "apple_music_album_name": "Late Night Tales: Belle and Sebastian"
     },
     {
       "episode_date": "2016.01.10",
@@ -11745,11 +11745,11 @@ window.TWM_DATA = {
       "artist": "PRINCE & The Revolution",
       "raw_title": "Pop Life / PRINCE & The Revolution",
       "notes": "「殿下」こと、プリンス＆ザ・レボリューション名義による1985年のアルバム『Around The World In A Day』収録曲。本作はプリンス自身が設立したレーベル「ペイズリー・パーク」からリリースされた記念すべき発作品でもあります。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pop-life/1544292005?i=1544292236&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Pop Life",
+      "apple_music_artist_name": "Prince & The Revolution",
+      "apple_music_album_name": "Around The World In A Day"
     },
     {
       "episode_date": "2016.01.17",
@@ -11760,11 +11760,11 @@ window.TWM_DATA = {
       "artist": "James Morrison",
       "raw_title": "You Give Me Something / James Morrison",
       "notes": "英ラグビー出身の男性シンガー・ソングライター、ジェイムス・モリソンが2006年にリリースしたデビュー曲で、当時、日本のFMラジオ局でもオンエアされました。なお、この曲を含むアルバム『Undiscovered』は本国UKチャートでNO.1を記録しています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/you-give-me-something/1440790231?i=1440790238&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "You Give Me Something",
+      "apple_music_artist_name": "James Morrison",
+      "apple_music_album_name": "Undiscovered"
     },
     {
       "episode_date": "2016.01.17",
@@ -11775,11 +11775,11 @@ window.TWM_DATA = {
       "artist": "Delegation",
       "raw_title": "Oh Honey / Delegation",
       "notes": "イギリス出身の黒人男性ソウル・グループ、デレゲーションが1978年に放った大ヒット曲。サンプリングの元ネタとしてもお馴染みです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/oh-honey/535568793?i=535569251&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Oh Honey",
+      "apple_music_artist_name": "Delegation",
+      "apple_music_album_name": "Oh Honey - Single"
     },
     {
       "episode_date": "2016.01.17",
@@ -11790,11 +11790,11 @@ window.TWM_DATA = {
       "artist": "Afterlife & Cathy Battistessa",
       "raw_title": "Speck Of Gold / Afterlife & Cathy Battistessa",
       "notes": "イギリス出身の男性アーティスト、スティーヴ・ミラーのソロ・ユニット、アフターライフ。彼はイビザ島在住で、ジャンルはチル・アウト系。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/speck-of-gold/297388972?i=297389295&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Speck of Gold",
+      "apple_music_artist_name": "Afterlife & Cathy Battistessa",
+      "apple_music_album_name": "Speck of Gold"
     },
     {
       "episode_date": "2016.01.17",
@@ -11805,11 +11805,11 @@ window.TWM_DATA = {
       "artist": "Ego Wrappin'",
       "raw_title": "Love Scene / Ego Wrappin'",
       "notes": "女性ヴォーカリストの中納良恵と男性ギタリストの森雅樹の二人からなるバンド、エゴ・ラッピン。2010年にシングル盤のカップリングでリリースされました。なお、今年は結成20周年のアニバーサリー・イヤーです。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/love-scene/1101169930?i=1101170035&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Love Scene",
+      "apple_music_artist_name": "EGO-WRAPPIN'",
+      "apple_music_album_name": "Route 20 Hit the Road"
     },
     {
       "episode_date": "2016.01.17",
@@ -11820,11 +11820,11 @@ window.TWM_DATA = {
       "artist": "Aztec Camera",
       "raw_title": "Oblivious / Aztec Camera",
       "notes": "スコットランド出身で男性アーティスト、ヴォーカル＆ギターのロディ・フレイムを中心とした\n\nバンド、アズテック・カメラ。1983年にリリースされたファースト・アルバム『High Land, Hard Rain』から。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/oblivious/516579353?i=516579467&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Oblivious",
+      "apple_music_artist_name": "Aztec Camera",
+      "apple_music_album_name": "High Land, Hard Rain (Deluxe)"
     },
     {
       "episode_date": "2016.01.17",
@@ -11835,11 +11835,11 @@ window.TWM_DATA = {
       "artist": "The Blow Monkeys",
       "raw_title": "It Doesn't Have To Be This Way / The Blow Monkeys",
       "notes": "スコットランド出身のヴォーカル＆ギター、Dr. ロバートを中心とした4人組バンド、ブロウ・モンキーズ。1987年のアルバム『She Was Only A Grocer’s Daughter』に収録されているこの曲は本国UKの他、当時、日本のFMラジオでもオンエアされました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/it-doesnt-have-to-be-this-way/262573882?i=262574676&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "It Doesn't Have to Be This Way",
+      "apple_music_artist_name": "The Blow Monkeys",
+      "apple_music_album_name": "Atomic Lullabies: Very Best of the Blow Monkeys"
     },
     {
       "episode_date": "2016.01.17",
@@ -11850,11 +11850,11 @@ window.TWM_DATA = {
       "artist": "Culture CLub",
       "raw_title": "Time (Clock Of The Heart) / Culture CLub",
       "notes": "ユニークな個性をもった男性アーティスト、ボーイ・ジョージを中心にロンドンで結成され、1980年代にヒット曲を量産したカルチャー・クラブ。1982年リリースのデビュー・アルバム『Kissing To Be Clever』に収録されている曲です。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/time-clock-of-the-heart/714832683?i=714832723&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Time (Clock of the Heart)",
+      "apple_music_artist_name": "Culture Club",
+      "apple_music_album_name": "Greatest Hits"
     },
     {
       "episode_date": "2016.01.17",
@@ -11865,11 +11865,11 @@ window.TWM_DATA = {
       "artist": "William Orbit",
       "raw_title": "Pavane Pour Une Infante Defunte / William Orbit",
       "notes": "英ロンドン出身のアーティスト、ウィリアム・オービットが1995年にリリースしたアルバム『Pieces In A Modern Style』から、フランスの音楽家モーリス・ラヴェルが1899年に作曲したピアノ曲「亡き王女のためのパヴァーヌ」。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/pavane-pour-une-infante-defunte-album-version/83162479?i=83162427&uo=4",
+      "apple_music_confidence": 98,
+      "apple_music_track_name": "Pavane Pour Une Infante Defunte (Album Version)",
+      "apple_music_artist_name": "William Orbit",
+      "apple_music_album_name": "Pieces In A Modern Style"
     },
     {
       "episode_date": "2016.01.24",
@@ -11880,11 +11880,11 @@ window.TWM_DATA = {
       "artist": "Bee Gees",
       "raw_title": "Melody Fair / Bee Gees",
       "notes": "イギリス生まれのバリー、ロビン、モーリスのギブ３兄弟を中心としたヴォーカル・グループ、ビージーズ。1969年のアルバム『ODESSA』に収録されている曲で、1971年に映画『小さな恋のメロディ』の主題歌となって日本で大ヒットしました。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/melody-fair/1444077348?i=1444077751&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Melody Fair",
+      "apple_music_artist_name": "Bee Gees",
+      "apple_music_album_name": "Best of Bee Gees, Vol. 2"
     },
     {
       "episode_date": "2016.01.24",
@@ -11895,11 +11895,11 @@ window.TWM_DATA = {
       "artist": "Donny Hathaway",
       "raw_title": "I Know It's You / Donny Hathaway",
       "notes": "米イリノイ州シカゴ出身の黒人男性R&Bシンガー、ダニー・ハサウェイ。この曲は1973年にリリースされたアルバム『Extension Of A Man』に収録。同作はダニーが生前、最後のアルバムとなっています。",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/i-know-its-you/486399800?i=486399850&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "I Know It's You",
+      "apple_music_artist_name": "Donny Hathaway",
+      "apple_music_album_name": "Extension of a Man"
     },
     {
       "episode_date": "2016.01.24",
@@ -20085,11 +20085,11 @@ window.TWM_DATA = {
       "artist": "TOTO",
       "raw_title": "Africa / TOTO",
       "notes": "",
-      "apple_music_url": "",
-      "apple_music_confidence": 0,
-      "apple_music_track_name": "",
-      "apple_music_artist_name": "",
-      "apple_music_album_name": ""
+      "apple_music_url": "https://music.apple.com/us/album/africa/185716551?i=185717604&uo=4",
+      "apple_music_confidence": 100,
+      "apple_music_track_name": "Africa",
+      "apple_music_artist_name": "Toto",
+      "apple_music_album_name": "Toto IV"
     },
     {
       "episode_date": "2017.03.26",
@@ -84839,7 +84839,7 @@ window.TWM_DATA = {
       "JP"
     ],
     "minimum_confidence": 78,
-    "matched_track_count": 575,
-    "generated_at": "2026-06-16T06:26:46Z"
+    "matched_track_count": 609,
+    "generated_at": "2026-06-16T06:44:04Z"
   }
 };
